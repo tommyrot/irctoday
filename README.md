@@ -13,12 +13,12 @@ Software used to connect to an IRC network. To help distinguish between projects
 | Stars | Repository | Language | Homepage | Latest Commit | Platforms |
 | ----: | :--------- | :------: | :------: | :-----------: | :-------- |
 | 4,674 | [thelounge/thelounge](https://github.com/thelounge/thelounge) | JavaScript | [click](https://thelounge.chat) | 2022 |  `Browser` |
-| 2,631 | [hexchat/hexchat](https://github.com/hexchat/hexchat) | C | [click](https://hexchat.github.io) | 2022 |  `Desktop` |
+| 2,632 | [hexchat/hexchat](https://github.com/hexchat/hexchat) | C | [click](https://hexchat.github.io) | 2022 |  `Desktop` |
 | 2,459 | [irssi/irssi](https://github.com/irssi/irssi) | C | [click](https://irssi.org) | 2022 |  `Terminal` |
-| 2,400 | [weechat/weechat](https://github.com/weechat/weechat) | C | [click](https://weechat.org) | 2022 |  `Terminal` |
-| 1,778 | [Codeux-Software/Textual](https://github.com/Codeux-Software/Textual) | Objective-C | [click](https://www.codeux.com/textual/) | 2021 |  `Desktop` |
+| 2,401 | [weechat/weechat](https://github.com/weechat/weechat) | C | [click](https://weechat.org) | 2022 |  `Terminal` |
+| 1,778 | [Codeux-Software/Textual](https://github.com/Codeux-Software/Textual) | Objective-C | [click](https://www.codeux.com/textual/) | 2022 |  `Desktop` |
 | 1,463 | [psychs/limechat](https://github.com/psychs/limechat) | Objective-C | [click](http://limechat.net/mac/) | 2021 |  `Desktop` |
-| 877 | [glowing-bear/glowing-bear](https://github.com/glowing-bear/glowing-bear) | JavaScript | [click](https://www.glowing-bear.org) | 2022 |  `Browser` |
+| 876 | [glowing-bear/glowing-bear](https://github.com/glowing-bear/glowing-bear) | JavaScript | [click](https://www.glowing-bear.org) | 2022 |  `Browser` |
 | 867 | [convos-chat/convos](https://github.com/convos-chat/convos) | Perl | [click](http://convos.chat) | 2022 |  `Browser` |
 | 722 | [osa1/tiny](https://github.com/osa1/tiny) | Rust | n/a | 2022 |  `Terminal` |
 | 638 | [quassel/quassel](https://github.com/quassel/quassel) | C++ | [click](https://quassel-irc.org/) | 2022 |  `Desktop` |
@@ -53,7 +53,6 @@ Software used to connect to an IRC network. To help distinguish between projects
 | 45 | [ScrollZ/ScrollZ](https://github.com/ScrollZ/ScrollZ) | C | n/a | 2021 |  `Terminal` |
 | 36 | [KDE/konversation](https://github.com/KDE/konversation) | C++ | n/a | 2022 |  `Desktop` |
 | 33 | [communi/communi-sailfish](https://github.com/communi/communi-sailfish) | C++ | n/a | 2021 |  |
-| 26 | [TingPing/irc-client](https://github.com/TingPing/irc-client) | C | n/a | 2020 |  `Desktop` |
 | 26 | [LithApp/Lith](https://github.com/LithApp/Lith) | C++ | n/a | 2022 |  `iOS` |
 | 25 | [termoose/irccloud](https://github.com/termoose/irccloud) | Go | n/a | 2021 |  `Terminal` |
 | 22 | [nmeum/hii](https://github.com/nmeum/hii) | Go | n/a | 2021 |  `Terminal` |
@@ -70,7 +69,7 @@ IRC servers (daemons) are central points in an IRC network for clients to connec
 | 530 | [alexyoung/ircd.js](https://github.com/alexyoung/ircd.js) | JavaScript | n/a | 2021 |
 | 353 | [jrosdahl/miniircd](https://github.com/jrosdahl/miniircd) | Python | n/a | 2021 |
 | 322 | [ngircd/ngircd](https://github.com/ngircd/ngircd) | C | [click](http://ngircd.barton.de/) | 2022 |
-| 318 | [unrealircd/unrealircd](https://github.com/unrealircd/unrealircd) | C | [click](https://www.unrealircd.org) | 2022 |
+| 319 | [unrealircd/unrealircd](https://github.com/unrealircd/unrealircd) | C | [click](https://www.unrealircd.org) | 2022 |
 | 158 | [ircd-hybrid/ircd-hybrid](https://github.com/ircd-hybrid/ircd-hybrid) | C | [click](https://www.ircd-hybrid.org/) | 2022 |
 | 155 | [robustirc/robustirc](https://github.com/robustirc/robustirc) | Go | [click](https://robustirc.net/) | 2021 |
 | 140 | [solanum-ircd/solanum](https://github.com/solanum-ircd/solanum) | C | [click](https://solanum.chat/) | 2022 |
@@ -86,7 +85,7 @@ A bouncer is a piece of software that sits between a client and a server. Its pu
 
 | Stars | Repository | Language | Homepage | Latest Commit |
 | ----: | :--------- | :------: | :------: | :-----------: |
-| 1,854 | [znc/znc](https://github.com/znc/znc) | C++ | [click](https://znc.in/) | 2022 |
+| 1,855 | [znc/znc](https://github.com/znc/znc) | C++ | [click](https://znc.in/) | 2022 |
 | 82 | [emersion/soju](https://github.com/emersion/soju) | Go | [click](https://soju.im) | 2022 |
 | 24 | [freenode/jbnc](https://github.com/freenode/jbnc) | JavaScript | n/a | 2021 |
 
@@ -96,7 +95,7 @@ Automated client software that can perform tasks in a channel such as moderation
 
 | Stars | Repository | Language | Homepage | Latest Commit |
 | ----: | :--------- | :------: | :------: | :-----------: |
-| 910 | [sopel-irc/sopel](https://github.com/sopel-irc/sopel) | Python | [click](https://sopel.chat) | 2022 |
+| 909 | [sopel-irc/sopel](https://github.com/sopel-irc/sopel) | Python | [click](https://sopel.chat) | 2022 |
 | 720 | [go-chat-bot/bot](https://github.com/go-chat-bot/bot) | Go | n/a | 2022 |
 | 551 | [progval/Limnoria](https://github.com/progval/Limnoria) | Python | [click](https://docs.limnoria.net/) | 2022 |
 | 371 | [eggheads/eggdrop](https://github.com/eggheads/eggdrop) | C | n/a | 2022 |
@@ -107,7 +106,7 @@ Automated client software that can perform tasks in a channel such as moderation
 | 234 | [myano/jenni](https://github.com/myano/jenni) | Python | [click](https://sopel.chat/) | 2021 |
 | 183 | [jessamynsmith/talkbackbot](https://github.com/jessamynsmith/talkbackbot) | Python | [click](https://geekchick77.dreamwidth.org/472.html) | 2022 |
 | 181 | [Eelis/geordi](https://github.com/Eelis/geordi) | Haskell | [click](http://www.eelis.net/geordi/) | 2021 |
-| 157 | [lambdabot/lambdabot](https://github.com/lambdabot/lambdabot) | Haskell | n/a | 2021 |
+| 159 | [lambdabot/lambdabot](https://github.com/lambdabot/lambdabot) | Haskell | n/a | 2021 |
 | 124 | [whyrusleeping/hellabot](https://github.com/whyrusleeping/hellabot) | Go | n/a | 2022 |
 | 117 | [jesopo/bitbot](https://github.com/jesopo/bitbot) | Python | n/a | 2022 |
 | 90 | [JohnMaguire/Cardinal](https://github.com/JohnMaguire/Cardinal) | Python | n/a | 2022 |
