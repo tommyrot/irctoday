@@ -12,14 +12,14 @@ Software used to connect to an IRC network. To help distinguish between projects
 
 | Stars | Repository | Language | Homepage | Latest Commit | Platforms |
 | ----: | :--------- | :------: | :------: | :-----------: | :-------- |
-| 4,717 | [thelounge/thelounge](https://github.com/thelounge/thelounge) | JavaScript | [click](https://thelounge.chat) | 2022 | `Browser` |
+| 4,719 | [thelounge/thelounge](https://github.com/thelounge/thelounge) | JavaScript | [click](https://thelounge.chat) | 2022 | `Browser` |
 | 2,659 | [hexchat/hexchat](https://github.com/hexchat/hexchat) | C | [click](https://hexchat.github.io) | 2022 | `Desktop` |
-| 2,471 | [irssi/irssi](https://github.com/irssi/irssi) | C | [click](https://irssi.org) | 2022 | `Terminal` |
+| 2,472 | [irssi/irssi](https://github.com/irssi/irssi) | C | [click](https://irssi.org) | 2022 | `Terminal` |
 | 2,422 | [weechat/weechat](https://github.com/weechat/weechat) | C | [click](https://weechat.org) | 2022 | `Terminal` |
 | 1,783 | [Codeux-Software/Textual](https://github.com/Codeux-Software/Textual) | Objective-C | [click](https://www.codeux.com/textual/) | 2022 | `Desktop` |
-| 1,472 | [psychs/limechat](https://github.com/psychs/limechat) | Objective-C | [click](http://limechat.net/mac/) | 2021 | `Desktop` |
+| 1,473 | [psychs/limechat](https://github.com/psychs/limechat) | Objective-C | [click](http://limechat.net/mac/) | 2021 | `Desktop` |
 | 882 | [glowing-bear/glowing-bear](https://github.com/glowing-bear/glowing-bear) | JavaScript | [click](https://www.glowing-bear.org) | 2022 | `Browser` |
-| 877 | [convos-chat/convos](https://github.com/convos-chat/convos) | Perl | [click](http://convos.chat) | 2022 | `Browser` |
+| 878 | [convos-chat/convos](https://github.com/convos-chat/convos) | Perl | [click](http://convos.chat) | 2022 | `Browser` |
 | 742 | [osa1/tiny](https://github.com/osa1/tiny) | Rust | n/a | 2022 | `Terminal` |
 | 644 | [kiwiirc/kiwiirc](https://github.com/kiwiirc/kiwiirc) | Vue | [click](https://kiwiirc.com/) | 2022 | `Browser` |
 | 642 | [quassel/quassel](https://github.com/quassel/quassel) | C++ | [click](https://quassel-irc.org/) | 2022 | `Desktop` |
@@ -38,7 +38,7 @@ Software used to connect to an IRC network. To help distinguish between projects
 | 191 | [kvirc/KVIrc](https://github.com/kvirc/KVIrc) | C++ | [click](http://www.kvirc.net/) | 2022 | `Desktop` |
 | 161 | [colloquy/colloquy](https://github.com/colloquy/colloquy) | Objective-C | [click](http://colloquy.app) | 2021 | `Desktop` `iOS` |
 | 158 | [xchataqua/xchataqua](https://github.com/xchataqua/xchataqua) | Perl | [click](http://xchataqua.github.io/) | 2021 | `Desktop` |
-| 152 | [meebey/smuxi](https://github.com/meebey/smuxi) | C# | [click](https://smuxi.im/) | 2022 | `Desktop` |
+| 153 | [meebey/smuxi](https://github.com/meebey/smuxi) | C# | [click](https://smuxi.im/) | 2022 | `Desktop` |
 | 136 | [qwebirc/qwebirc](https://github.com/qwebirc/qwebirc) | JavaScript | [click](https://qwebirc.org/) | 2022 | `Browser` |
 | 134 | [glguy/irc-core](https://github.com/glguy/irc-core) | Haskell | n/a | 2022 | `Terminal` |
 | 127 | [LalitMaganti/HoloIRC](https://github.com/LalitMaganti/HoloIRC) | Java | n/a | 2021 | `Android` |
@@ -56,6 +56,7 @@ Software used to connect to an IRC network. To help distinguish between projects
 | 33 | [communi/communi-sailfish](https://github.com/communi/communi-sailfish) | C++ | n/a | 2022 | |
 | 31 | [LithApp/Lith](https://github.com/LithApp/Lith) | C++ | n/a | 2022 | `iOS` |
 | 27 | [termoose/irccloud](https://github.com/termoose/irccloud) | Go | n/a | 2021 | `Terminal` |
+| 26 | [HydraIRC/hydrairc](https://github.com/HydraIRC/hydrairc) | C++ | n/a | 2022 | `Desktop` |
 | 22 | [nmeum/hii](https://github.com/nmeum/hii) | Go | n/a | 2022 | `Terminal` |
 | 21 | [nutjob-laboratories/erk](https://github.com/nutjob-laboratories/erk) | Python | n/a | 2021 | `Desktop` |
 | 20 | [uhlin/swirc](https://github.com/uhlin/swirc) | C | [click](https://www.nifty-networks.net/swirc/) | 2022 | `Terminal` |
