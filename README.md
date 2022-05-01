@@ -12,12 +12,12 @@ Software used to connect to an IRC network. To help distinguish between projects
 
 | Stars | Repository | Language | Homepage | Latest Commit | Platforms |
 | ----: | :--------- | :------: | :------: | :-----------: | :-------- |
-| 4,744 | [thelounge/thelounge](https://github.com/thelounge/thelounge) | JavaScript | [click](https://thelounge.chat) | 2022 | `Browser` |
+| 4,745 | [thelounge/thelounge](https://github.com/thelounge/thelounge) | JavaScript | [click](https://thelounge.chat) | 2022 | `Browser` |
 | 2,674 | [hexchat/hexchat](https://github.com/hexchat/hexchat) | C | [click](https://hexchat.github.io) | 2022 | `Desktop` |
 | 2,481 | [irssi/irssi](https://github.com/irssi/irssi) | C | [click](https://irssi.org) | 2022 | `Terminal` |
-| 2,445 | [weechat/weechat](https://github.com/weechat/weechat) | C | [click](https://weechat.org) | 2022 | `Terminal` |
+| 2,447 | [weechat/weechat](https://github.com/weechat/weechat) | C | [click](https://weechat.org) | 2022 | `Terminal` |
 | 1,789 | [Codeux-Software/Textual](https://github.com/Codeux-Software/Textual) | Objective-C | [click](https://www.codeux.com/textual/) | 2022 | `Desktop` |
-| 1,477 | [psychs/limechat](https://github.com/psychs/limechat) | Objective-C | [click](http://limechat.net/mac/) | 2021 | `Desktop` |
+| 1,478 | [psychs/limechat](https://github.com/psychs/limechat) | Objective-C | [click](http://limechat.net/mac/) | 2021 | `Desktop` |
 | 884 | [glowing-bear/glowing-bear](https://github.com/glowing-bear/glowing-bear) | JavaScript | [click](https://www.glowing-bear.org) | 2022 | `Browser` |
 | 883 | [convos-chat/convos](https://github.com/convos-chat/convos) | Perl | [click](http://convos.chat) | 2022 | `Browser` |
 | 752 | [osa1/tiny](https://github.com/osa1/tiny) | Rust | n/a | 2022 | `Terminal` |
@@ -31,7 +31,7 @@ Software used to connect to an IRC network. To help distinguish between projects
 | 327 | [pocmo/Yaaic](https://github.com/pocmo/Yaaic) | Java | [click](http://www.yaaic.org) | 2021 | `Android` |
 | 310 | [KokoIRC/koko](https://github.com/KokoIRC/koko) | TypeScript | n/a | 2020 | `Desktop` |
 | 292 | [dylanaraps/birch](https://github.com/dylanaraps/birch) | Shell | n/a | 2021 | `Terminal` |
-| 264 | [irccloud/android](https://github.com/irccloud/android) | Java | n/a | 2022 | `Android` |
+| 265 | [irccloud/android](https://github.com/irccloud/android) | Java | n/a | 2022 | `Android` |
 | 255 | [SrainApp/srain](https://github.com/SrainApp/srain) | C | [click](https://srain.im) | 2022 | `Desktop` |
 | 255 | [irccloud/ios](https://github.com/irccloud/ios) | Objective-C | n/a | 2022 | `iOS` |
 | 232 | [irccloud/irccloud-desktop](https://github.com/irccloud/irccloud-desktop) | JavaScript | n/a | 2022 | `Desktop` |
@@ -68,10 +68,10 @@ IRC servers (daemons) are central points in an IRC network for clients to connec
 | Stars | Repository | Language | Homepage | Latest Commit |
 | ----: | :--------- | :------: | :------: | :-----------: |
 | 1,488 | [ergochat/ergo](https://github.com/ergochat/ergo) | Go | [click](https://ergo.chat/) | 2022 |
-| 964 | [inspircd/inspircd](https://github.com/inspircd/inspircd) | C++ | [click](https://www.inspircd.org) | 2022 |
+| 963 | [inspircd/inspircd](https://github.com/inspircd/inspircd) | C++ | [click](https://www.inspircd.org) | 2022 |
 | 530 | [alexyoung/ircd.js](https://github.com/alexyoung/ircd.js) | JavaScript | n/a | 2021 |
 | 360 | [jrosdahl/miniircd](https://github.com/jrosdahl/miniircd) | Python | n/a | 2022 |
-| 327 | [unrealircd/unrealircd](https://github.com/unrealircd/unrealircd) | C | [click](https://www.unrealircd.org) | 2022 |
+| 328 | [unrealircd/unrealircd](https://github.com/unrealircd/unrealircd) | C | [click](https://www.unrealircd.org) | 2022 |
 | 327 | [ngircd/ngircd](https://github.com/ngircd/ngircd) | C | [click](http://ngircd.barton.de/) | 2022 |
 | 158 | [ircd-hybrid/ircd-hybrid](https://github.com/ircd-hybrid/ircd-hybrid) | C | [click](https://www.ircd-hybrid.org/) | 2022 |
 | 156 | [robustirc/robustirc](https://github.com/robustirc/robustirc) | Go | [click](https://robustirc.net/) | 2021 |
@@ -98,13 +98,13 @@ Automated client software that can perform tasks in a channel such as moderation
 
 | Stars | Repository | Language | Homepage | Latest Commit |
 | ----: | :--------- | :------: | :------: | :-----------: |
-| 914 | [sopel-irc/sopel](https://github.com/sopel-irc/sopel) | Python | [click](https://sopel.chat) | 2022 |
-| 740 | [go-chat-bot/bot](https://github.com/go-chat-bot/bot) | Go | n/a | 2022 |
-| 558 | [progval/Limnoria](https://github.com/progval/Limnoria) | Python | [click](https://docs.limnoria.net/) | 2022 |
+| 915 | [sopel-irc/sopel](https://github.com/sopel-irc/sopel) | Python | [click](https://sopel.chat) | 2022 |
+| 741 | [go-chat-bot/bot](https://github.com/go-chat-bot/bot) | Go | n/a | 2022 |
+| 559 | [progval/Limnoria](https://github.com/progval/Limnoria) | Python | [click](https://docs.limnoria.net/) | 2022 |
 | 384 | [eggheads/eggdrop](https://github.com/eggheads/eggdrop) | C | n/a | 2022 |
 | 330 | [yetibot/yetibot](https://github.com/yetibot/yetibot) | Clojure | [click](https://yetibot.com) | 2022 |
 | 308 | [nandub/hubot-irc](https://github.com/nandub/hubot-irc) | CoffeeScript | n/a | 2021 |
-| 267 | [ArchiveTeam/ArchiveBot](https://github.com/ArchiveTeam/ArchiveBot) | Python | [click](http://www.archiveteam.org/index.php?title=ArchiveBot) | 2022 |
+| 268 | [ArchiveTeam/ArchiveBot](https://github.com/ArchiveTeam/ArchiveBot) | Python | [click](http://www.archiveteam.org/index.php?title=ArchiveBot) | 2022 |
 | 241 | [rmmh/skybot](https://github.com/rmmh/skybot) | Python | [click](https://github.com/rmmh/skybot/wiki) | 2022 |
 | 233 | [myano/jenni](https://github.com/myano/jenni) | Python | [click](https://sopel.chat/) | 2021 |
 | 183 | [jessamynsmith/talkbackbot](https://github.com/jessamynsmith/talkbackbot) | Python | [click](https://geekchick77.dreamwidth.org/472.html) | 2022 |
@@ -149,7 +149,7 @@ Miscellaneous software and resources of interest.
 | 655 | [davisonio/awesome-irc](https://github.com/davisonio/awesome-irc) | n/a | n/a | 2021 | A curated list of awesome IRC resources.... |
 | 545 | [bitlbee/bitlbee](https://github.com/bitlbee/bitlbee) | C | [click](https://www.bitlbee.org/) | 2022 | An IRC to other chat networks gateway :bee:... |
 | 233 | [whitequark/irclogger](https://github.com/whitequark/irclogger) | Ruby | [click](http://irclog.whitequark.org/) | 2022 | Simple and good-looking IRC log viewer. Logger is included. No strings are attached.... |
-| 147 | [ircdocs/modern-irc](https://github.com/ircdocs/modern-irc) | Sass | [click](http://modern.ircdocs.horse/) | 2022 | A useful overview and reference to the IRC client protocol as it is implemented today.... |
+| 148 | [ircdocs/modern-irc](https://github.com/ircdocs/modern-irc) | Sass | [click](http://modern.ircdocs.horse/) | 2022 | A useful overview and reference to the IRC client protocol as it is implemented today.... |
 | 102 | [irccloud/irccat](https://github.com/irccloud/irccat) | Go | n/a | 2022 | cat to IRC... |
 | 85 | [tommyrot/superseriousstats](https://github.com/tommyrot/superseriousstats) | PHP | [click](https://sss.dutnie.nl) | 2022 | superseriousstats is a fast and efficient program to create statistics out of various types of IRC chat logs... |
 | 75 | [mgedmin/irclog2html](https://github.com/mgedmin/irclog2html) | Python | [click](http://mg.pov.lt/irclog2html/) | 2022 | Convert IRC logs to HTML... |
