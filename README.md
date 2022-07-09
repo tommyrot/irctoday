@@ -12,22 +12,22 @@ Software used to connect to an IRC network. To help distinguish between projects
 
 | Stars | Repository | Language | Homepage | Latest Commit | Platforms |
 | ----: | :--------- | :------: | :------: | :-----------: | :-------- |
-| 4,795 | [thelounge/thelounge](https://github.com/thelounge/thelounge) | TypeScript | [click](https://thelounge.chat) | 2022 | `Browser` |
-| 2,702 | [hexchat/hexchat](https://github.com/hexchat/hexchat) | C | [click](https://hexchat.github.io) | 2022 | `Desktop` |
-| 2,517 | [irssi/irssi](https://github.com/irssi/irssi) | C | [click](https://irssi.org) | 2022 | `Terminal` |
+| 4,796 | [thelounge/thelounge](https://github.com/thelounge/thelounge) | TypeScript | [click](https://thelounge.chat) | 2022 | `Browser` |
+| 2,703 | [hexchat/hexchat](https://github.com/hexchat/hexchat) | C | [click](https://hexchat.github.io) | 2022 | `Desktop` |
+| 2,518 | [irssi/irssi](https://github.com/irssi/irssi) | C | [click](https://irssi.org) | 2022 | `Terminal` |
 | 2,498 | [weechat/weechat](https://github.com/weechat/weechat) | C | [click](https://weechat.org) | 2022 | `Terminal` |
-| 1,792 | [Codeux-Software/Textual](https://github.com/Codeux-Software/Textual) | Objective-C | [click](https://www.codeux.com/textual/) | 2022 | `Desktop` |
+| 1,793 | [Codeux-Software/Textual](https://github.com/Codeux-Software/Textual) | Objective-C | [click](https://www.codeux.com/textual/) | 2022 | `Desktop` |
 | 1,480 | [psychs/limechat](https://github.com/psychs/limechat) | Objective-C | [click](http://limechat.net/mac/) | 2021 | `Desktop` |
 | 892 | [convos-chat/convos](https://github.com/convos-chat/convos) | Perl | [click](http://convos.chat) | 2022 | `Browser` |
 | 888 | [glowing-bear/glowing-bear](https://github.com/glowing-bear/glowing-bear) | JavaScript | [click](https://www.glowing-bear.org) | 2022 | `Browser` |
-| 770 | [osa1/tiny](https://github.com/osa1/tiny) | Rust | n/a | 2022 | `Terminal` |
+| 769 | [osa1/tiny](https://github.com/osa1/tiny) | Rust | n/a | 2022 | `Terminal` |
 | 665 | [kiwiirc/kiwiirc](https://github.com/kiwiirc/kiwiirc) | Vue | [click](https://kiwiirc.com/) | 2022 | `Browser` |
 | 650 | [quassel/quassel](https://github.com/quassel/quassel) | C++ | [click](https://quassel-irc.org/) | 2022 | `Desktop` |
 | 633 | [khlieng/dispatch](https://github.com/khlieng/dispatch) | Go | [click](https://dispatch.khlieng.com) | 2022 | `Browser` |
 | 488 | [mcpcpc/kirc](https://github.com/mcpcpc/kirc) | C | [click](http://kirc.io) | 2022 | `Terminal` |
 | 431 | [MCMrARM/revolution-irc](https://github.com/MCMrARM/revolution-irc) | Java | n/a | 2022 | `Android` |
 | 394 | [flackr/circ](https://github.com/flackr/circ) | JavaScript | n/a | 2022 | `Browser` |
-| 363 | [emacs-circe/circe](https://github.com/emacs-circe/circe) | Emacs Lisp | n/a | 2022 | |
+| 362 | [emacs-circe/circe](https://github.com/emacs-circe/circe) | Emacs Lisp | n/a | 2022 | |
 | 329 | [pocmo/Yaaic](https://github.com/pocmo/Yaaic) | Java | [click](http://www.yaaic.org) | 2021 | `Android` |
 | 310 | [KokoIRC/koko](https://github.com/KokoIRC/koko) | TypeScript | n/a | 2020 | `Desktop` |
 | 290 | [dylanaraps/birch](https://github.com/dylanaraps/birch) | Shell | n/a | 2021 | `Terminal` |
@@ -41,8 +41,8 @@ Software used to connect to an IRC network. To help distinguish between projects
 | 151 | [meebey/smuxi](https://github.com/meebey/smuxi) | C# | [click](https://smuxi.im/) | 2022 | `Desktop` |
 | 139 | [qwebirc/qwebirc](https://github.com/qwebirc/qwebirc) | JavaScript | [click](https://qwebirc.org/) | 2022 | `Browser` |
 | 136 | [glguy/irc-core](https://github.com/glguy/irc-core) | Haskell | n/a | 2022 | `Terminal` |
+| 128 | [rcr/rirc](https://github.com/rcr/rirc) | C | [click](https://rcr.io/rirc/) | 2022 | `Terminal` |
 | 127 | [LalitMaganti/HoloIRC](https://github.com/LalitMaganti/HoloIRC) | Java | n/a | 2021 | `Android` |
-| 127 | [rcr/rirc](https://github.com/rcr/rirc) | C | [click](https://rcr.io/rirc/) | 2022 | `Terminal` |
 | 123 | [brandly/Lax](https://github.com/brandly/Lax) | JavaScript | n/a | 2022 | `Desktop` |
 | 74 | [aaronNGi/jj](https://github.com/aaronNGi/jj) | Awk | n/a | 2022 | `Terminal` |
 | 69 | [icechat/IceChat](https://github.com/icechat/IceChat) | C# | n/a | 2022 | `Desktop` |
@@ -67,7 +67,7 @@ IRC servers (daemons) are central points in an IRC network for clients to connec
 
 | Stars | Repository | Language | Homepage | Latest Commit |
 | ----: | :--------- | :------: | :------: | :-----------: |
-| 1,745 | [ergochat/ergo](https://github.com/ergochat/ergo) | Go | [click](https://ergo.chat/) | 2022 |
+| 1,749 | [ergochat/ergo](https://github.com/ergochat/ergo) | Go | [click](https://ergo.chat/) | 2022 |
 | 973 | [inspircd/inspircd](https://github.com/inspircd/inspircd) | C++ | [click](https://www.inspircd.org) | 2022 |
 | 528 | [alexyoung/ircd.js](https://github.com/alexyoung/ircd.js) | JavaScript | n/a | 2021 |
 | 362 | [jrosdahl/miniircd](https://github.com/jrosdahl/miniircd) | Python | n/a | 2022 |
@@ -145,7 +145,7 @@ Miscellaneous software and resources of interest.
 | Stars | Repository | Language | Homepage | Latest Commit | Description |
 | ----: | :--------- | :------: | :------: | :-----------: | :---------- |
 | 729 | [ircv3/ircv3-specifications](https://github.com/ircv3/ircv3-specifications) | n/a | [click](http://ircv3.net/) | 2022 | IRCv3 specifications | Roadmap: https://git.io/IRCv3-Roadmap | Code of conduct: http://ircv3.net/conduct.html... |
-| 668 | [davisonio/awesome-irc](https://github.com/davisonio/awesome-irc) | n/a | n/a | 2021 | A curated list of awesome IRC resources.... |
+| 669 | [davisonio/awesome-irc](https://github.com/davisonio/awesome-irc) | n/a | n/a | 2021 | A curated list of awesome IRC resources.... |
 | 548 | [bitlbee/bitlbee](https://github.com/bitlbee/bitlbee) | C | [click](https://www.bitlbee.org/) | 2022 | An IRC to other chat networks gateway :bee:... |
 | 234 | [whitequark/irclogger](https://github.com/whitequark/irclogger) | Ruby | [click](http://irclog.whitequark.org/) | 2022 | Simple and good-looking IRC log viewer. Logger is included. No strings are attached.... |
 | 150 | [ircdocs/modern-irc](https://github.com/ircdocs/modern-irc) | Sass | [click](http://modern.ircdocs.horse/) | 2022 | A useful overview and reference to the IRC client protocol as it is implemented today.... |
