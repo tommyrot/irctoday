@@ -13,15 +13,15 @@ Software used to connect to an IRC network. To help distinguish between projects
 | Stars | Repository | Language | Homepage | Latest Commit | Platforms |
 | ----: | :--------- | :------: | :------: | :-----------: | :-------- |
 | 4,853 | [thelounge/thelounge](https://github.com/thelounge/thelounge) | TypeScript | [click](https://thelounge.chat) | 2022 | `Browser` |
-| 2,748 | [hexchat/hexchat](https://github.com/hexchat/hexchat) | C | [click](https://hexchat.github.io) | 2022 | `Desktop` |
-| 2,549 | [irssi/irssi](https://github.com/irssi/irssi) | C | [click](https://irssi.org) | 2022 | `Terminal` |
+| 2,749 | [hexchat/hexchat](https://github.com/hexchat/hexchat) | C | [click](https://hexchat.github.io) | 2022 | `Desktop` |
+| 2,550 | [irssi/irssi](https://github.com/irssi/irssi) | C | [click](https://irssi.org) | 2022 | `Terminal` |
 | 2,544 | [weechat/weechat](https://github.com/weechat/weechat) | C | [click](https://weechat.org) | 2022 | `Terminal` |
 | 1,799 | [Codeux-Software/Textual](https://github.com/Codeux-Software/Textual) | Objective-C | [click](https://www.codeux.com/textual/) | 2022 | `Desktop` |
-| 1,494 | [psychs/limechat](https://github.com/psychs/limechat) | Objective-C | [click](http://limechat.net/mac/) | 2021 | `Desktop` |
+| 1,495 | [psychs/limechat](https://github.com/psychs/limechat) | Objective-C | [click](http://limechat.net/mac/) | 2021 | `Desktop` |
 | 907 | [convos-chat/convos](https://github.com/convos-chat/convos) | Perl | [click](http://convos.chat) | 2022 | `Browser` |
 | 888 | [glowing-bear/glowing-bear](https://github.com/glowing-bear/glowing-bear) | JavaScript | [click](https://www.glowing-bear.org) | 2022 | `Browser` |
-| 784 | [osa1/tiny](https://github.com/osa1/tiny) | Rust | n/a | 2022 | `Terminal` |
-| 681 | [kiwiirc/kiwiirc](https://github.com/kiwiirc/kiwiirc) | Vue | [click](https://kiwiirc.com/) | 2022 | `Browser` |
+| 783 | [osa1/tiny](https://github.com/osa1/tiny) | Rust | n/a | 2022 | `Terminal` |
+| 682 | [kiwiirc/kiwiirc](https://github.com/kiwiirc/kiwiirc) | Vue | [click](https://kiwiirc.com/) | 2022 | `Browser` |
 | 664 | [quassel/quassel](https://github.com/quassel/quassel) | C++ | [click](https://quassel-irc.org/) | 2022 | `Desktop` |
 | 636 | [khlieng/dispatch](https://github.com/khlieng/dispatch) | Go | [click](https://dispatch.khlieng.com) | 2022 | `Browser` |
 | 496 | [mcpcpc/kirc](https://github.com/mcpcpc/kirc) | C | [click](http://kirc.io) | 2022 | `Terminal` |
@@ -68,8 +68,8 @@ IRC servers (daemons) are central points in an IRC network for clients to connec
 | ----: | :--------- | :------: | :------: | :-----------: |
 | 1,821 | [ergochat/ergo](https://github.com/ergochat/ergo) | Go | [click](https://ergo.chat/) | 2022 |
 | 1,000 | [inspircd/inspircd](https://github.com/inspircd/inspircd) | C++ | [click](https://www.inspircd.org) | 2022 |
-| 528 | [alexyoung/ircd.js](https://github.com/alexyoung/ircd.js) | JavaScript | n/a | 2021 |
-| 371 | [jrosdahl/miniircd](https://github.com/jrosdahl/miniircd) | Python | n/a | 2022 |
+| 529 | [alexyoung/ircd.js](https://github.com/alexyoung/ircd.js) | JavaScript | n/a | 2021 |
+| 372 | [jrosdahl/miniircd](https://github.com/jrosdahl/miniircd) | Python | n/a | 2022 |
 | 345 | [ngircd/ngircd](https://github.com/ngircd/ngircd) | C | [click](http://ngircd.barton.de/) | 2022 |
 | 343 | [unrealircd/unrealircd](https://github.com/unrealircd/unrealircd) | C | [click](https://www.unrealircd.org) | 2022 |
 | 165 | [ircd-hybrid/ircd-hybrid](https://github.com/ircd-hybrid/ircd-hybrid) | C | [click](https://www.ircd-hybrid.org/) | 2022 |
@@ -89,6 +89,7 @@ A bouncer is a piece of software that sits between a client and a server. Its pu
 | ----: | :--------- | :------: | :------: | :-----------: |
 | 1,896 | [znc/znc](https://github.com/znc/znc) | C++ | [click](https://znc.in/) | 2022 |
 | 100 | [emersion/soju](https://github.com/emersion/soju) | Go | [click](https://soju.im) | 2022 |
+| 45 | [gunnarbeutner/shroudbnc](https://github.com/gunnarbeutner/shroudbnc) | Inno Setup | n/a | 2022 |
 | 26 | [freenode/jbnc](https://github.com/freenode/jbnc) | JavaScript | n/a | 2022 |
 
 ## Bots
@@ -103,7 +104,7 @@ Automated client software that can perform tasks in a channel such as moderation
 | 400 | [eggheads/eggdrop](https://github.com/eggheads/eggdrop) | C | n/a | 2022 |
 | 330 | [yetibot/yetibot](https://github.com/yetibot/yetibot) | Clojure | [click](https://yetibot.com) | 2022 |
 | 307 | [nandub/hubot-irc](https://github.com/nandub/hubot-irc) | CoffeeScript | n/a | 2021 |
-| 283 | [ArchiveTeam/ArchiveBot](https://github.com/ArchiveTeam/ArchiveBot) | Python | [click](http://www.archiveteam.org/index.php?title=ArchiveBot) | 2022 |
+| 284 | [ArchiveTeam/ArchiveBot](https://github.com/ArchiveTeam/ArchiveBot) | Python | [click](http://www.archiveteam.org/index.php?title=ArchiveBot) | 2022 |
 | 242 | [rmmh/skybot](https://github.com/rmmh/skybot) | Python | [click](https://github.com/rmmh/skybot/wiki) | 2022 |
 | 233 | [myano/jenni](https://github.com/myano/jenni) | Python | [click](https://sopel.chat/) | 2021 |
 | 183 | [Eelis/geordi](https://github.com/Eelis/geordi) | Haskell | [click](http://www.eelis.net/geordi/) | 2022 |
@@ -144,7 +145,7 @@ Miscellaneous software and resources of interest.
 | Stars | Repository | Language | Homepage | Latest Commit | Description |
 | ----: | :--------- | :------: | :------: | :-----------: | :---------- |
 | 734 | [ircv3/ircv3-specifications](https://github.com/ircv3/ircv3-specifications) | n/a | [click](http://ircv3.net/) | 2022 | IRCv3 specifications | Roadmap: https://git.io/IRCv3-Roadmap | Code of conduct: http://ircv3.net/conduct.html... |
-| 683 | [davisonio/awesome-irc](https://github.com/davisonio/awesome-irc) | n/a | n/a | 2022 | A curated list of awesome IRC resources.... |
+| 684 | [davisonio/awesome-irc](https://github.com/davisonio/awesome-irc) | n/a | n/a | 2022 | A curated list of awesome IRC resources.... |
 | 551 | [bitlbee/bitlbee](https://github.com/bitlbee/bitlbee) | C | [click](https://www.bitlbee.org/) | 2022 | An IRC to other chat networks gateway :bee:... |
 | 238 | [whitequark/irclogger](https://github.com/whitequark/irclogger) | Ruby | [click](http://irclog.whitequark.org/) | 2022 | Simple and good-looking IRC log viewer. Logger is included. No strings are attached.... |
 | 153 | [ircdocs/modern-irc](https://github.com/ircdocs/modern-irc) | Sass | [click](http://modern.ircdocs.horse/) | 2022 | A useful overview and reference to the IRC client protocol as it is implemented today.... |
