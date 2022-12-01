@@ -20,14 +20,14 @@ Software used to connect to an IRC network. To help distinguish between projects
 | 1,499 | [psychs/limechat](https://github.com/psychs/limechat) | Objective-C | [click](http://limechat.net/mac/) | 2021 | `Desktop` |
 | 917 | [convos-chat/convos](https://github.com/convos-chat/convos) | Perl | [click](http://convos.chat) | 2022 | `Browser` |
 | 892 | [glowing-bear/glowing-bear](https://github.com/glowing-bear/glowing-bear) | JavaScript | [click](https://www.glowing-bear.org) | 2022 | `Browser` |
-| 805 | [osa1/tiny](https://github.com/osa1/tiny) | Rust | n/a | 2022 | `Terminal` |
-| 703 | [kiwiirc/kiwiirc](https://github.com/kiwiirc/kiwiirc) | Vue | [click](https://kiwiirc.com/) | 2022 | `Browser` |
+| 806 | [osa1/tiny](https://github.com/osa1/tiny) | Rust | n/a | 2022 | `Terminal` |
+| 704 | [kiwiirc/kiwiirc](https://github.com/kiwiirc/kiwiirc) | Vue | [click](https://kiwiirc.com/) | 2022 | `Browser` |
 | 669 | [quassel/quassel](https://github.com/quassel/quassel) | C++ | [click](https://quassel-irc.org/) | 2022 | `Desktop` |
 | 639 | [khlieng/dispatch](https://github.com/khlieng/dispatch) | Go | [click](https://dispatch.khlieng.com) | 2022 | `Browser` |
 | 497 | [mcpcpc/kirc](https://github.com/mcpcpc/kirc) | C | [click](http://kirc.io) | 2022 | `Terminal` |
 | 452 | [MCMrARM/revolution-irc](https://github.com/MCMrARM/revolution-irc) | Java | n/a | 2022 | `Android` |
 | 395 | [flackr/circ](https://github.com/flackr/circ) | JavaScript | n/a | 2022 | `Browser` |
-| 368 | [emacs-circe/circe](https://github.com/emacs-circe/circe) | Emacs Lisp | n/a | 2022 | |
+| 369 | [emacs-circe/circe](https://github.com/emacs-circe/circe) | Emacs Lisp | n/a | 2022 | |
 | 331 | [pocmo/Yaaic](https://github.com/pocmo/Yaaic) | Java | [click](http://www.yaaic.org) | 2021 | `Android` |
 | 293 | [dylanaraps/birch](https://github.com/dylanaraps/birch) | Shell | n/a | 2021 | `Terminal` |
 | 272 | [SrainApp/srain](https://github.com/SrainApp/srain) | C | [click](https://srain.silverrainz.me) | 2022 | `Desktop` |
@@ -76,7 +76,7 @@ IRC servers (daemons) are central points in an IRC network for clients to connec
 | 164 | [ircd-hybrid/ircd-hybrid](https://github.com/ircd-hybrid/ircd-hybrid) | C | [click](https://www.ircd-hybrid.org/) | 2022 |
 | 157 | [robustirc/robustirc](https://github.com/robustirc/robustirc) | Go | [click](https://robustirc.net/) | 2022 |
 | 49 | [DALnet/bahamut](https://github.com/DALnet/bahamut) | C | [click](http://www.dal.net/?page=Bahamut) | 2022 |
-| 36 | [UndernetIRC/ircu2](https://github.com/UndernetIRC/ircu2) | C | n/a | 2022 |
+| 37 | [UndernetIRC/ircu2](https://github.com/UndernetIRC/ircu2) | C | n/a | 2022 |
 | 27 | [avan-pra/ft_irc](https://github.com/avan-pra/ft_irc) | C++ | [click](https://ircgod.com) | 2021 |
 | 23 | [ldilley/rubircd](https://github.com/ldilley/rubircd) | Ruby | [click](http://www.dilley.me/rubircd) | 2022 |
 | 21 | [danopia/php-ircd](https://github.com/danopia/php-ircd) | PHP | n/a | 2021 |
@@ -100,7 +100,7 @@ Automated client software that can perform tasks in a channel such as moderation
 | ----: | :--------- | :------: | :------: | :-----------: |
 | 922 | [sopel-irc/sopel](https://github.com/sopel-irc/sopel) | Python | [click](https://sopel.chat) | 2022 |
 | 766 | [go-chat-bot/bot](https://github.com/go-chat-bot/bot) | Go | n/a | 2022 |
-| 573 | [progval/Limnoria](https://github.com/progval/Limnoria) | Python | [click](https://docs.limnoria.net/) | 2022 |
+| 574 | [progval/Limnoria](https://github.com/progval/Limnoria) | Python | [click](https://docs.limnoria.net/) | 2022 |
 | 410 | [eggheads/eggdrop](https://github.com/eggheads/eggdrop) | C | n/a | 2022 |
 | 331 | [yetibot/yetibot](https://github.com/yetibot/yetibot) | Clojure | [click](https://yetibot.com) | 2022 |
 | 306 | [nandub/hubot-irc](https://github.com/nandub/hubot-irc) | CoffeeScript | n/a | 2021 |
@@ -137,7 +137,7 @@ Automated client software that can perform tasks in a channel such as moderation
 | 26 | [funsocietyirc/MrNodeBot](https://github.com/funsocietyirc/MrNodeBot) | JavaScript | n/a | 2022 |
 | 25 | [EnergyMech/energymech](https://github.com/EnergyMech/energymech) | C | [click](http://www.energymech.net) | 2021 |
 | 25 | [nuxeh/url-bot-rs](https://github.com/nuxeh/url-bot-rs) | Rust | n/a | 2022 |
-| 23 | [tlikonen/cl-eval-bot](https://github.com/tlikonen/cl-eval-bot) | Common Lisp | n/a | 2021 |
+| 24 | [tlikonen/cl-eval-bot](https://github.com/tlikonen/cl-eval-bot) | Common Lisp | n/a | 2021 |
 
 ## Other
 
