@@ -12,11 +12,11 @@ Software used to connect to an IRC network. To help distinguish between projects
 
 | Stars | Repository | Language | Homepage | Latest Commit | Platforms |
 | ----: | :--------- | :------: | :------: | :-----------: | :-------- |
-| 4,906 | [thelounge/thelounge](https://github.com/thelounge/thelounge) | TypeScript | [click](https://thelounge.chat) | 2022 | `Browser` |
-| 2,785 | [hexchat/hexchat](https://github.com/hexchat/hexchat) | C | [click](https://hexchat.github.io) | 2022 | `Desktop` |
+| 4,907 | [thelounge/thelounge](https://github.com/thelounge/thelounge) | TypeScript | [click](https://thelounge.chat) | 2022 | `Browser` |
+| 2,784 | [hexchat/hexchat](https://github.com/hexchat/hexchat) | C | [click](https://hexchat.github.io) | 2022 | `Desktop` |
 | 2,589 | [irssi/irssi](https://github.com/irssi/irssi) | C | [click](https://irssi.org) | 2022 | `Terminal` |
 | 2,587 | [weechat/weechat](https://github.com/weechat/weechat) | C | [click](https://weechat.org) | 2022 | `Terminal` |
-| 1,808 | [Codeux-Software/Textual](https://github.com/Codeux-Software/Textual) | Objective-C | [click](https://www.codeux.com/textual/) | 2022 | `Desktop` |
+| 1,809 | [Codeux-Software/Textual](https://github.com/Codeux-Software/Textual) | Objective-C | [click](https://www.codeux.com/textual/) | 2022 | `Desktop` |
 | 1,498 | [psychs/limechat](https://github.com/psychs/limechat) | Objective-C | [click](http://limechat.net/mac/) | 2021 | `Desktop` |
 | 920 | [convos-chat/convos](https://github.com/convos-chat/convos) | Perl | [click](http://convos.chat) | 2022 | `Browser` |
 | 895 | [glowing-bear/glowing-bear](https://github.com/glowing-bear/glowing-bear) | JavaScript | [click](https://www.glowing-bear.org) | 2022 | `Browser` |
@@ -25,7 +25,7 @@ Software used to connect to an IRC network. To help distinguish between projects
 | 670 | [quassel/quassel](https://github.com/quassel/quassel) | C++ | [click](https://quassel-irc.org/) | 2022 | `Desktop` |
 | 639 | [khlieng/dispatch](https://github.com/khlieng/dispatch) | Go | [click](https://dispatch.khlieng.com) | 2022 | `Browser` |
 | 496 | [mcpcpc/kirc](https://github.com/mcpcpc/kirc) | C | [click](http://kirc.io) | 2022 | `Terminal` |
-| 453 | [MCMrARM/revolution-irc](https://github.com/MCMrARM/revolution-irc) | Java | n/a | 2022 | `Android` |
+| 454 | [MCMrARM/revolution-irc](https://github.com/MCMrARM/revolution-irc) | Java | n/a | 2022 | `Android` |
 | 396 | [flackr/circ](https://github.com/flackr/circ) | JavaScript | n/a | 2022 | `Browser` |
 | 370 | [emacs-circe/circe](https://github.com/emacs-circe/circe) | Emacs Lisp | n/a | 2022 | |
 | 331 | [pocmo/Yaaic](https://github.com/pocmo/Yaaic) | Java | [click](http://www.yaaic.org) | 2021 | `Android` |
@@ -33,7 +33,7 @@ Software used to connect to an IRC network. To help distinguish between projects
 | 272 | [SrainApp/srain](https://github.com/SrainApp/srain) | C | [click](https://srain.silverrainz.me) | 2022 | `Desktop` |
 | 271 | [irccloud/android](https://github.com/irccloud/android) | Java | n/a | 2022 | `Android` |
 | 258 | [irccloud/ios](https://github.com/irccloud/ios) | Objective-C | n/a | 2022 | `iOS` |
-| 232 | [irccloud/irccloud-desktop](https://github.com/irccloud/irccloud-desktop) | JavaScript | n/a | 2022 | `Desktop` |
+| 231 | [irccloud/irccloud-desktop](https://github.com/irccloud/irccloud-desktop) | JavaScript | n/a | 2022 | `Desktop` |
 | 200 | [kvirc/KVIrc](https://github.com/kvirc/KVIrc) | C++ | [click](http://www.kvirc.net/) | 2022 | `Desktop` |
 | 174 | [colloquy/colloquy](https://github.com/colloquy/colloquy) | Objective-C | [click](http://colloquy.app) | 2021 | `Desktop` `iOS` |
 | 159 | [xchataqua/xchataqua](https://github.com/xchataqua/xchataqua) | Perl | [click](http://xchataqua.github.io/) | 2021 | `Desktop` |
@@ -47,7 +47,7 @@ Software used to connect to an IRC network. To help distinguish between projects
 | 71 | [icechat/IceChat](https://github.com/icechat/IceChat) | C# | n/a | 2022 | `Desktop` |
 | 61 | [justjanne/QuasselDroid-ng](https://github.com/justjanne/QuasselDroid-ng) | Kotlin | [click](https://quasseldroid.info/) | 2022 | `Android` |
 | 56 | [communi/communi-desktop](https://github.com/communi/communi-desktop) | C++ | [click](https://communi.github.io/) | 2022 | `Desktop` |
-| 54 | [rymate1234/WinIRC](https://github.com/rymate1234/WinIRC) | C# | [click](http://rymate1234.github.io/WinIRC/) | 2022 | `Desktop` |
+| 55 | [rymate1234/WinIRC](https://github.com/rymate1234/WinIRC) | C# | [click](http://rymate1234.github.io/WinIRC/) | 2022 | `Desktop` |
 | 49 | [avojak/iridium](https://github.com/avojak/iridium) | Vala | n/a | 2022 | `Desktop` |
 | 46 | [ScrollZ/ScrollZ](https://github.com/ScrollZ/ScrollZ) | C | n/a | 2022 | `Terminal` |
 | 45 | [bretternst/Floe](https://github.com/bretternst/Floe) | C# | [click](http://floe.codeplex.com) | 2022 | `Desktop` |
@@ -66,7 +66,7 @@ IRC servers (daemons) are central points in an IRC network for clients to connec
 
 | Stars | Repository | Language | Homepage | Latest Commit |
 | ----: | :--------- | :------: | :------: | :-----------: |
-| 1,878 | [ergochat/ergo](https://github.com/ergochat/ergo) | Go | [click](https://ergo.chat/) | 2022 |
+| 1,879 | [ergochat/ergo](https://github.com/ergochat/ergo) | Go | [click](https://ergo.chat/) | 2022 |
 | 1,016 | [inspircd/inspircd](https://github.com/inspircd/inspircd) | C++ | [click](https://www.inspircd.org) | 2022 |
 | 527 | [alexyoung/ircd.js](https://github.com/alexyoung/ircd.js) | JavaScript | n/a | 2021 |
 | 380 | [jrosdahl/miniircd](https://github.com/jrosdahl/miniircd) | Python | n/a | 2022 |
@@ -98,14 +98,14 @@ Automated client software that can perform tasks in a channel such as moderation
 
 | Stars | Repository | Language | Homepage | Latest Commit |
 | ----: | :--------- | :------: | :------: | :-----------: |
-| 922 | [sopel-irc/sopel](https://github.com/sopel-irc/sopel) | Python | [click](https://sopel.chat) | 2022 |
+| 923 | [sopel-irc/sopel](https://github.com/sopel-irc/sopel) | Python | [click](https://sopel.chat) | 2022 |
 | 769 | [go-chat-bot/bot](https://github.com/go-chat-bot/bot) | Go | n/a | 2022 |
 | 575 | [progval/Limnoria](https://github.com/progval/Limnoria) | Python | [click](https://docs.limnoria.net/) | 2022 |
 | 417 | [eggheads/eggdrop](https://github.com/eggheads/eggdrop) | C | n/a | 2022 |
 | 332 | [yetibot/yetibot](https://github.com/yetibot/yetibot) | Clojure | [click](https://yetibot.com) | 2022 |
 | 306 | [nandub/hubot-irc](https://github.com/nandub/hubot-irc) | CoffeeScript | n/a | 2021 |
 | 291 | [ArchiveTeam/ArchiveBot](https://github.com/ArchiveTeam/ArchiveBot) | Python | [click](http://www.archiveteam.org/index.php?title=ArchiveBot) | 2022 |
-| 243 | [rmmh/skybot](https://github.com/rmmh/skybot) | Python | [click](https://github.com/rmmh/skybot/wiki) | 2022 |
+| 242 | [rmmh/skybot](https://github.com/rmmh/skybot) | Python | [click](https://github.com/rmmh/skybot/wiki) | 2022 |
 | 232 | [myano/jenni](https://github.com/myano/jenni) | Python | [click](https://sopel.chat/) | 2021 |
 | 184 | [Eelis/geordi](https://github.com/Eelis/geordi) | Haskell | [click](http://www.eelis.net/geordi/) | 2022 |
 | 182 | [jessamynsmith/talkbackbot](https://github.com/jessamynsmith/talkbackbot) | Python | [click](https://geekchick77.dreamwidth.org/472.html) | 2022 |
@@ -132,8 +132,8 @@ Automated client software that can perform tasks in a channel such as moderation
 | 33 | [isaacs/node-eliza](https://github.com/isaacs/node-eliza) | JavaScript | n/a | 2022 |
 | 29 | [molo1134/qrmbot](https://github.com/molo1134/qrmbot) | Perl | n/a | 2022 |
 | 29 | [woodruffw/yossarian-bot](https://github.com/woodruffw/yossarian-bot) | Ruby | n/a | 2022 |
+| 27 | [gkbrk/JustIRC](https://github.com/gkbrk/JustIRC) | Python | n/a | 2021 |
 | 26 | [gehaxelt/python-rss2irc](https://github.com/gehaxelt/python-rss2irc) | Python | n/a | 2022 |
-| 26 | [gkbrk/JustIRC](https://github.com/gkbrk/JustIRC) | Python | n/a | 2021 |
 | 26 | [funsocietyirc/MrNodeBot](https://github.com/funsocietyirc/MrNodeBot) | JavaScript | n/a | 2022 |
 | 25 | [EnergyMech/energymech](https://github.com/EnergyMech/energymech) | C | [click](http://www.energymech.net) | 2021 |
 | 25 | [nuxeh/url-bot-rs](https://github.com/nuxeh/url-bot-rs) | Rust | n/a | 2022 |
