@@ -13,9 +13,9 @@ Software used to connect to an IRC network. To help distinguish between projects
 | Stars | Repository | Language | Homepage | Latest Commit | Platforms |
 | ----: | :--------- | :------: | :------: | :-----------: | :-------- |
 | 4,975 | [thelounge/thelounge](https://github.com/thelounge/thelounge) | TypeScript | [click](https://thelounge.chat) | 2023 | `Browser` |
-| 2,829 | [hexchat/hexchat](https://github.com/hexchat/hexchat) | C | [click](https://hexchat.github.io) | 2023 | `Desktop` |
+| 2,830 | [hexchat/hexchat](https://github.com/hexchat/hexchat) | C | [click](https://hexchat.github.io) | 2023 | `Desktop` |
 | 2,626 | [weechat/weechat](https://github.com/weechat/weechat) | C | [click](https://weechat.org) | 2023 | `Terminal` |
-| 2,622 | [irssi/irssi](https://github.com/irssi/irssi) | C | [click](https://irssi.org) | 2023 | `Terminal` |
+| 2,623 | [irssi/irssi](https://github.com/irssi/irssi) | C | [click](https://irssi.org) | 2023 | `Terminal` |
 | 1,816 | [Codeux-Software/Textual](https://github.com/Codeux-Software/Textual) | Objective-C | [click](https://www.codeux.com/textual/) | 2022 | `Desktop` |
 | 1,509 | [psychs/limechat](https://github.com/psychs/limechat) | Objective-C | [click](http://limechat.net/mac/) | 2021 | `Desktop` |
 | 925 | [convos-chat/convos](https://github.com/convos-chat/convos) | Perl | [click](http://convos.chat) | 2023 | `Browser` |
@@ -41,7 +41,7 @@ Software used to connect to an IRC network. To help distinguish between projects
 | 143 | [glguy/irc-core](https://github.com/glguy/irc-core) | Haskell | n/a | 2023 | `Terminal` |
 | 133 | [rcr/rirc](https://github.com/rcr/rirc) | C | [click](https://rcr.io/rirc/) | 2022 | `Terminal` |
 | 131 | [brandly/Lax](https://github.com/brandly/Lax) | JavaScript | n/a | 2023 | `Desktop` |
-| 129 | [LalitMaganti/HoloIRC](https://github.com/LalitMaganti/HoloIRC) | Java | n/a | 2021 | `Android` |
+| 130 | [LalitMaganti/HoloIRC](https://github.com/LalitMaganti/HoloIRC) | Java | n/a | 2021 | `Android` |
 | 84 | [aaronNGi/jj](https://github.com/aaronNGi/jj) | Awk | n/a | 2022 | `Terminal` |
 | 77 | [icechat/IceChat](https://github.com/icechat/IceChat) | C# | n/a | 2022 | `Desktop` |
 | 63 | [justjanne/QuasselDroid-ng](https://github.com/justjanne/QuasselDroid-ng) | Kotlin | [click](https://quasseldroid.info/) | 2022 | `Android` |
@@ -49,7 +49,7 @@ Software used to connect to an IRC network. To help distinguish between projects
 | 55 | [rymate1234/WinIRC](https://github.com/rymate1234/WinIRC) | C# | [click](http://rymate1234.github.io/WinIRC/) | 2022 | `Desktop` |
 | 49 | [avojak/iridium](https://github.com/avojak/iridium) | Vala | n/a | 2022 | `Desktop` |
 | 46 | [ScrollZ/ScrollZ](https://github.com/ScrollZ/ScrollZ) | C | n/a | 2022 | `Terminal` |
-| 45 | [LithApp/Lith](https://github.com/LithApp/Lith) | C++ | n/a | 2023 | `iOS` |
+| 46 | [LithApp/Lith](https://github.com/LithApp/Lith) | C++ | n/a | 2023 | `iOS` |
 | 45 | [bretternst/Floe](https://github.com/bretternst/Floe) | C# | [click](http://floe.codeplex.com) | 2022 | `Desktop` |
 | 40 | [KDE/konversation](https://github.com/KDE/konversation) | C++ | [click](https://invent.kde.org/network/konversation) | 2023 | `Desktop` |
 | 34 | [communi/communi-sailfish](https://github.com/communi/communi-sailfish) | C++ | n/a | 2022 | |
@@ -71,7 +71,7 @@ IRC servers (daemons) are central points in an IRC network for clients to connec
 | 386 | [jrosdahl/miniircd](https://github.com/jrosdahl/miniircd) | Python | n/a | 2022 |
 | 355 | [ngircd/ngircd](https://github.com/ngircd/ngircd) | C | [click](http://ngircd.barton.de/) | 2023 |
 | 354 | [unrealircd/unrealircd](https://github.com/unrealircd/unrealircd) | C | [click](https://www.unrealircd.org) | 2023 |
-| 179 | [solanum-ircd/solanum](https://github.com/solanum-ircd/solanum) | C | [click](https://solanum.chat/) | 2023 |
+| 178 | [solanum-ircd/solanum](https://github.com/solanum-ircd/solanum) | C | [click](https://solanum.chat/) | 2023 |
 | 163 | [ircd-hybrid/ircd-hybrid](https://github.com/ircd-hybrid/ircd-hybrid) | C | [click](https://www.ircd-hybrid.org/) | 2022 |
 | 158 | [robustirc/robustirc](https://github.com/robustirc/robustirc) | Go | [click](https://robustirc.net/) | 2023 |
 | 49 | [DALnet/bahamut](https://github.com/DALnet/bahamut) | C | [click](http://www.dal.net/?page=Bahamut) | 2023 |
@@ -97,8 +97,8 @@ Automated client software that can perform tasks in a channel such as moderation
 
 | Stars | Repository | Language | Homepage | Latest Commit |
 | ----: | :--------- | :------: | :------: | :-----------: |
-| 924 | [sopel-irc/sopel](https://github.com/sopel-irc/sopel) | Python | [click](https://sopel.chat) | 2023 |
-| 774 | [go-chat-bot/bot](https://github.com/go-chat-bot/bot) | Go | n/a | 2023 |
+| 925 | [sopel-irc/sopel](https://github.com/sopel-irc/sopel) | Python | [click](https://sopel.chat) | 2023 |
+| 773 | [go-chat-bot/bot](https://github.com/go-chat-bot/bot) | Go | n/a | 2023 |
 | 587 | [progval/Limnoria](https://github.com/progval/Limnoria) | Python | [click](https://docs.limnoria.net/) | 2023 |
 | 431 | [eggheads/eggdrop](https://github.com/eggheads/eggdrop) | C | n/a | 2023 |
 | 334 | [yetibot/yetibot](https://github.com/yetibot/yetibot) | Clojure | [click](https://yetibot.com) | 2023 |
