@@ -12,10 +12,10 @@ Software used to connect to an IRC network. To help distinguish between projects
 
 | Stars | Repository | Language | Homepage | Latest Commit | Platforms |
 | ----: | :--------- | :------: | :------: | :-----------: | :-------- |
-| 4,982 | [thelounge/thelounge](https://github.com/thelounge/thelounge) | TypeScript | [click](https://thelounge.chat) | 2023 | `Browser` |
+| 4,984 | [thelounge/thelounge](https://github.com/thelounge/thelounge) | TypeScript | [click](https://thelounge.chat) | 2023 | `Browser` |
 | 2,833 | [hexchat/hexchat](https://github.com/hexchat/hexchat) | C | [click](https://hexchat.github.io) | 2023 | `Desktop` |
-| 2,627 | [irssi/irssi](https://github.com/irssi/irssi) | C | [click](https://irssi.org) | 2023 | `Terminal` |
-| 2,626 | [weechat/weechat](https://github.com/weechat/weechat) | C | [click](https://weechat.org) | 2023 | `Terminal` |
+| 2,628 | [irssi/irssi](https://github.com/irssi/irssi) | C | [click](https://irssi.org) | 2023 | `Terminal` |
+| 2,625 | [weechat/weechat](https://github.com/weechat/weechat) | C | [click](https://weechat.org) | 2023 | `Terminal` |
 | 1,817 | [Codeux-Software/Textual](https://github.com/Codeux-Software/Textual) | Objective-C | [click](https://www.codeux.com/textual/) | 2022 | `Desktop` |
 | 1,510 | [psychs/limechat](https://github.com/psychs/limechat) | Objective-C | [click](http://limechat.net/mac/) | 2021 | `Desktop` |
 | 925 | [convos-chat/convos](https://github.com/convos-chat/convos) | Perl | [click](http://convos.chat) | 2023 | `Browser` |
@@ -24,7 +24,7 @@ Software used to connect to an IRC network. To help distinguish between projects
 | 730 | [kiwiirc/kiwiirc](https://github.com/kiwiirc/kiwiirc) | Vue | [click](https://kiwiirc.com/) | 2023 | `Browser` |
 | 684 | [quassel/quassel](https://github.com/quassel/quassel) | C++ | [click](https://quassel-irc.org/) | 2023 | `Desktop` |
 | 642 | [khlieng/dispatch](https://github.com/khlieng/dispatch) | Go | [click](https://dispatch.khlieng.com) | 2023 | `Browser` |
-| 508 | [mcpcpc/kirc](https://github.com/mcpcpc/kirc) | C | [click](http://kirc.io) | 2023 | `Terminal` |
+| 509 | [mcpcpc/kirc](https://github.com/mcpcpc/kirc) | C | [click](http://kirc.io) | 2023 | `Terminal` |
 | 462 | [MCMrARM/revolution-irc](https://github.com/MCMrARM/revolution-irc) | Java | n/a | 2023 | `Android` |
 | 397 | [flackr/circ](https://github.com/flackr/circ) | JavaScript | n/a | 2022 | `Browser` |
 | 372 | [emacs-circe/circe](https://github.com/emacs-circe/circe) | Emacs Lisp | n/a | 2022 | |
@@ -47,11 +47,11 @@ Software used to connect to an IRC network. To help distinguish between projects
 | 63 | [justjanne/QuasselDroid-ng](https://github.com/justjanne/QuasselDroid-ng) | Kotlin | [click](https://quasseldroid.info/) | 2022 | `Android` |
 | 57 | [communi/communi-desktop](https://github.com/communi/communi-desktop) | C++ | [click](https://communi.github.io/) | 2022 | `Desktop` |
 | 55 | [rymate1234/WinIRC](https://github.com/rymate1234/WinIRC) | C# | [click](http://rymate1234.github.io/WinIRC/) | 2022 | `Desktop` |
-| 49 | [avojak/iridium](https://github.com/avojak/iridium) | Vala | n/a | 2022 | `Desktop` |
+| 49 | [avojak/iridium](https://github.com/avojak/iridium) | Vala | n/a | 2023 | `Desktop` |
 | 46 | [ScrollZ/ScrollZ](https://github.com/ScrollZ/ScrollZ) | C | n/a | 2022 | `Terminal` |
 | 46 | [LithApp/Lith](https://github.com/LithApp/Lith) | C++ | n/a | 2023 | `iOS` |
 | 45 | [bretternst/Floe](https://github.com/bretternst/Floe) | C# | [click](http://floe.codeplex.com) | 2022 | `Desktop` |
-| 40 | [KDE/konversation](https://github.com/KDE/konversation) | C++ | [click](https://invent.kde.org/network/konversation) | 2023 | `Desktop` |
+| 39 | [KDE/konversation](https://github.com/KDE/konversation) | C++ | [click](https://invent.kde.org/network/konversation) | 2023 | `Desktop` |
 | 34 | [communi/communi-sailfish](https://github.com/communi/communi-sailfish) | C++ | n/a | 2022 | |
 | 31 | [termoose/irccloud](https://github.com/termoose/irccloud) | Go | n/a | 2021 | `Terminal` |
 | 30 | [HydraIRC/hydrairc](https://github.com/HydraIRC/hydrairc) | C++ | n/a | 2022 | `Desktop` |
@@ -149,7 +149,7 @@ Miscellaneous software and resources of interest.
 | 719 | [davisonio/awesome-irc](https://github.com/davisonio/awesome-irc) | n/a | n/a | 2022 | A curated list of awesome IRC resources.... |
 | 564 | [bitlbee/bitlbee](https://github.com/bitlbee/bitlbee) | C | [click](https://www.bitlbee.org/) | 2023 | An IRC to other chat networks gateway :bee:... |
 | 242 | [whitequark/irclogger](https://github.com/whitequark/irclogger) | Ruby | [click](http://irclog.whitequark.org/) | 2023 | Simple and good-looking IRC log viewer. Logger is included. No strings are attached.... |
-| 158 | [ircdocs/modern-irc](https://github.com/ircdocs/modern-irc) | Sass | [click](http://modern.ircdocs.horse/) | 2023 | A useful overview and reference to the IRC client protocol as it is implemented today.... |
+| 159 | [ircdocs/modern-irc](https://github.com/ircdocs/modern-irc) | Sass | [click](http://modern.ircdocs.horse/) | 2023 | A useful overview and reference to the IRC client protocol as it is implemented today.... |
 | 102 | [irccloud/irccat](https://github.com/irccloud/irccat) | Go | n/a | 2022 | cat to IRC... |
 | 89 | [tommyrot/superseriousstats](https://github.com/tommyrot/superseriousstats) | PHP | [click](https://sss.dutnie.nl) | 2023 | superseriousstats is a fast and efficient program to create statistics out of various types of IRC chat logs... |
 | 79 | [mgedmin/irclog2html](https://github.com/mgedmin/irclog2html) | Python | [click](http://mg.pov.lt/irclog2html/) | 2022 | Convert IRC logs to HTML... |
