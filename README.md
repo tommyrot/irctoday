@@ -159,7 +159,6 @@ Miscellaneous software and resources of interest.
 | 51 | [ircart/ircart](https://github.com/ircart/ircart) | Shell | n/a | 2023 | massive organized collection of irc art... |
 | 37 | [progval/matrix2051](https://github.com/progval/matrix2051) | Elixir | n/a | 2023 | A Matrix gateway for IRC: connect to Matrix from your favorite IRC client.... |
 | 28 | [birdneststream/asciibird](https://github.com/birdneststream/asciibird) | Vue | [click](https://asciibird.birdnest.live/) | 2023 | ASCII Creation... |
-| 22 | [ircart/resources](https://github.com/ircart/resources) | n/a | n/a | 2023 | everything you need to know about irc art... |
 | 21 | [homeworkprod/syslog2irc](https://github.com/homeworkprod/syslog2irc) | Python | [click](http://homework.nwsnet.de/releases/c474/#syslog2irc) | 2021 | Forward syslog messages to IRC... |
 
 ---
