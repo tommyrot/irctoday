@@ -14,6 +14,5 @@ jobs:
           nickname: githubspam
           password: ntKtw0cIHV7y
           message: |
-            Repo ${{ github.repository }} got hax0red! ${{ github.event.compare }}
+            4this just in ${{ github.event.compare }}
             "${{ join(github.event.commits.*.message) }}"
-
