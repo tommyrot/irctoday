@@ -14,5 +14,5 @@ jobs:
           nickname: githubspam
           password: ntKtw0cIHV7y
           message: |
-            4this just in ${{ github.event.compare }}
+            this just in ${{ github.event.compare }}
             "${{ join(github.event.commits.*.message) }}"
