@@ -15,4 +15,3 @@ jobs:
           password: ntKtw0cIHV7y
           message: |
             this just in ${{ github.event.compare }}
-            "${{ join(github.event.commits.*.message) }}"
