@@ -12,11 +12,11 @@ Software used to connect to an IRC network. To help distinguish between projects
 
 | Stars | Repository | Language | Homepage | Latest Commit | Platforms |
 | ----: | :--------- | :------: | :------: | :-----------: | :-------- |
-| 5,147 | [thelounge/thelounge](https://github.com/thelounge/thelounge) | TypeScript | [click](https://thelounge.chat) | 2023 | `Browser` |
-| 2,917 | [hexchat/hexchat](https://github.com/hexchat/hexchat) | C | [click](https://hexchat.github.io) | 2023 | `Desktop` |
+| 5,148 | [thelounge/thelounge](https://github.com/thelounge/thelounge) | TypeScript | [click](https://thelounge.chat) | 2023 | `Browser` |
+| 2,918 | [hexchat/hexchat](https://github.com/hexchat/hexchat) | C | [click](https://hexchat.github.io) | 2023 | `Desktop` |
 | 2,706 | [weechat/weechat](https://github.com/weechat/weechat) | C | [click](https://weechat.org) | 2023 | `Terminal` |
 | 2,700 | [irssi/irssi](https://github.com/irssi/irssi) | C | [click](https://irssi.org) | 2023 | `Terminal` |
-| 1,835 | [Codeux-Software/Textual](https://github.com/Codeux-Software/Textual) | Objective-C | [click](https://www.codeux.com/textual/) | 2023 | `Desktop` |
+| 1,836 | [Codeux-Software/Textual](https://github.com/Codeux-Software/Textual) | Objective-C | [click](https://www.codeux.com/textual/) | 2023 | `Desktop` |
 | 1,535 | [psychs/limechat](https://github.com/psychs/limechat) | Objective-C | [click](http://limechat.net/mac/) | 2021 | `Desktop` |
 | 949 | [convos-chat/convos](https://github.com/convos-chat/convos) | Perl | [click](http://convos.chat) | 2023 | `Browser` |
 | 910 | [glowing-bear/glowing-bear](https://github.com/glowing-bear/glowing-bear) | JavaScript | [click](https://www.glowing-bear.org) | 2023 | `Browser` |
@@ -154,7 +154,7 @@ Miscellaneous software and resources of interest.
 | 58 | [ircart/ircart](https://github.com/ircart/ircart) | Shell | n/a | 2023 | massive organized collection of irc art... |
 | 53 | [grawity/irc-docs](https://github.com/grawity/irc-docs) | HTML | n/a | 2022 | Collected IRC protocol documentation... |
 | 47 | [bagder/irchistory](https://github.com/bagder/irchistory) | n/a | [click](https://daniel.haxx.se/irchistory.html) | 2023 | The history of IRC... |
-| 42 | [progval/matrix2051](https://github.com/progval/matrix2051) | Elixir | n/a | 2023 | A Matrix gateway for IRC: connect to Matrix from your favorite IRC client.... |
+| 43 | [progval/matrix2051](https://github.com/progval/matrix2051) | Elixir | n/a | 2023 | A Matrix gateway for IRC: connect to Matrix from your favorite IRC client.... |
 | 29 | [birdneststream/asciibird](https://github.com/birdneststream/asciibird) | Vue | [click](https://asciibird.birdnest.live/) | 2023 | ASCII Creation... |
 | 21 | [homeworkprod/syslog2irc](https://github.com/homeworkprod/syslog2irc) | Python | [click](http://homework.nwsnet.de/releases/c474/#syslog2irc) | 2021 | Forward syslog messages to IRC... |
 
