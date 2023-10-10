@@ -12,28 +12,28 @@ Software used to connect to an IRC network. To help distinguish between projects
 
 | Stars | Repository | Language | Homepage | Latest Commit | Platforms |
 | ----: | :--------- | :------: | :------: | :-----------: | :-------- |
-| 5,175 | [thelounge/thelounge](https://github.com/thelounge/thelounge) | TypeScript | [click](https://thelounge.chat) | 2023 | `Browser` |
+| 5,176 | [thelounge/thelounge](https://github.com/thelounge/thelounge) | TypeScript | [click](https://thelounge.chat) | 2023 | `Browser` |
 | 2,926 | [hexchat/hexchat](https://github.com/hexchat/hexchat) | C | [click](https://hexchat.github.io) | 2023 | `Desktop` |
 | 2,708 | [irssi/irssi](https://github.com/irssi/irssi) | C | [click](https://irssi.org) | 2023 | `Terminal` |
 | 2,705 | [weechat/weechat](https://github.com/weechat/weechat) | C | [click](https://weechat.org) | 2023 | `Terminal` |
-| 1,843 | [Codeux-Software/Textual](https://github.com/Codeux-Software/Textual) | Objective-C | [click](https://www.codeux.com/textual/) | 2023 | `Desktop` |
-| 1,533 | [psychs/limechat](https://github.com/psychs/limechat) | Objective-C | [click](http://limechat.net/mac/) | 2021 | `Desktop` |
-| 959 | [convos-chat/convos](https://github.com/convos-chat/convos) | Perl | [click](http://convos.chat) | 2023 | `Browser` |
+| 1,842 | [Codeux-Software/Textual](https://github.com/Codeux-Software/Textual) | Objective-C | [click](https://www.codeux.com/textual/) | 2023 | `Desktop` |
+| 1,532 | [psychs/limechat](https://github.com/psychs/limechat) | Objective-C | [click](http://limechat.net/mac/) | 2021 | `Desktop` |
+| 962 | [convos-chat/convos](https://github.com/convos-chat/convos) | Perl | [click](http://convos.chat) | 2023 | `Browser` |
 | 910 | [glowing-bear/glowing-bear](https://github.com/glowing-bear/glowing-bear) | JavaScript | [click](https://www.glowing-bear.org) | 2023 | `Browser` |
 | 898 | [osa1/tiny](https://github.com/osa1/tiny) | Rust | n/a | 2023 | `Terminal` |
 | 779 | [kiwiirc/kiwiirc](https://github.com/kiwiirc/kiwiirc) | Vue | [click](https://kiwiirc.com/) | 2023 | `Browser` |
 | 700 | [quassel/quassel](https://github.com/quassel/quassel) | C++ | [click](https://quassel-irc.org/) | 2023 | `Desktop` |
-| 650 | [squidowl/halloy](https://github.com/squidowl/halloy) | Rust | n/a | 2023 | `Desktop` |
+| 653 | [squidowl/halloy](https://github.com/squidowl/halloy) | Rust | n/a | 2023 | `Desktop` |
 | 639 | [khlieng/dispatch](https://github.com/khlieng/dispatch) | Go | [click](https://dispatch.khlieng.com) | 2023 | `Browser` |
 | 508 | [mcpcpc/kirc](https://github.com/mcpcpc/kirc) | C | [click](https://mcpcpc.github.io/kirc/) | 2023 | `Terminal` |
-| 492 | [MCMrARM/revolution-irc](https://github.com/MCMrARM/revolution-irc) | Java | n/a | 2023 | `Android` |
+| 493 | [MCMrARM/revolution-irc](https://github.com/MCMrARM/revolution-irc) | Java | n/a | 2023 | `Android` |
 | 393 | [flackr/circ](https://github.com/flackr/circ) | JavaScript | n/a | 2022 | `Browser` |
 | 382 | [emacs-circe/circe](https://github.com/emacs-circe/circe) | Emacs Lisp | n/a | 2023 | |
 | 327 | [pocmo/Yaaic](https://github.com/pocmo/Yaaic) | Java | [click](http://www.yaaic.org) | 2021 | `Android` |
 | 285 | [SrainApp/srain](https://github.com/SrainApp/srain) | C | [click](https://srain.silverrainz.me) | 2023 | `Desktop` |
 | 278 | [irccloud/android](https://github.com/irccloud/android) | Java | n/a | 2023 | `Android` |
 | 270 | [irccloud/ios](https://github.com/irccloud/ios) | Objective-C | n/a | 2023 | `iOS` |
-| 214 | [kvirc/KVIrc](https://github.com/kvirc/KVIrc) | C++ | [click](http://www.kvirc.net/) | 2023 | `Desktop` |
+| 215 | [kvirc/KVIrc](https://github.com/kvirc/KVIrc) | C++ | [click](http://www.kvirc.net/) | 2023 | `Desktop` |
 | 164 | [meebey/smuxi](https://github.com/meebey/smuxi) | C# | [click](https://smuxi.im/) | 2023 | `Desktop` |
 | 160 | [xchataqua/xchataqua](https://github.com/xchataqua/xchataqua) | Perl | [click](http://xchataqua.github.io/) | 2023 | `Desktop` |
 | 157 | [qwebirc/qwebirc](https://github.com/qwebirc/qwebirc) | JavaScript | [click](https://qwebirc.org/) | 2023 | `Browser` |
@@ -46,7 +46,7 @@ Software used to connect to an IRC network. To help distinguish between projects
 | 64 | [justjanne/QuasselDroid-ng](https://github.com/justjanne/QuasselDroid-ng) | Kotlin | [click](https://quasseldroid.info/) | 2023 | `Android` |
 | 55 | [communi/communi-desktop](https://github.com/communi/communi-desktop) | C++ | [click](https://communi.github.io/) | 2022 | `Desktop` |
 | 55 | [rymate1234/WinIRC](https://github.com/rymate1234/WinIRC) | C# | [click](http://rymate1234.github.io/WinIRC/) | 2022 | `Desktop` |
-| 54 | [avojak/iridium](https://github.com/avojak/iridium) | Vala | n/a | 2023 | `Desktop` |
+| 53 | [avojak/iridium](https://github.com/avojak/iridium) | Vala | n/a | 2023 | `Desktop` |
 | 53 | [dgl/cgiirc](https://github.com/dgl/cgiirc) | Perl | [click](http://cgiirc.org) | 2023 | `Browser` |
 | 46 | [ScrollZ/ScrollZ](https://github.com/ScrollZ/ScrollZ) | C | n/a | 2022 | `Terminal` |
 | 46 | [bretternst/Floe](https://github.com/bretternst/Floe) | C# | [click](http://floe.codeplex.com) | 2022 | `Desktop` |
@@ -66,8 +66,8 @@ IRC servers (daemons) are central points in an IRC network for clients to connec
 | Stars | Repository | Language | Homepage | Latest Commit |
 | ----: | :--------- | :------: | :------: | :-----------: |
 | 1,994 | [ergochat/ergo](https://github.com/ergochat/ergo) | Go | [click](https://ergo.chat/) | 2023 |
-| 1,082 | [inspircd/inspircd](https://github.com/inspircd/inspircd) | C++ | [click](https://www.inspircd.org) | 2023 |
-| 402 | [jrosdahl/miniircd](https://github.com/jrosdahl/miniircd) | Python | n/a | 2023 |
+| 1,083 | [inspircd/inspircd](https://github.com/inspircd/inspircd) | C++ | [click](https://www.inspircd.org) | 2023 |
+| 403 | [jrosdahl/miniircd](https://github.com/jrosdahl/miniircd) | Python | n/a | 2023 |
 | 388 | [unrealircd/unrealircd](https://github.com/unrealircd/unrealircd) | C | [click](https://www.unrealircd.org) | 2023 |
 | 383 | [ngircd/ngircd](https://github.com/ngircd/ngircd) | C | [click](http://ngircd.barton.de/) | 2023 |
 | 196 | [solanum-ircd/solanum](https://github.com/solanum-ircd/solanum) | C | [click](https://solanum.chat/) | 2023 |
@@ -96,23 +96,23 @@ Automated client software that can perform tasks in a channel such as moderation
 
 | Stars | Repository | Language | Homepage | Latest Commit |
 | ----: | :--------- | :------: | :------: | :-----------: |
-| 940 | [sopel-irc/sopel](https://github.com/sopel-irc/sopel) | Python | [click](https://sopel.chat) | 2023 |
+| 941 | [sopel-irc/sopel](https://github.com/sopel-irc/sopel) | Python | [click](https://sopel.chat) | 2023 |
 | 800 | [go-chat-bot/bot](https://github.com/go-chat-bot/bot) | Go | n/a | 2023 |
-| 599 | [progval/Limnoria](https://github.com/progval/Limnoria) | Python | [click](https://docs.limnoria.net/) | 2023 |
-| 455 | [eggheads/eggdrop](https://github.com/eggheads/eggdrop) | C | n/a | 2023 |
+| 600 | [progval/Limnoria](https://github.com/progval/Limnoria) | Python | [click](https://docs.limnoria.net/) | 2023 |
+| 456 | [eggheads/eggdrop](https://github.com/eggheads/eggdrop) | C | n/a | 2023 |
 | 342 | [yetibot/yetibot](https://github.com/yetibot/yetibot) | Clojure | [click](https://yetibot.com) | 2023 |
-| 326 | [ArchiveTeam/ArchiveBot](https://github.com/ArchiveTeam/ArchiveBot) | Python | [click](http://www.archiveteam.org/index.php?title=ArchiveBot) | 2023 |
+| 325 | [ArchiveTeam/ArchiveBot](https://github.com/ArchiveTeam/ArchiveBot) | Python | [click](http://www.archiveteam.org/index.php?title=ArchiveBot) | 2023 |
 | 300 | [nandub/hubot-irc](https://github.com/nandub/hubot-irc) | CoffeeScript | n/a | 2021 |
 | 243 | [rmmh/skybot](https://github.com/rmmh/skybot) | Python | [click](https://github.com/rmmh/skybot/wiki) | 2023 |
 | 184 | [Eelis/geordi](https://github.com/Eelis/geordi) | Haskell | [click](http://www.eelis.net/geordi/) | 2022 |
 | 182 | [jessamynsmith/talkbackbot](https://github.com/jessamynsmith/talkbackbot) | Python | [click](https://geekchick77.dreamwidth.org/472.html) | 2022 |
 | 176 | [kyleterry/tenyks](https://github.com/kyleterry/tenyks) | Go | [click](http://tenyks.io) | 2023 |
 | 161 | [lambdabot/lambdabot](https://github.com/lambdabot/lambdabot) | Haskell | n/a | 2023 |
-| 132 | [bitbot-irc/bitbot](https://github.com/bitbot-irc/bitbot) | Python | n/a | 2023 |
+| 133 | [bitbot-irc/bitbot](https://github.com/bitbot-irc/bitbot) | Python | n/a | 2023 |
 | 132 | [whyrusleeping/hellabot](https://github.com/whyrusleeping/hellabot) | Go | n/a | 2023 |
 | 96 | [JohnMaguire/Cardinal](https://github.com/JohnMaguire/Cardinal) | Python | n/a | 2023 |
 | 81 | [gdamjan/erlang-irc-bot](https://github.com/gdamjan/erlang-irc-bot) | Erlang | [click](http://github.com/gdamjan/erlang-irc-bot/wiki) | 2022 |
-| 75 | [pyhoneybot/honeybot](https://github.com/pyhoneybot/honeybot) | Python | [click](https://pyhoneybot.github.io/honeybot-store/) | 2023 |
+| 74 | [pyhoneybot/honeybot](https://github.com/pyhoneybot/honeybot) | Python | [click](https://pyhoneybot.github.io/honeybot-store/) | 2023 |
 | 73 | [wraith/wraith](https://github.com/wraith/wraith) | C++ | [click](http://wraith.botpack.net) | 2022 |
 | 72 | [boreq/botnet](https://github.com/boreq/botnet) | Python | n/a | 2023 |
 | 71 | [baines/insobot](https://github.com/baines/insobot) | C | n/a | 2023 |
