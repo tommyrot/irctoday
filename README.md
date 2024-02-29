@@ -13,18 +13,18 @@ Software used to connect to an IRC network. To help distinguish between projects
 | Stars | Repository | Language | Homepage | Latest Commit | Platforms |
 | ----: | :--------- | :------: | :------: | :-----------: | :-------- |
 | 5,325 | [thelounge/thelounge](https://github.com/thelounge/thelounge) | TypeScript | [click](https://thelounge.chat) | 2024-02 | `Browser` |
-| 2,793 | [weechat/weechat](https://github.com/weechat/weechat) | C | [click](https://weechat.org) | 2024-02 | `Terminal` |
+| 2,794 | [weechat/weechat](https://github.com/weechat/weechat) | C | [click](https://weechat.org) | 2024-02 | `Terminal` |
 | 2,772 | [irssi/irssi](https://github.com/irssi/irssi) | C | [click](https://irssi.org) | 2024-02 | `Terminal` |
 | 1,844 | [Codeux-Software/Textual](https://github.com/Codeux-Software/Textual) | Objective-C | [click](https://www.codeux.com/textual/) | 2023-09 | `Desktop` |
 | 998 | [convos-chat/convos](https://github.com/convos-chat/convos) | Perl | [click](http://convos.chat) | 2024-01 | `Browser` |
 | 942 | [osa1/tiny](https://github.com/osa1/tiny) | Rust | n/a | 2024-02 | `Terminal` |
 | 930 | [glowing-bear/glowing-bear](https://github.com/glowing-bear/glowing-bear) | JavaScript | [click](https://www.glowing-bear.org) | 2024-02 | `Browser` |
 | 815 | [kiwiirc/kiwiirc](https://github.com/kiwiirc/kiwiirc) | Vue | [click](https://kiwiirc.com/) | 2024-01 | `Browser` |
-| 806 | [squidowl/halloy](https://github.com/squidowl/halloy) | Rust | n/a | 2024-02 | `Desktop` |
+| 808 | [squidowl/halloy](https://github.com/squidowl/halloy) | Rust | n/a | 2024-02 | `Desktop` |
 | 710 | [quassel/quassel](https://github.com/quassel/quassel) | C++ | [click](https://quassel-irc.org/) | 2023-09 | `Desktop` |
 | 522 | [MCMrARM/revolution-irc](https://github.com/MCMrARM/revolution-irc) | Java | n/a | 2023-04 | `Android` |
 | 515 | [mcpcpc/kirc](https://github.com/mcpcpc/kirc) | C | [click](https://mcpcpc.github.io/kirc/) | 2024-01 | `Terminal` |
-| 385 | [emacs-circe/circe](https://github.com/emacs-circe/circe) | Emacs Lisp | n/a | 2024-02 | |
+| 386 | [emacs-circe/circe](https://github.com/emacs-circe/circe) | Emacs Lisp | n/a | 2024-02 | |
 | 290 | [SrainApp/srain](https://github.com/SrainApp/srain) | C | [click](https://srain.silverrainz.me) | 2024-02 | `Desktop` |
 | 282 | [irccloud/android](https://github.com/irccloud/android) | Java | n/a | 2024-02 | `Android` |
 | 274 | [irccloud/ios](https://github.com/irccloud/ios) | Objective-C | n/a | 2024-02 | `iOS` |
@@ -54,7 +54,7 @@ IRC servers (daemons) are central points in an IRC network for clients to connec
 
 | Stars | Repository | Language | Homepage | Latest Commit |
 | ----: | :--------- | :------: | :------: | :-----------: |
-| 2,099 | [ergochat/ergo](https://github.com/ergochat/ergo) | Go | [click](https://ergo.chat/) | 2024-02 |
+| 2,101 | [ergochat/ergo](https://github.com/ergochat/ergo) | Go | [click](https://ergo.chat/) | 2024-02 |
 | 1,106 | [inspircd/inspircd](https://github.com/inspircd/inspircd) | C++ | [click](https://www.inspircd.org) | 2024-02 |
 | 410 | [ngircd/ngircd](https://github.com/ngircd/ngircd) | C | [click](http://ngircd.barton.de/) | 2024-02 |
 | 409 | [jrosdahl/miniircd](https://github.com/jrosdahl/miniircd) | Python | n/a | 2024-01 |
