@@ -13,23 +13,23 @@ Software used to connect to an IRC network. To help distinguish between projects
 | Stars | Repository | Language | Homepage | Latest Commit | Platforms |
 | ----: | :--------- | :------: | :------: | :-----------: | :-------- |
 | 5,391 | [thelounge/thelounge](https://github.com/thelounge/thelounge) | TypeScript | [click](https://thelounge.chat) | 2024-04 | `Browser` |
-| 2,822 | [weechat/weechat](https://github.com/weechat/weechat) | C | [click](https://weechat.org) | 2024-04 | `Terminal` |
+| 2,823 | [weechat/weechat](https://github.com/weechat/weechat) | C | [click](https://weechat.org) | 2024-04 | `Terminal` |
 | 2,801 | [irssi/irssi](https://github.com/irssi/irssi) | C | [click](https://irssi.org) | 2024-04 | `Terminal` |
-| 1,845 | [Codeux-Software/Textual](https://github.com/Codeux-Software/Textual) | Objective-C | [click](https://www.codeux.com/textual/) | 2023-09 | `Desktop` |
+| 1,844 | [Codeux-Software/Textual](https://github.com/Codeux-Software/Textual) | Objective-C | [click](https://www.codeux.com/textual/) | 2023-09 | `Desktop` |
 | 1,005 | [convos-chat/convos](https://github.com/convos-chat/convos) | Perl | [click](http://convos.chat) | 2024-03 | `Browser` |
-| 979 | [squidowl/halloy](https://github.com/squidowl/halloy) | Rust | n/a | 2024-04 | `Desktop` |
+| 982 | [squidowl/halloy](https://github.com/squidowl/halloy) | Rust | n/a | 2024-04 | `Desktop` |
 | 965 | [osa1/tiny](https://github.com/osa1/tiny) | Rust | n/a | 2024-04 | `Terminal` |
 | 936 | [glowing-bear/glowing-bear](https://github.com/glowing-bear/glowing-bear) | JavaScript | [click](https://www.glowing-bear.org) | 2024-02 | `Browser` |
 | 830 | [kiwiirc/kiwiirc](https://github.com/kiwiirc/kiwiirc) | Vue | [click](https://kiwiirc.com/) | 2024-01 | `Browser` |
-| 713 | [quassel/quassel](https://github.com/quassel/quassel) | C++ | [click](https://quassel-irc.org/) | 2023-09 | `Desktop` |
+| 714 | [quassel/quassel](https://github.com/quassel/quassel) | C++ | [click](https://quassel-irc.org/) | 2023-09 | `Desktop` |
 | 531 | [MCMrARM/revolution-irc](https://github.com/MCMrARM/revolution-irc) | Java | n/a | 2023-04 | `Android` |
-| 515 | [mcpcpc/kirc](https://github.com/mcpcpc/kirc) | C | [click](https://mcpcpc.github.io/kirc/) | 2024-01 | `Terminal` |
+| 516 | [mcpcpc/kirc](https://github.com/mcpcpc/kirc) | C | [click](https://mcpcpc.github.io/kirc/) | 2024-01 | `Terminal` |
 | 386 | [emacs-circe/circe](https://github.com/emacs-circe/circe) | Emacs Lisp | n/a | 2024-04 | |
 | 292 | [SrainApp/srain](https://github.com/SrainApp/srain) | C | [click](https://srain.silverrainz.me) | 2024-04 | `Desktop` |
 | 282 | [irccloud/android](https://github.com/irccloud/android) | Java | n/a | 2024-02 | `Android` |
 | 274 | [irccloud/ios](https://github.com/irccloud/ios) | Objective-C | n/a | 2024-03 | `iOS` |
 | 224 | [kvirc/KVIrc](https://github.com/kvirc/KVIrc) | C++ | [click](http://www.kvirc.net/) | 2024-04 | `Desktop` |
-| 189 | [codyd51/uefirc](https://github.com/codyd51/uefirc) | Rust | [click](https://axleos.com/an-irc-client-in-your-motherboard/) | 2024-04 | |
+| 192 | [codyd51/uefirc](https://github.com/codyd51/uefirc) | Rust | [click](https://axleos.com/an-irc-client-in-your-motherboard/) | 2024-04 | |
 | 169 | [meebey/smuxi](https://github.com/meebey/smuxi) | C# | [click](https://smuxi.im/) | 2024-03 | `Desktop` |
 | 165 | [qwebirc/qwebirc](https://github.com/qwebirc/qwebirc) | JavaScript | [click](https://qwebirc.org/) | 2023-08 | `Browser` |
 | 153 | [glguy/irc-core](https://github.com/glguy/irc-core) | Haskell | n/a | 2024-04 | `Terminal` |
@@ -59,11 +59,11 @@ IRC servers (daemons) are central points in an IRC network for clients to connec
 | Stars | Repository | Language | Homepage | Latest Commit |
 | ----: | :--------- | :------: | :------: | :-----------: |
 | 2,144 | [ergochat/ergo](https://github.com/ergochat/ergo) | Go | [click](https://ergo.chat/) | 2024-03 |
-| 1,122 | [inspircd/inspircd](https://github.com/inspircd/inspircd) | C++ | [click](https://www.inspircd.org) | 2024-04 |
+| 1,123 | [inspircd/inspircd](https://github.com/inspircd/inspircd) | C++ | [click](https://www.inspircd.org) | 2024-04 |
 | 420 | [ngircd/ngircd](https://github.com/ngircd/ngircd) | C | [click](http://ngircd.barton.de/) | 2024-04 |
-| 415 | [jrosdahl/miniircd](https://github.com/jrosdahl/miniircd) | Python | n/a | 2024-01 |
+| 416 | [jrosdahl/miniircd](https://github.com/jrosdahl/miniircd) | Python | n/a | 2024-01 |
 | 399 | [unrealircd/unrealircd](https://github.com/unrealircd/unrealircd) | C | [click](https://www.unrealircd.org) | 2024-04 |
-| 212 | [solanum-ircd/solanum](https://github.com/solanum-ircd/solanum) | C | [click](https://solanum.chat/) | 2024-04 |
+| 213 | [solanum-ircd/solanum](https://github.com/solanum-ircd/solanum) | C | [click](https://solanum.chat/) | 2024-04 |
 | 179 | [ircd-hybrid/ircd-hybrid](https://github.com/ircd-hybrid/ircd-hybrid) | C | [click](https://www.ircd-hybrid.org/) | 2024-04 |
 | 173 | [robustirc/robustirc](https://github.com/robustirc/robustirc) | Go | [click](https://robustirc.net/) | 2024-01 |
 | 52 | [DALnet/bahamut](https://github.com/DALnet/bahamut) | C | [click](http://www.dal.net/?page=Bahamut) | 2023-12 |
@@ -87,7 +87,7 @@ Automated client software that can perform tasks in a channel such as moderation
 
 | Stars | Repository | Language | Homepage | Latest Commit |
 | ----: | :--------- | :------: | :------: | :-----------: |
-| 950 | [sopel-irc/sopel](https://github.com/sopel-irc/sopel) | Python | [click](https://sopel.chat) | 2024-03 |
+| 950 | [sopel-irc/sopel](https://github.com/sopel-irc/sopel) | Python | [click](https://sopel.chat) | 2024-04 |
 | 612 | [progval/Limnoria](https://github.com/progval/Limnoria) | Python | [click](https://docs.limnoria.net/) | 2023-11 |
 | 479 | [eggheads/eggdrop](https://github.com/eggheads/eggdrop) | C | n/a | 2024-04 |
 | 342 | [ArchiveTeam/ArchiveBot](https://github.com/ArchiveTeam/ArchiveBot) | Python | [click](http://www.archiveteam.org/index.php?title=ArchiveBot) | 2023-12 |
@@ -122,6 +122,7 @@ Automated client software that can perform tasks in a channel such as moderation
 | 23 | [brenns10/cbot](https://github.com/brenns10/cbot) | C | n/a | 2024-04 |
 | 21 | [rj1/chatgpt-irc](https://github.com/rj1/chatgpt-irc) | Python | n/a | 2023-03 |
 | 19 | [RouxRC/gazouilleur](https://github.com/RouxRC/gazouilleur) | Python | n/a | 2022-08 |
+| 18 | [sourcebunny/nisaba](https://github.com/sourcebunny/nisaba) | Go | n/a | 2024-04 |
 | 16 | [helpmebot/helpmebot](https://github.com/helpmebot/helpmebot) | C# | [click](https://helpmebot.org.uk/) | 2024-03 |
 | 16 | [pkdindustries/soulshack](https://github.com/pkdindustries/soulshack) | Go | n/a | 2024-03 |
 
@@ -136,7 +137,7 @@ Miscellaneous software and resources of interest.
 | 586 | [bitlbee/bitlbee](https://github.com/bitlbee/bitlbee) | C | [click](https://www.bitlbee.org/) | 2023-12 | An IRC to other chat networks gateway :bee:... |
 | 265 | [whitequark/irclogger](https://github.com/whitequark/irclogger) | Ruby | [click](http://irclog.whitequark.org/) | 2023-12 | Simple and good-looking IRC log viewer. Logger is included. No strings are attached.... |
 | 189 | [ircdocs/modern-irc](https://github.com/ircdocs/modern-irc) | Sass | [click](http://modern.ircdocs.horse/) | 2024-02 | A useful overview and reference to the IRC client protocol as it is implemented today.... |
-| 109 | [irccloud/irccat](https://github.com/irccloud/irccat) | Go | n/a | 2024-04 | cat to IRC... |
+| 110 | [irccloud/irccat](https://github.com/irccloud/irccat) | Go | n/a | 2024-04 | cat to IRC... |
 | 93 | [tommyrot/superseriousstats](https://github.com/tommyrot/superseriousstats) | PHP | [click](https://sss.dutnie.nl) | 2024-04 | superseriousstats is a fast and efficient program to create statistics out of various types of IRC chat logs... |
 | 82 | [mgedmin/irclog2html](https://github.com/mgedmin/irclog2html) | Python | [click](http://mg.pov.lt/irclog2html/) | 2023-10 | Convert IRC logs to HTML... |
 | 67 | [ircart/ircart](https://github.com/ircart/ircart) | Shell | n/a | 2023-12 | massive organized collection of irc art... |
