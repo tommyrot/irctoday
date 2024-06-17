@@ -12,15 +12,15 @@ Software used to connect to an IRC network. To help distinguish between projects
 
 | Stars | Repository | Language | Homepage | Latest Commit | Platforms |
 | ----: | :--------- | :------: | :------: | :-----------: | :-------- |
-| 5,453 | [thelounge/thelounge](https://github.com/thelounge/thelounge) | TypeScript | [click](https://thelounge.chat) | 2024-05 | `Browser` |
+| 5,457 | [thelounge/thelounge](https://github.com/thelounge/thelounge) | TypeScript | [click](https://thelounge.chat) | 2024-05 | `Browser` |
 | 2,868 | [weechat/weechat](https://github.com/weechat/weechat) | C | [click](https://weechat.org) | 2024-06 | `Terminal` |
 | 2,818 | [irssi/irssi](https://github.com/irssi/irssi) | C | [click](https://irssi.org) | 2024-05 | `Terminal` |
 | 1,841 | [Codeux-Software/Textual](https://github.com/Codeux-Software/Textual) | Objective-C | [click](https://www.codeux.com/textual/) | 2024-06 | `Desktop` |
-| 1,128 | [squidowl/halloy](https://github.com/squidowl/halloy) | Rust | n/a | 2024-06 | `Desktop` |
+| 1,130 | [squidowl/halloy](https://github.com/squidowl/halloy) | Rust | n/a | 2024-06 | `Desktop` |
 | 1,013 | [convos-chat/convos](https://github.com/convos-chat/convos) | Perl | [click](http://convos.chat) | 2024-05 | `Browser` |
-| 981 | [osa1/tiny](https://github.com/osa1/tiny) | Rust | n/a | 2024-05 | `Terminal` |
+| 980 | [osa1/tiny](https://github.com/osa1/tiny) | Rust | n/a | 2024-05 | `Terminal` |
 | 941 | [glowing-bear/glowing-bear](https://github.com/glowing-bear/glowing-bear) | JavaScript | [click](https://www.glowing-bear.org) | 2024-04 | `Browser` |
-| 836 | [kiwiirc/kiwiirc](https://github.com/kiwiirc/kiwiirc) | Vue | [click](https://kiwiirc.com/) | 2024-05 | `Browser` |
+| 837 | [kiwiirc/kiwiirc](https://github.com/kiwiirc/kiwiirc) | Vue | [click](https://kiwiirc.com/) | 2024-05 | `Browser` |
 | 717 | [quassel/quassel](https://github.com/quassel/quassel) | C++ | [click](https://quassel-irc.org/) | 2024-04 | `Desktop` |
 | 535 | [MCMrARM/revolution-irc](https://github.com/MCMrARM/revolution-irc) | Java | n/a | 2023-04 | `Android` |
 | 516 | [mcpcpc/kirc](https://github.com/mcpcpc/kirc) | C | [click](https://mcpcpc.github.io/kirc/) | 2024-05 | `Terminal` |
@@ -32,7 +32,7 @@ Software used to connect to an IRC network. To help distinguish between projects
 | 230 | [kvirc/KVIrc](https://github.com/kvirc/KVIrc) | C++ | [click](http://www.kvirc.net/) | 2024-06 | `Desktop` |
 | 171 | [meebey/smuxi](https://github.com/meebey/smuxi) | C# | [click](https://smuxi.im/) | 2024-04 | `Desktop` |
 | 168 | [qwebirc/qwebirc](https://github.com/qwebirc/qwebirc) | JavaScript | [click](https://qwebirc.org/) | 2023-08 | `Browser` |
-| 152 | [glguy/irc-core](https://github.com/glguy/irc-core) | Haskell | n/a | 2024-04 | `Terminal` |
+| 153 | [glguy/irc-core](https://github.com/glguy/irc-core) | Haskell | n/a | 2024-04 | `Terminal` |
 | 136 | [rcr/rirc](https://github.com/rcr/rirc) | C | [click](https://rcr.io/rirc/) | 2023-06 | `Terminal` |
 | 83 | [icechat/IceChat](https://github.com/icechat/IceChat) | C# | n/a | 2023-07 | `Desktop` |
 | 75 | [LithApp/Lith](https://github.com/LithApp/Lith) | C++ | [click](https://lith.app) | 2024-04 | `iOS` |
@@ -56,8 +56,8 @@ IRC servers (daemons) are central points in an IRC network for clients to connec
 
 | Stars | Repository | Language | Homepage | Latest Commit |
 | ----: | :--------- | :------: | :------: | :-----------: |
-| 2,187 | [ergochat/ergo](https://github.com/ergochat/ergo) | Go | [click](https://ergo.chat/) | 2024-06 |
-| 1,138 | [inspircd/inspircd](https://github.com/inspircd/inspircd) | C++ | [click](https://www.inspircd.org) | 2024-06 |
+| 2,189 | [ergochat/ergo](https://github.com/ergochat/ergo) | Go | [click](https://ergo.chat/) | 2024-06 |
+| 1,139 | [inspircd/inspircd](https://github.com/inspircd/inspircd) | C++ | [click](https://www.inspircd.org) | 2024-06 |
 | 432 | [ngircd/ngircd](https://github.com/ngircd/ngircd) | C | [click](http://ngircd.barton.de/) | 2024-05 |
 | 416 | [jrosdahl/miniircd](https://github.com/jrosdahl/miniircd) | Python | n/a | 2024-01 |
 | 409 | [unrealircd/unrealircd](https://github.com/unrealircd/unrealircd) | C | [click](https://www.unrealircd.org) | 2024-06 |
