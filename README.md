@@ -13,10 +13,10 @@ Software used to connect to an IRC network. To help distinguish between projects
 | Stars | Repository | Language | Homepage | Latest Commit | Platforms |
 | ----: | :--------- | :------: | :------: | :-----------: | :-------- |
 | 5,465 | [thelounge/thelounge](https://github.com/thelounge/thelounge) | TypeScript | [click](https://thelounge.chat) | 2024-05 | `Browser` |
-| 2,873 | [weechat/weechat](https://github.com/weechat/weechat) | C | [click](https://weechat.org) | 2024-06 | `Terminal` |
-| 2,820 | [irssi/irssi](https://github.com/irssi/irssi) | C | [click](https://irssi.org) | 2024-05 | `Terminal` |
+| 2,874 | [weechat/weechat](https://github.com/weechat/weechat) | C | [click](https://weechat.org) | 2024-06 | `Terminal` |
+| 2,821 | [irssi/irssi](https://github.com/irssi/irssi) | C | [click](https://irssi.org) | 2024-05 | `Terminal` |
 | 1,840 | [Codeux-Software/Textual](https://github.com/Codeux-Software/Textual) | Objective-C | [click](https://www.codeux.com/textual/) | 2024-06 | `Desktop` |
-| 1,153 | [squidowl/halloy](https://github.com/squidowl/halloy) | Rust | n/a | 2024-06 | `Desktop` |
+| 1,152 | [squidowl/halloy](https://github.com/squidowl/halloy) | Rust | n/a | 2024-06 | `Desktop` |
 | 1,013 | [convos-chat/convos](https://github.com/convos-chat/convos) | Perl | [click](http://convos.chat) | 2024-05 | `Browser` |
 | 984 | [osa1/tiny](https://github.com/osa1/tiny) | Rust | n/a | 2024-05 | `Terminal` |
 | 942 | [glowing-bear/glowing-bear](https://github.com/glowing-bear/glowing-bear) | JavaScript | [click](https://www.glowing-bear.org) | 2024-04 | `Browser` |
@@ -37,7 +37,7 @@ Software used to connect to an IRC network. To help distinguish between projects
 | 83 | [icechat/IceChat](https://github.com/icechat/IceChat) | C# | n/a | 2023-07 | `Desktop` |
 | 75 | [LithApp/Lith](https://github.com/LithApp/Lith) | C++ | [click](https://lith.app) | 2024-04 | `iOS` |
 | 62 | [justjanne/QuasselDroid-ng](https://github.com/justjanne/QuasselDroid-ng) | Kotlin | [click](https://quasseldroid.info/) | 2023-09 | `Android` |
-| 56 | [communi/communi-desktop](https://github.com/communi/communi-desktop) | C++ | [click](https://communi.github.io/) | 2024-05 | `Desktop` |
+| 55 | [communi/communi-desktop](https://github.com/communi/communi-desktop) | C++ | [click](https://communi.github.io/) | 2024-05 | `Desktop` |
 | 53 | [dgl/cgiirc](https://github.com/dgl/cgiirc) | Perl | [click](http://cgiirc.org) | 2023-06 | `Browser` |
 | 46 | [KDE/konversation](https://github.com/KDE/konversation) | C++ | [click](https://invent.kde.org/network/konversation) | 2024-06 | `Desktop` |
 | 36 | [communi/communi-sailfish](https://github.com/communi/communi-sailfish) | C++ | n/a | 2024-05 | |
@@ -130,7 +130,7 @@ Miscellaneous software and resources of interest.
 | Stars | Repository | Language | Homepage | Latest Commit | Description |
 | ----: | :--------- | :------: | :------: | :-----------: | :---------- |
 | 867 | [davisonio/awesome-irc](https://github.com/davisonio/awesome-irc) | n/a | n/a | 2023-05 | A curated list of awesome IRC resources.... |
-| 773 | [ircv3/ircv3-specifications](https://github.com/ircv3/ircv3-specifications) | n/a | [click](http://ircv3.net/) | 2024-05 | IRCv3 specifications | Roadmap: https://git.io/IRCv3-Roadmap | Code of conduct: http://ircv3.net/conduct.html... |
+| 774 | [ircv3/ircv3-specifications](https://github.com/ircv3/ircv3-specifications) | n/a | [click](http://ircv3.net/) | 2024-05 | IRCv3 specifications | Roadmap: https://git.io/IRCv3-Roadmap | Code of conduct: http://ircv3.net/conduct.html... |
 | 588 | [bitlbee/bitlbee](https://github.com/bitlbee/bitlbee) | C | [click](https://www.bitlbee.org/) | 2024-05 | An IRC to other chat networks gateway :bee:... |
 | 269 | [whitequark/irclogger](https://github.com/whitequark/irclogger) | Ruby | [click](http://irclog.whitequark.org/) | 2024-05 | Simple and good-looking IRC log viewer. Logger is included. No strings are attached.... |
 | 189 | [ircdocs/modern-irc](https://github.com/ircdocs/modern-irc) | Sass | [click](http://modern.ircdocs.horse/) | 2024-04 | A useful overview and reference to the IRC client protocol as it is implemented today.... |
