@@ -12,17 +12,17 @@ Software used to connect to an IRC network. To help distinguish between projects
 
 | Stars | Repository | Language | Homepage | Latest Commit | Platforms |
 | ----: | :--------- | :------: | :------: | :-----------: | :-------- |
-| 5,528 | [thelounge/thelounge](https://github.com/thelounge/thelounge) | TypeScript | [click](https://thelounge.chat) | 2024-07 | `Browser` |
-| 2,910 | [weechat/weechat](https://github.com/weechat/weechat) | C | [click](https://weechat.org) | 2024-08 | `Terminal` |
+| 5,530 | [thelounge/thelounge](https://github.com/thelounge/thelounge) | TypeScript | [click](https://thelounge.chat) | 2024-07 | `Browser` |
+| 2,909 | [weechat/weechat](https://github.com/weechat/weechat) | C | [click](https://weechat.org) | 2024-08 | `Terminal` |
 | 2,856 | [irssi/irssi](https://github.com/irssi/irssi) | C | [click](https://irssi.org) | 2024-05 | `Terminal` |
 | 1,851 | [Codeux-Software/Textual](https://github.com/Codeux-Software/Textual) | Objective-C | [click](https://www.codeux.com/textual/) | 2024-08 | `Desktop` |
-| 1,343 | [squidowl/halloy](https://github.com/squidowl/halloy) | Rust | n/a | 2024-08 | `Desktop` |
-| 1,021 | [convos-chat/convos](https://github.com/convos-chat/convos) | Perl | [click](http://convos.chat) | 2024-08 | `Browser` |
+| 1,345 | [squidowl/halloy](https://github.com/squidowl/halloy) | Rust | n/a | 2024-08 | `Desktop` |
+| 1,022 | [convos-chat/convos](https://github.com/convos-chat/convos) | Perl | [click](http://convos.chat) | 2024-08 | `Browser` |
 | 995 | [osa1/tiny](https://github.com/osa1/tiny) | Rust | n/a | 2024-08 | `Terminal` |
 | 948 | [glowing-bear/glowing-bear](https://github.com/glowing-bear/glowing-bear) | JavaScript | [click](https://www.glowing-bear.org) | 2024-07 | `Browser` |
-| 853 | [kiwiirc/kiwiirc](https://github.com/kiwiirc/kiwiirc) | Vue | [click](https://kiwiirc.com/) | 2024-05 | `Browser` |
+| 852 | [kiwiirc/kiwiirc](https://github.com/kiwiirc/kiwiirc) | Vue | [click](https://kiwiirc.com/) | 2024-05 | `Browser` |
 | 721 | [quassel/quassel](https://github.com/quassel/quassel) | C++ | [click](https://quassel-irc.org/) | 2024-04 | `Desktop` |
-| 543 | [MCMrARM/revolution-irc](https://github.com/MCMrARM/revolution-irc) | Java | n/a | 2023-04 | `Android` |
+| 544 | [MCMrARM/revolution-irc](https://github.com/MCMrARM/revolution-irc) | Java | n/a | 2023-04 | `Android` |
 | 519 | [mcpcpc/kirc](https://github.com/mcpcpc/kirc) | C | [click](https://mcpcpc.github.io/kirc/) | 2024-05 | `Terminal` |
 | 390 | [emacs-circe/circe](https://github.com/emacs-circe/circe) | Emacs Lisp | n/a | 2024-06 | |
 | 314 | [codyd51/uefirc](https://github.com/codyd51/uefirc) | Rust | [click](https://axleos.com/an-irc-client-in-your-motherboard/) | 2024-04 | |
@@ -41,8 +41,8 @@ Software used to connect to an IRC network. To help distinguish between projects
 | 53 | [dgl/cgiirc](https://github.com/dgl/cgiirc) | Perl | [click](http://cgiirc.org) | 2023-06 | `Browser` |
 | 47 | [KDE/konversation](https://github.com/KDE/konversation) | C++ | [click](https://invent.kde.org/network/konversation) | 2024-08 | `Desktop` |
 | 36 | [communi/communi-sailfish](https://github.com/communi/communi-sailfish) | C++ | n/a | 2024-05 | |
-| 35 | [Libera-Chat/gamja](https://github.com/Libera-Chat/gamja) | JavaScript | n/a | 2024-04 | `Browser` |
 | 34 | [nmeum/hii](https://github.com/nmeum/hii) | Go | n/a | 2024-05 | `Terminal` |
+| 34 | [Libera-Chat/gamja](https://github.com/Libera-Chat/gamja) | JavaScript | n/a | 2024-04 | `Browser` |
 | 32 | [HydraIRC/hydrairc](https://github.com/HydraIRC/hydrairc) | C++ | n/a | 2023-08 | `Desktop` |
 | 27 | [mhoran/weechatRN](https://github.com/mhoran/weechatRN) | TypeScript | n/a | 2024-05 | `iOS` |
 | 25 | [uhlin/swirc](https://github.com/uhlin/swirc) | C | [click](https://www.nifty-networks.net/swirc/) | 2024-08 | `Terminal` |
@@ -132,10 +132,10 @@ Miscellaneous software and resources of interest.
 | 272 | [whitequark/irclogger](https://github.com/whitequark/irclogger) | Ruby | [click](http://irclog.whitequark.org/) | 2024-05 | Simple and good-looking IRC log viewer. Logger is included. No strings are attached.... |
 | 192 | [ircdocs/modern-irc](https://github.com/ircdocs/modern-irc) | Sass | [click](http://modern.ircdocs.horse/) | 2024-07 | A useful overview and reference to the IRC client protocol as it is implemented today.... |
 | 115 | [irccloud/irccat](https://github.com/irccloud/irccat) | Go | n/a | 2024-04 | cat to IRC... |
-| 93 | [tommyrot/superseriousstats](https://github.com/tommyrot/superseriousstats) | PHP | [click](https://sss.dutnie.nl) | 2024-07 | superseriousstats is a fast and efficient program to create statistics out of various types of IRC chat logs... |
+| 94 | [tommyrot/superseriousstats](https://github.com/tommyrot/superseriousstats) | PHP | [click](https://sss.dutnie.nl) | 2024-07 | superseriousstats is a fast and efficient program to create statistics out of various types of IRC chat logs... |
 | 83 | [mgedmin/irclog2html](https://github.com/mgedmin/irclog2html) | Python | [click](http://mg.pov.lt/irclog2html/) | 2024-05 | Convert IRC logs to HTML... |
 | 69 | [ircart/ircart](https://github.com/ircart/ircart) | Shell | n/a | 2023-12 | massive organized collection of irc art... |
-| 65 | [progval/matrix2051](https://github.com/progval/matrix2051) | Elixir | n/a | 2024-04 | A Matrix gateway for IRC: connect to Matrix from your favorite IRC client.... |
+| 66 | [progval/matrix2051](https://github.com/progval/matrix2051) | Elixir | n/a | 2024-04 | A Matrix gateway for IRC: connect to Matrix from your favorite IRC client.... |
 | 61 | [ircdocs/irc-defs](https://github.com/ircdocs/irc-defs) | HTML | [click](http://defs.ircdocs.horse/) | 2024-07 | More up-to-date IRC Definition Lists... |
 | 51 | [bagder/irchistory](https://github.com/bagder/irchistory) | n/a | [click](https://daniel.haxx.se/irchistory.html) | 2023-09 | The history of IRC... |
 | 33 | [ergochat/ircdog](https://github.com/ergochat/ircdog) | Go | n/a | 2024-07 | a tool for sending and receiving raw IRC protocol lines... |
