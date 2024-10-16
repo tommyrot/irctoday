@@ -12,11 +12,11 @@ Software used to connect to an IRC network. To help distinguish between projects
 
 | Stars | Repository | Language | Homepage | Latest Commit | Platforms |
 | ----: | :--------- | :------: | :------: | :-----------: | :-------- |
-| 5,584 | [thelounge/thelounge](https://github.com/thelounge/thelounge) | TypeScript | [click](https://thelounge.chat) | 2024-09 | `Browser` |
-| 2,945 | [weechat/weechat](https://github.com/weechat/weechat) | C | [click](https://weechat.org) | 2024-10 | `Terminal` |
-| 2,880 | [irssi/irssi](https://github.com/irssi/irssi) | C | [click](https://irssi.org) | 2024-05 | `Terminal` |
+| 5,586 | [thelounge/thelounge](https://github.com/thelounge/thelounge) | TypeScript | [click](https://thelounge.chat) | 2024-09 | `Browser` |
+| 2,946 | [weechat/weechat](https://github.com/weechat/weechat) | C | [click](https://weechat.org) | 2024-10 | `Terminal` |
+| 2,881 | [irssi/irssi](https://github.com/irssi/irssi) | C | [click](https://irssi.org) | 2024-05 | `Terminal` |
 | 1,857 | [Codeux-Software/Textual](https://github.com/Codeux-Software/Textual) | Objective-C | [click](https://www.codeux.com/textual/) | 2024-08 | `Desktop` |
-| 1,569 | [squidowl/halloy](https://github.com/squidowl/halloy) | Rust | n/a | 2024-10 | `Desktop` |
+| 1,575 | [squidowl/halloy](https://github.com/squidowl/halloy) | Rust | n/a | 2024-10 | `Desktop` |
 | 1,039 | [convos-chat/convos](https://github.com/convos-chat/convos) | Perl | [click](http://convos.chat) | 2024-09 | `Browser` |
 | 1,005 | [osa1/tiny](https://github.com/osa1/tiny) | Rust | n/a | 2024-09 | `Terminal` |
 | 951 | [glowing-bear/glowing-bear](https://github.com/glowing-bear/glowing-bear) | JavaScript | [click](https://www.glowing-bear.org) | 2024-07 | `Browser` |
@@ -51,6 +51,7 @@ Software used to connect to an IRC network. To help distinguish between projects
 | 19 | [ec429/quIRC](https://github.com/ec429/quIRC) | C | [click](http://jttlov.no-ip.org/projects/quirc.htm) | 2023-02 | `Terminal` |
 | 16 | [nhexirc/nhex](https://github.com/nhexirc/nhex) | TypeScript | [click](https://nhexirc.com) | 2024-05 | `Desktop` |
 | 16 | [matty-r/urChat](https://github.com/matty-r/urChat) | Java | n/a | 2024-03 | `Desktop` |
+| 16 | [rockorager/comlink](https://github.com/rockorager/comlink) | Zig | n/a | 2024-08 | `Desktop` |
 
 ## Servers
 
@@ -77,7 +78,7 @@ A bouncer is a piece of software that sits between a client and a server. Its pu
 
 | Stars | Repository | Language | Homepage | Latest Commit |
 | ----: | :--------- | :------: | :------: | :-----------: |
-| 2,006 | [znc/znc](https://github.com/znc/znc) | C++ | [click](https://znc.in/) | 2024-10 |
+| 2,007 | [znc/znc](https://github.com/znc/znc) | C++ | [click](https://znc.in/) | 2024-10 |
 | 131 | [emersion/soju](https://github.com/emersion/soju) | Go | [click](https://soju.im) | 2024-09 |
 | 30 | [freenode/jbnc](https://github.com/freenode/jbnc) | JavaScript | n/a | 2024-07 |
 
