@@ -15,8 +15,8 @@ Software used to connect to an IRC network. To help distinguish between projects
 | 5,776 | [thelounge/thelounge](https://github.com/thelounge/thelounge) | TypeScript | [click](https://thelounge.chat) | 2024-11 | `Browser` |
 | 3,040 | [weechat/weechat](https://github.com/weechat/weechat) | C | [click](https://weechat.org) | 2025-02 | `Terminal` |
 | 2,930 | [irssi/irssi](https://github.com/irssi/irssi) | C | [click](https://irssi.org) | 2024-12 | `Terminal` |
-| 2,015 | [squidowl/halloy](https://github.com/squidowl/halloy) | Rust | n/a | 2025-02 | `Desktop` |
-| 1,873 | [Codeux-Software/Textual](https://github.com/Codeux-Software/Textual) | Objective-C | [click](https://www.codeux.com/textual/) | 2025-02 | `Desktop` |
+| 2,019 | [squidowl/halloy](https://github.com/squidowl/halloy) | Rust | n/a | 2025-02 | `Desktop` |
+| 1,874 | [Codeux-Software/Textual](https://github.com/Codeux-Software/Textual) | Objective-C | [click](https://www.codeux.com/textual/) | 2025-02 | `Desktop` |
 | 1,060 | [convos-chat/convos](https://github.com/convos-chat/convos) | Perl | [click](http://convos.chat) | 2025-02 | `Browser` |
 | 1,050 | [osa1/tiny](https://github.com/osa1/tiny) | Rust | n/a | 2025-01 | `Terminal` |
 | 950 | [glowing-bear/glowing-bear](https://github.com/glowing-bear/glowing-bear) | JavaScript | [click](https://www.glowing-bear.org) | 2024-07 | `Browser` |
@@ -39,7 +39,7 @@ Software used to connect to an IRC network. To help distinguish between projects
 | 65 | [justjanne/QuasselDroid-ng](https://github.com/justjanne/QuasselDroid-ng) | Kotlin | [click](https://quasseldroid.info/) | 2023-09 | `Android` |
 | 58 | [communi/communi-desktop](https://github.com/communi/communi-desktop) | C++ | [click](https://communi.github.io/) | 2024-05 | `Desktop` |
 | 55 | [dgl/cgiirc](https://github.com/dgl/cgiirc) | Perl | [click](http://cgiirc.org) | 2023-06 | `Browser` |
-| 53 | [Libera-Chat/gamja](https://github.com/Libera-Chat/gamja) | JavaScript | n/a | 2024-04 | `Browser` |
+| 54 | [Libera-Chat/gamja](https://github.com/Libera-Chat/gamja) | JavaScript | n/a | 2024-04 | `Browser` |
 | 50 | [KDE/konversation](https://github.com/KDE/konversation) | C++ | [click](https://invent.kde.org/network/konversation) | 2025-02 | `Desktop` |
 | 39 | [rockorager/comlink](https://github.com/rockorager/comlink) | Zig | n/a | 2025-02 | `Desktop` |
 | 38 | [communi/communi-sailfish](https://github.com/communi/communi-sailfish) | C++ | n/a | 2024-05 | |
@@ -93,8 +93,8 @@ Automated client software that can perform tasks in a channel such as moderation
 | ----: | :--------- | :------: | :------: | :-----------: |
 | 953 | [sopel-irc/sopel](https://github.com/sopel-irc/sopel) | Python | [click](https://sopel.chat) | 2025-02 |
 | 627 | [progval/Limnoria](https://github.com/progval/Limnoria) | Python | [click](https://docs.limnoria.net/) | 2025-02 |
-| 517 | [eggheads/eggdrop](https://github.com/eggheads/eggdrop) | C | n/a | 2025-02 |
-| 372 | [ArchiveTeam/ArchiveBot](https://github.com/ArchiveTeam/ArchiveBot) | Python | [click](http://www.archiveteam.org/index.php?title=ArchiveBot) | 2024-09 |
+| 518 | [eggheads/eggdrop](https://github.com/eggheads/eggdrop) | C | n/a | 2025-02 |
+| 373 | [ArchiveTeam/ArchiveBot](https://github.com/ArchiveTeam/ArchiveBot) | Python | [click](http://www.archiveteam.org/index.php?title=ArchiveBot) | 2025-02 |
 | 274 | [CloudBotIRC/CloudBot](https://github.com/CloudBotIRC/CloudBot) | Python | n/a | 2023-12 |
 | 248 | [rmmh/skybot](https://github.com/rmmh/skybot) | Python | [click](https://github.com/rmmh/skybot/wiki) | 2024-01 |
 | 165 | [lambdabot/lambdabot](https://github.com/lambdabot/lambdabot) | Haskell | n/a | 2024-04 |
@@ -141,9 +141,9 @@ Miscellaneous software and resources of interest.
 | 62 | [ircdocs/irc-defs](https://github.com/ircdocs/irc-defs) | HTML | [click](http://defs.ircdocs.horse/) | 2024-11 | More up-to-date IRC Definition Lists... |
 | 55 | [grawity/irc-docs](https://github.com/grawity/irc-docs) | HTML | n/a | 2022-07 | Collected IRC protocol documentation... |
 | 52 | [bagder/irchistory](https://github.com/bagder/irchistory) | n/a | [click](https://daniel.haxx.se/irchistory.html) | 2023-09 | The history of IRC... |
-| 38 | [ergochat/ircdog](https://github.com/ergochat/ircdog) | Go | n/a | 2024-09 | a tool for sending and receiving raw IRC protocol lines... |
+| 39 | [ergochat/ircdog](https://github.com/ergochat/ircdog) | Go | n/a | 2024-09 | a tool for sending and receiving raw IRC protocol lines... |
 | 32 | [birdneststream/asciibird](https://github.com/birdneststream/asciibird) | Vue | [click](https://asciibird.birdnest.live/) | 2024-02 | ASCII Creation... |
-| 26 | [waveplate/img2irc](https://github.com/waveplate/img2irc) | Rust | n/a | 2024-12 | a highly versatile, award-winning image to IRC/ANSI art tool... |
+| 25 | [waveplate/img2irc](https://github.com/waveplate/img2irc) | Rust | n/a | 2024-12 | a highly versatile, award-winning image to IRC/ANSI art tool... |
 | 22 | [homeworkprod/syslog2irc](https://github.com/homeworkprod/syslog2irc) | Python | [click](http://homework.nwsnet.de/releases/c474/#syslog2irc) | 2021-12 | Forward syslog messages to IRC... |
 
 ---
