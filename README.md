@@ -12,13 +12,13 @@ Software used to connect to an IRC network. To help distinguish between projects
 
 | Stars | Repository | Language | Homepage | Latest Commit | Platforms |
 | ----: | :--------- | :------: | :------: | :-----------: | :-------- |
-| 5,782 | [thelounge/thelounge](https://github.com/thelounge/thelounge) | TypeScript | [click](https://thelounge.chat) | 2024-11 | `Browser` |
-| 3,043 | [weechat/weechat](https://github.com/weechat/weechat) | C | [click](https://weechat.org) | 2025-02 | `Terminal` |
-| 2,936 | [irssi/irssi](https://github.com/irssi/irssi) | C | [click](https://irssi.org) | 2024-12 | `Terminal` |
-| 2,041 | [squidowl/halloy](https://github.com/squidowl/halloy) | Rust | n/a | 2025-02 | `Desktop` |
+| 5,785 | [thelounge/thelounge](https://github.com/thelounge/thelounge) | TypeScript | [click](https://thelounge.chat) | 2024-11 | `Browser` |
+| 3,042 | [weechat/weechat](https://github.com/weechat/weechat) | C | [click](https://weechat.org) | 2025-02 | `Terminal` |
+| 2,937 | [irssi/irssi](https://github.com/irssi/irssi) | C | [click](https://irssi.org) | 2024-12 | `Terminal` |
+| 2,046 | [squidowl/halloy](https://github.com/squidowl/halloy) | Rust | n/a | 2025-02 | `Desktop` |
 | 1,873 | [Codeux-Software/Textual](https://github.com/Codeux-Software/Textual) | Objective-C | [click](https://www.codeux.com/textual/) | 2025-02 | `Desktop` |
-| 1,060 | [convos-chat/convos](https://github.com/convos-chat/convos) | Perl | [click](http://convos.chat) | 2025-02 | `Browser` |
-| 1,052 | [osa1/tiny](https://github.com/osa1/tiny) | Rust | n/a | 2025-01 | `Terminal` |
+| 1,061 | [convos-chat/convos](https://github.com/convos-chat/convos) | Perl | [click](http://convos.chat) | 2025-02 | `Browser` |
+| 1,053 | [osa1/tiny](https://github.com/osa1/tiny) | Rust | n/a | 2025-01 | `Terminal` |
 | 953 | [glowing-bear/glowing-bear](https://github.com/glowing-bear/glowing-bear) | JavaScript | [click](https://www.glowing-bear.org) | 2024-07 | `Browser` |
 | 892 | [kiwiirc/kiwiirc](https://github.com/kiwiirc/kiwiirc) | Vue | [click](https://kiwiirc.com/) | 2025-02 | `Browser` |
 | 734 | [quassel/quassel](https://github.com/quassel/quassel) | C++ | [click](https://quassel-irc.org/) | 2025-02 | `Desktop` |
@@ -63,9 +63,9 @@ IRC servers (daemons) are central points in an IRC network for clients to connec
 | ----: | :--------- | :------: | :------: | :-----------: |
 | 2,762 | [ergochat/ergo](https://github.com/ergochat/ergo) | Go | [click](https://ergo.chat/) | 2025-02 |
 | 1,210 | [inspircd/inspircd](https://github.com/inspircd/inspircd) | C++ | [click](https://www.inspircd.org) | 2025-02 |
-| 460 | [ngircd/ngircd](https://github.com/ngircd/ngircd) | C | [click](http://ngircd.barton.de/) | 2024-10 |
+| 461 | [ngircd/ngircd](https://github.com/ngircd/ngircd) | C | [click](http://ngircd.barton.de/) | 2024-10 |
 | 442 | [unrealircd/unrealircd](https://github.com/unrealircd/unrealircd) | C | [click](https://www.unrealircd.org) | 2025-02 |
-| 426 | [jrosdahl/miniircd](https://github.com/jrosdahl/miniircd) | Python | n/a | 2025-02 |
+| 427 | [jrosdahl/miniircd](https://github.com/jrosdahl/miniircd) | Python | n/a | 2025-02 |
 | 233 | [solanum-ircd/solanum](https://github.com/solanum-ircd/solanum) | C | [click](https://solanum.chat/) | 2025-02 |
 | 187 | [ircd-hybrid/ircd-hybrid](https://github.com/ircd-hybrid/ircd-hybrid) | C | [click](https://www.ircd-hybrid.org/) | 2025-02 |
 | 181 | [robustirc/robustirc](https://github.com/robustirc/robustirc) | Go | [click](https://robustirc.net/) | 2024-12 |
@@ -81,7 +81,7 @@ A bouncer is a piece of software that sits between a client and a server. Its pu
 
 | Stars | Repository | Language | Homepage | Latest Commit |
 | ----: | :--------- | :------: | :------: | :-----------: |
-| 2,037 | [znc/znc](https://github.com/znc/znc) | C++ | [click](https://znc.in/) | 2025-02 |
+| 2,038 | [znc/znc](https://github.com/znc/znc) | C++ | [click](https://znc.in/) | 2025-02 |
 | 143 | [emersion/soju](https://github.com/emersion/soju) | Go | [click](https://soju.im) | 2025-02 |
 | 30 | [freenode/jbnc](https://github.com/freenode/jbnc) | JavaScript | n/a | 2024-11 |
 
@@ -92,8 +92,8 @@ Automated client software that can perform tasks in a channel such as moderation
 | Stars | Repository | Language | Homepage | Latest Commit |
 | ----: | :--------- | :------: | :------: | :-----------: |
 | 955 | [sopel-irc/sopel](https://github.com/sopel-irc/sopel) | Python | [click](https://sopel.chat) | 2025-02 |
-| 628 | [progval/Limnoria](https://github.com/progval/Limnoria) | Python | [click](https://docs.limnoria.net/) | 2025-02 |
-| 518 | [eggheads/eggdrop](https://github.com/eggheads/eggdrop) | C | n/a | 2025-02 |
+| 629 | [progval/Limnoria](https://github.com/progval/Limnoria) | Python | [click](https://docs.limnoria.net/) | 2025-02 |
+| 519 | [eggheads/eggdrop](https://github.com/eggheads/eggdrop) | C | n/a | 2025-02 |
 | 375 | [ArchiveTeam/ArchiveBot](https://github.com/ArchiveTeam/ArchiveBot) | Python | [click](http://www.archiveteam.org/index.php?title=ArchiveBot) | 2025-02 |
 | 275 | [CloudBotIRC/CloudBot](https://github.com/CloudBotIRC/CloudBot) | Python | n/a | 2023-12 |
 | 248 | [rmmh/skybot](https://github.com/rmmh/skybot) | Python | [click](https://github.com/rmmh/skybot/wiki) | 2024-01 |
@@ -131,7 +131,7 @@ Miscellaneous software and resources of interest.
 
 | Stars | Repository | Language | Homepage | Latest Commit | Description |
 | ----: | :--------- | :------: | :------: | :-----------: | :---------- |
-| 996 | [davisonio/awesome-irc](https://github.com/davisonio/awesome-irc) | n/a | n/a | 2024-06 | A curated list of awesome IRC resources.... |
+| 997 | [davisonio/awesome-irc](https://github.com/davisonio/awesome-irc) | n/a | n/a | 2024-06 | A curated list of awesome IRC resources.... |
 | 793 | [ircv3/ircv3-specifications](https://github.com/ircv3/ircv3-specifications) | n/a | [click](http://ircv3.net) | 2025-01 | IRCv3 specifications | Roadmap: https://git.io/IRCv3-Roadmap | Code of conduct: http://ircv3.net/conduct.html... |
 | 606 | [bitlbee/bitlbee](https://github.com/bitlbee/bitlbee) | C | [click](https://www.bitlbee.org/) | 2024-08 | An IRC to other chat networks gateway :bee:... |
 | 274 | [whitequark/irclogger](https://github.com/whitequark/irclogger) | Ruby | [click](http://irclog.whitequark.org/) | 2024-11 | Simple and good-looking IRC log viewer. Logger is included. No strings are attached.... |
@@ -143,8 +143,8 @@ Miscellaneous software and resources of interest.
 | 55 | [grawity/irc-docs](https://github.com/grawity/irc-docs) | HTML | n/a | 2022-07 | Collected IRC protocol documentation... |
 | 52 | [bagder/irchistory](https://github.com/bagder/irchistory) | n/a | [click](https://daniel.haxx.se/irchistory.html) | 2023-09 | The history of IRC... |
 | 39 | [ergochat/ircdog](https://github.com/ergochat/ircdog) | Go | n/a | 2024-09 | a tool for sending and receiving raw IRC protocol lines... |
-| 31 | [birdneststream/asciibird](https://github.com/birdneststream/asciibird) | Vue | [click](https://asciibird.birdnest.live/) | 2024-02 | ASCII Creation... |
-| 26 | [waveplate/img2irc](https://github.com/waveplate/img2irc) | Rust | n/a | 2024-12 | a highly versatile, award-winning image to IRC/ANSI art tool... |
+| 32 | [birdneststream/asciibird](https://github.com/birdneststream/asciibird) | Vue | [click](https://asciibird.birdnest.live/) | 2024-02 | ASCII Creation... |
+| 27 | [waveplate/img2irc](https://github.com/waveplate/img2irc) | Rust | n/a | 2024-12 | a highly versatile, award-winning image to IRC/ANSI art tool... |
 | 22 | [homeworkprod/syslog2irc](https://github.com/homeworkprod/syslog2irc) | Python | [click](http://homework.nwsnet.de/releases/c474/#syslog2irc) | 2021-12 | Forward syslog messages to IRC... |
 
 ---
