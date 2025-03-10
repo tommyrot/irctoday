@@ -12,10 +12,10 @@ Software used to connect to an IRC network. To help distinguish between projects
 
 | Stars | Repository | Language | Homepage | Latest Commit | Platforms |
 | ----: | :--------- | :------: | :------: | :-----------: | :-------- |
-| 5,801 | [thelounge/thelounge](https://github.com/thelounge/thelounge) | TypeScript | [click](https://thelounge.chat) | 2024-11 | `Browser` |
-| 3,047 | [weechat/weechat](https://github.com/weechat/weechat) | C | [click](https://weechat.org) | 2025-03 | `Terminal` |
+| 5,802 | [thelounge/thelounge](https://github.com/thelounge/thelounge) | TypeScript | [click](https://thelounge.chat) | 2024-11 | `Browser` |
+| 3,049 | [weechat/weechat](https://github.com/weechat/weechat) | C | [click](https://weechat.org) | 2025-03 | `Terminal` |
 | 2,942 | [irssi/irssi](https://github.com/irssi/irssi) | C | [click](https://irssi.org) | 2024-12 | `Terminal` |
-| 2,110 | [squidowl/halloy](https://github.com/squidowl/halloy) | Rust | n/a | 2025-02 | `Desktop` |
+| 2,117 | [squidowl/halloy](https://github.com/squidowl/halloy) | Rust | n/a | 2025-02 | `Desktop` |
 | 1,874 | [Codeux-Software/Textual](https://github.com/Codeux-Software/Textual) | Objective-C | [click](https://www.codeux.com/textual/) | 2025-02 | `Desktop` |
 | 1,063 | [convos-chat/convos](https://github.com/convos-chat/convos) | Perl | [click](http://convos.chat) | 2025-02 | `Browser` |
 | 1,053 | [osa1/tiny](https://github.com/osa1/tiny) | Rust | n/a | 2025-01 | `Terminal` |
@@ -93,7 +93,7 @@ Automated client software that can perform tasks in a channel such as moderation
 | ----: | :--------- | :------: | :------: | :-----------: |
 | 955 | [sopel-irc/sopel](https://github.com/sopel-irc/sopel) | Python | [click](https://sopel.chat) | 2025-02 |
 | 629 | [progval/Limnoria](https://github.com/progval/Limnoria) | Python | [click](https://docs.limnoria.net/) | 2025-02 |
-| 522 | [eggheads/eggdrop](https://github.com/eggheads/eggdrop) | C | n/a | 2025-02 |
+| 522 | [eggheads/eggdrop](https://github.com/eggheads/eggdrop) | C | n/a | 2025-03 |
 | 377 | [ArchiveTeam/ArchiveBot](https://github.com/ArchiveTeam/ArchiveBot) | Python | [click](http://www.archiveteam.org/index.php?title=ArchiveBot) | 2025-02 |
 | 276 | [CloudBotIRC/CloudBot](https://github.com/CloudBotIRC/CloudBot) | Python | n/a | 2023-12 |
 | 249 | [rmmh/skybot](https://github.com/rmmh/skybot) | Python | [click](https://github.com/rmmh/skybot/wiki) | 2025-02 |
