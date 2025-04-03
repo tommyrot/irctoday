@@ -12,10 +12,10 @@ Software used to connect to an IRC network. To help distinguish between projects
 
 | Stars | Repository | Language | Homepage | Latest Commit | Platforms |
 | ----: | :--------- | :------: | :------: | :-----------: | :-------- |
-| 5,832 | [thelounge/thelounge](https://github.com/thelounge/thelounge) | TypeScript | [click](https://thelounge.chat) | 2024-11 | `Browser` |
-| 3,065 | [weechat/weechat](https://github.com/weechat/weechat) | C | [click](https://weechat.org) | 2025-03 | `Terminal` |
-| 2,951 | [irssi/irssi](https://github.com/irssi/irssi) | C | [click](https://irssi.org) | 2024-12 | `Terminal` |
-| 2,202 | [squidowl/halloy](https://github.com/squidowl/halloy) | Rust | n/a | 2025-04 | `Desktop` |
+| 5,833 | [thelounge/thelounge](https://github.com/thelounge/thelounge) | TypeScript | [click](https://thelounge.chat) | 2024-11 | `Browser` |
+| 3,066 | [weechat/weechat](https://github.com/weechat/weechat) | C | [click](https://weechat.org) | 2025-03 | `Terminal` |
+| 2,952 | [irssi/irssi](https://github.com/irssi/irssi) | C | [click](https://irssi.org) | 2024-12 | `Terminal` |
+| 2,208 | [squidowl/halloy](https://github.com/squidowl/halloy) | Rust | n/a | 2025-04 | `Desktop` |
 | 1,878 | [Codeux-Software/Textual](https://github.com/Codeux-Software/Textual) | Objective-C | [click](https://www.codeux.com/textual/) | 2025-02 | `Desktop` |
 | 1,073 | [convos-chat/convos](https://github.com/convos-chat/convos) | Perl | [click](http://convos.chat) | 2025-02 | `Browser` |
 | 1,055 | [osa1/tiny](https://github.com/osa1/tiny) | Rust | n/a | 2025-01 | `Terminal` |
@@ -26,9 +26,9 @@ Software used to connect to an IRC network. To help distinguish between projects
 | 531 | [mcpcpc/kirc](https://github.com/mcpcpc/kirc) | C | [click](https://mcpcpc.github.io/kirc/) | 2025-01 | `Terminal` |
 | 403 | [emacs-circe/circe](https://github.com/emacs-circe/circe) | Emacs Lisp | n/a | 2025-01 | |
 | 323 | [codyd51/uefirc](https://github.com/codyd51/uefirc) | Rust | [click](https://axleos.com/an-irc-client-in-your-motherboard/) | 2024-04 | |
-| 317 | [SrainApp/srain](https://github.com/SrainApp/srain) | C | [click](https://srain.silverrainz.me/) | 2024-12 | `Desktop` |
-| 294 | [irccloud/android](https://github.com/irccloud/android) | Java | n/a | 2025-03 | `Android` |
-| 287 | [irccloud/ios](https://github.com/irccloud/ios) | Objective-C | n/a | 2025-03 | `iOS` |
+| 318 | [SrainApp/srain](https://github.com/SrainApp/srain) | C | [click](https://srain.silverrainz.me/) | 2024-12 | `Desktop` |
+| 293 | [irccloud/android](https://github.com/irccloud/android) | Java | n/a | 2025-03 | `Android` |
+| 286 | [irccloud/ios](https://github.com/irccloud/ios) | Objective-C | n/a | 2025-03 | `iOS` |
 | 251 | [kvirc/KVIrc](https://github.com/kvirc/KVIrc) | C++ | [click](http://www.kvirc.net/) | 2025-03 | `Desktop` |
 | 176 | [meebey/smuxi](https://github.com/meebey/smuxi) | C# | [click](https://smuxi.im/) | 2025-03 | `Desktop` |
 | 175 | [qwebirc/qwebirc](https://github.com/qwebirc/qwebirc) | JavaScript | [click](https://qwebirc.org/) | 2023-08 | `Browser` |
@@ -62,7 +62,7 @@ IRC servers (daemons) are central points in an IRC network for clients to connec
 | Stars | Repository | Language | Homepage | Latest Commit |
 | ----: | :--------- | :------: | :------: | :-----------: |
 | 2,791 | [ergochat/ergo](https://github.com/ergochat/ergo) | Go | [click](https://ergo.chat/) | 2025-03 |
-| 1,217 | [inspircd/inspircd](https://github.com/inspircd/inspircd) | C++ | [click](https://www.inspircd.org) | 2025-03 |
+| 1,218 | [inspircd/inspircd](https://github.com/inspircd/inspircd) | C++ | [click](https://www.inspircd.org) | 2025-03 |
 | 468 | [ngircd/ngircd](https://github.com/ngircd/ngircd) | C | [click](http://ngircd.barton.de/) | 2024-10 |
 | 447 | [unrealircd/unrealircd](https://github.com/unrealircd/unrealircd) | C | [click](https://www.unrealircd.org) | 2025-03 |
 | 431 | [jrosdahl/miniircd](https://github.com/jrosdahl/miniircd) | Python | n/a | 2025-02 |
@@ -84,7 +84,7 @@ A bouncer is a piece of software that sits between a client and a server. Its pu
 | Stars | Repository | Language | Homepage | Latest Commit |
 | ----: | :--------- | :------: | :------: | :-----------: |
 | 2,042 | [znc/znc](https://github.com/znc/znc) | C++ | [click](https://znc.in/) | 2025-03 |
-| 147 | [emersion/soju](https://github.com/emersion/soju) | Go | [click](https://soju.im) | 2025-03 |
+| 148 | [emersion/soju](https://github.com/emersion/soju) | Go | [click](https://soju.im) | 2025-03 |
 | 30 | [freenode/jbnc](https://github.com/freenode/jbnc) | JavaScript | n/a | 2024-11 |
 
 ## Bots
