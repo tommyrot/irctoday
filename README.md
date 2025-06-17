@@ -12,10 +12,10 @@ Software used to connect to an IRC network. To help distinguish between projects
 
 | Stars | Repository | Language | Homepage | Latest Commit | Platforms |
 | ----: | :--------- | :------: | :------: | :-----------: | :-------- |
-| 5,926 | [thelounge/thelounge](https://github.com/thelounge/thelounge) | TypeScript | [click](https://thelounge.chat) | 2024-11 | `Browser` |
-| 3,098 | [weechat/weechat](https://github.com/weechat/weechat) | C | [click](https://weechat.org) | 2025-06 | `Terminal` |
-| 2,972 | [irssi/irssi](https://github.com/irssi/irssi) | C | [click](https://irssi.org) | 2025-05 | `Terminal` |
-| 2,429 | [squidowl/halloy](https://github.com/squidowl/halloy) | Rust | [click](https://halloy.chat/) | 2025-06 | `Desktop` |
+| 5,927 | [thelounge/thelounge](https://github.com/thelounge/thelounge) | TypeScript | [click](https://thelounge.chat) | 2024-11 | `Browser` |
+| 3,100 | [weechat/weechat](https://github.com/weechat/weechat) | C | [click](https://weechat.org) | 2025-06 | `Terminal` |
+| 2,973 | [irssi/irssi](https://github.com/irssi/irssi) | C | [click](https://irssi.org) | 2025-05 | `Terminal` |
+| 2,433 | [squidowl/halloy](https://github.com/squidowl/halloy) | Rust | [click](https://halloy.chat/) | 2025-06 | `Desktop` |
 | 1,890 | [Codeux-Software/Textual](https://github.com/Codeux-Software/Textual) | Objective-C | [click](https://www.codeux.com/textual/) | 2025-04 | `Desktop` |
 | 1,109 | [convos-chat/convos](https://github.com/convos-chat/convos) | Perl | [click](http://convos.chat) | 2025-02 | `Browser` |
 | 1,080 | [osa1/tiny](https://github.com/osa1/tiny) | Rust | n/a | 2025-06 | `Terminal` |
@@ -27,8 +27,8 @@ Software used to connect to an IRC network. To help distinguish between projects
 | 325 | [codyd51/uefirc](https://github.com/codyd51/uefirc) | Rust | [click](https://axleos.com/an-irc-client-in-your-motherboard/) | 2024-04 | |
 | 323 | [SrainApp/srain](https://github.com/SrainApp/srain) | C | [click](https://srain.silverrainz.me/) | 2025-06 | `Desktop` |
 | 296 | [irccloud/android](https://github.com/irccloud/android) | Java | n/a | 2025-04 | `Android` |
-| 287 | [irccloud/ios](https://github.com/irccloud/ios) | Objective-C | n/a | 2025-05 | `iOS` |
-| 255 | [kvirc/KVIrc](https://github.com/kvirc/KVIrc) | C++ | [click](http://www.kvirc.net/) | 2025-03 | `Desktop` |
+| 287 | [irccloud/ios](https://github.com/irccloud/ios) | Objective-C | n/a | 2025-06 | `iOS` |
+| 255 | [kvirc/KVIrc](https://github.com/kvirc/KVIrc) | C++ | [click](http://www.kvirc.net/) | 2025-06 | `Desktop` |
 | 177 | [meebey/smuxi](https://github.com/meebey/smuxi) | C# | [click](https://smuxi.im/) | 2025-05 | `Desktop` |
 | 176 | [qwebirc/qwebirc](https://github.com/qwebirc/qwebirc) | JavaScript | [click](https://qwebirc.org/) | 2023-08 | `Browser` |
 | 165 | [glguy/irc-core](https://github.com/glguy/irc-core) | Haskell | n/a | 2025-03 | `Terminal` |
@@ -59,8 +59,8 @@ IRC servers (daemons) are central points in an IRC network for clients to connec
 
 | Stars | Repository | Language | Homepage | Latest Commit |
 | ----: | :--------- | :------: | :------: | :-----------: |
-| 2,841 | [ergochat/ergo](https://github.com/ergochat/ergo) | Go | [click](https://ergo.chat/) | 2025-06 |
-| 1,237 | [inspircd/inspircd](https://github.com/inspircd/inspircd) | C++ | [click](https://www.inspircd.org) | 2025-05 |
+| 2,842 | [ergochat/ergo](https://github.com/ergochat/ergo) | Go | [click](https://ergo.chat/) | 2025-06 |
+| 1,237 | [inspircd/inspircd](https://github.com/inspircd/inspircd) | C++ | [click](https://www.inspircd.org) | 2025-06 |
 | 480 | [ngircd/ngircd](https://github.com/ngircd/ngircd) | C | [click](http://ngircd.barton.de/) | 2024-10 |
 | 456 | [unrealircd/unrealircd](https://github.com/unrealircd/unrealircd) | C | [click](https://www.unrealircd.org) | 2025-05 |
 | 435 | [jrosdahl/miniircd](https://github.com/jrosdahl/miniircd) | Python | n/a | 2025-02 |
@@ -103,7 +103,7 @@ Automated client software that can perform tasks in a channel such as moderation
 | 76 | [wraith/wraith](https://github.com/wraith/wraith) | C++ | [click](http://wraith.botpack.net) | 2024-03 |
 | 76 | [baines/insobot](https://github.com/baines/insobot) | C | n/a | 2025-03 |
 | 74 | [boreq/botnet](https://github.com/boreq/botnet) | Python | n/a | 2025-04 |
-| 64 | [pragma-/pbot](https://github.com/pragma-/pbot) | Perl | n/a | 2024-12 |
+| 65 | [pragma-/pbot](https://github.com/pragma-/pbot) | Perl | n/a | 2024-12 |
 | 63 | [ruby-rbot/rbot](https://github.com/ruby-rbot/rbot) | Ruby | [click](https://ruby-rbot.github.io/) | 2025-05 |
 | 59 | [Shirakumo/maiden](https://github.com/Shirakumo/maiden) | Common Lisp | [click](http://shirakumo.github.io/maiden/) | 2024-12 |
 | 56 | [evanchooly/javabot](https://github.com/evanchooly/javabot) | Kotlin | [click](http://javabot.evanchooly.com) | 2024-12 |
