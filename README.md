@@ -12,7 +12,7 @@ Software used to connect to an IRC network. To help distinguish between projects
 
 | Stars | Repository | Language | Homepage | Latest Commit | Platforms |
 | ----: | :--------- | :------: | :------: | :-----------: | :-------- |
-| 5,935 | [thelounge/thelounge](https://github.com/thelounge/thelounge) | TypeScript | [click](https://thelounge.chat) | 2024-11 | `Browser` |
+| 5,936 | [thelounge/thelounge](https://github.com/thelounge/thelounge) | TypeScript | [click](https://thelounge.chat) | 2024-11 | `Browser` |
 | 3,104 | [weechat/weechat](https://github.com/weechat/weechat) | C | [click](https://weechat.org) | 2025-06 | `Terminal` |
 | 2,975 | [irssi/irssi](https://github.com/irssi/irssi) | C | [click](https://irssi.org) | 2025-05 | `Terminal` |
 | 2,457 | [squidowl/halloy](https://github.com/squidowl/halloy) | Rust | [click](https://halloy.chat/) | 2025-06 | `Desktop` |
@@ -41,7 +41,7 @@ Software used to connect to an IRC network. To help distinguish between projects
 | 53 | [rockorager/comlink](https://github.com/rockorager/comlink) | Zig | n/a | 2025-05 | `Desktop` |
 | 51 | [KDE/konversation](https://github.com/KDE/konversation) | C++ | [click](https://invent.kde.org/network/konversation) | 2025-06 | `Desktop` |
 | 38 | [communi/communi-sailfish](https://github.com/communi/communi-sailfish) | C++ | n/a | 2024-05 | |
-| 37 | [nmeum/hii](https://github.com/nmeum/hii) | Go | n/a | 2024-05 | `Terminal` |
+| 38 | [nmeum/hii](https://github.com/nmeum/hii) | Go | n/a | 2024-05 | `Terminal` |
 | 34 | [HydraIRC/hydrairc](https://github.com/HydraIRC/hydrairc) | C++ | n/a | 2023-08 | `Desktop` |
 | 34 | [mhoran/weechatRN](https://github.com/mhoran/weechatRN) | TypeScript | n/a | 2025-04 | `iOS` |
 | 29 | [nutjob-laboratories/erk](https://github.com/nutjob-laboratories/erk) | Python | n/a | 2025-03 | `Desktop` |
@@ -69,7 +69,7 @@ IRC servers (daemons) are central points in an IRC network for clients to connec
 | 183 | [robustirc/robustirc](https://github.com/robustirc/robustirc) | Go | [click](https://robustirc.net/) | 2025-05 |
 | 64 | [DALnet/bahamut](https://github.com/DALnet/bahamut) | C | [click](http://www.dal.net/?page=Bahamut) | 2024-10 |
 | 55 | [UndernetIRC/ircu2](https://github.com/UndernetIRC/ircu2) | C | n/a | 2025-05 |
-| 24 | [provisionircd/ProvisionIRCd](https://github.com/provisionircd/ProvisionIRCd) | Python | n/a | 2025-04 |
+| 24 | [provisionircd/ProvisionIRCd](https://github.com/provisionircd/ProvisionIRCd) | Python | n/a | 2025-06 |
 | 18 | [opensource-force/ircd](https://github.com/opensource-force/ircd) | Rust | n/a | 2024-07 |
 | 18 | [matszpk/simple-irc-server](https://github.com/matszpk/simple-irc-server) | Rust | n/a | 2024-09 |
 | 17 | [ircnet/ircd](https://github.com/ircnet/ircd) | C | n/a | 2025-01 |
@@ -80,7 +80,7 @@ A bouncer is a piece of software that sits between a client and a server. Its pu
 
 | Stars | Repository | Language | Homepage | Latest Commit |
 | ----: | :--------- | :------: | :------: | :-----------: |
-| 2,046 | [znc/znc](https://github.com/znc/znc) | C++ | [click](https://znc.in/) | 2025-06 |
+| 2,047 | [znc/znc](https://github.com/znc/znc) | C++ | [click](https://znc.in/) | 2025-06 |
 | 152 | [emersion/soju](https://github.com/emersion/soju) | Go | [click](https://soju.im) | 2025-06 |
 | 30 | [freenode/jbnc](https://github.com/freenode/jbnc) | JavaScript | n/a | 2024-11 |
 
@@ -107,6 +107,7 @@ Automated client software that can perform tasks in a channel such as moderation
 | 63 | [ruby-rbot/rbot](https://github.com/ruby-rbot/rbot) | Ruby | [click](https://ruby-rbot.github.io/) | 2025-05 |
 | 59 | [Shirakumo/maiden](https://github.com/Shirakumo/maiden) | Common Lisp | [click](http://shirakumo.github.io/maiden/) | 2024-12 |
 | 56 | [evanchooly/javabot](https://github.com/evanchooly/javabot) | Kotlin | [click](http://javabot.evanchooly.com) | 2024-12 |
+| 52 | [lepinkainen/pyfibot](https://github.com/lepinkainen/pyfibot) | Python | n/a | 2024-07 |
 | 52 | [sbp/saxo](https://github.com/sbp/saxo) | Python | [click](http://inamidst.com/saxo/) | 2023-08 |
 | 46 | [knrd1/chatgpt](https://github.com/knrd1/chatgpt) | Python | n/a | 2024-09 |
 | 39 | [StalkR/goircbot](https://github.com/StalkR/goircbot) | Go | [click](https://godoc.org/github.com/StalkR/goircbot) | 2025-04 |
