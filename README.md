@@ -12,16 +12,16 @@ Software used to connect to an IRC network. To help distinguish between projects
 
 | Stars | Repository | Language | Homepage | Latest Commit | Platforms |
 | ----: | :--------- | :------: | :------: | :-----------: | :-------- |
-| 5,936 | [thelounge/thelounge](https://github.com/thelounge/thelounge) | TypeScript | [click](https://thelounge.chat) | 2024-11 | `Browser` |
-| 3,104 | [weechat/weechat](https://github.com/weechat/weechat) | C | [click](https://weechat.org) | 2025-06 | `Terminal` |
+| 5,938 | [thelounge/thelounge](https://github.com/thelounge/thelounge) | TypeScript | [click](https://thelounge.chat) | 2024-11 | `Browser` |
+| 3,105 | [weechat/weechat](https://github.com/weechat/weechat) | C | [click](https://weechat.org) | 2025-06 | `Terminal` |
 | 2,975 | [irssi/irssi](https://github.com/irssi/irssi) | C | [click](https://irssi.org) | 2025-05 | `Terminal` |
-| 2,457 | [squidowl/halloy](https://github.com/squidowl/halloy) | Rust | [click](https://halloy.chat/) | 2025-06 | `Desktop` |
+| 2,459 | [squidowl/halloy](https://github.com/squidowl/halloy) | Rust | [click](https://halloy.chat/) | 2025-06 | `Desktop` |
 | 1,890 | [Codeux-Software/Textual](https://github.com/Codeux-Software/Textual) | Objective-C | [click](https://www.codeux.com/textual/) | 2025-04 | `Desktop` |
 | 1,111 | [convos-chat/convos](https://github.com/convos-chat/convos) | Perl | [click](http://convos.chat) | 2025-02 | `Browser` |
-| 1,084 | [osa1/tiny](https://github.com/osa1/tiny) | Rust | n/a | 2025-06 | `Terminal` |
+| 1,085 | [osa1/tiny](https://github.com/osa1/tiny) | Rust | n/a | 2025-06 | `Terminal` |
 | 962 | [glowing-bear/glowing-bear](https://github.com/glowing-bear/glowing-bear) | JavaScript | [click](https://www.glowing-bear.org) | 2024-07 | `Browser` |
 | 908 | [kiwiirc/kiwiirc](https://github.com/kiwiirc/kiwiirc) | Vue | [click](https://kiwiirc.com/) | 2025-03 | `Browser` |
-| 743 | [quassel/quassel](https://github.com/quassel/quassel) | C++ | [click](https://quassel-irc.org/) | 2025-02 | `Desktop` |
+| 744 | [quassel/quassel](https://github.com/quassel/quassel) | C++ | [click](https://quassel-irc.org/) | 2025-02 | `Desktop` |
 | 533 | [mcpcpc/kirc](https://github.com/mcpcpc/kirc) | C | [click](https://mcpcpc.github.io/kirc/) | 2025-05 | `Terminal` |
 | 404 | [emacs-circe/circe](https://github.com/emacs-circe/circe) | Emacs Lisp | n/a | 2025-04 | |
 | 325 | [codyd51/uefirc](https://github.com/codyd51/uefirc) | Rust | [click](https://axleos.com/an-irc-client-in-your-motherboard/) | 2024-04 | |
