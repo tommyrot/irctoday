@@ -50,6 +50,7 @@ Software used to connect to an IRC network. To help distinguish between projects
 | 24 | [nhexirc/nhex](https://github.com/nhexirc/nhex) | TypeScript | [click](https://nhexirc.com) | 2024-11 | `Desktop` |
 | 20 | [dlowe-net/irken](https://github.com/dlowe-net/irken) | Tcl | n/a | 2025-06 | `Desktop` |
 | 17 | [matty-r/urChat](https://github.com/matty-r/urChat) | Java | n/a | 2024-03 | `Desktop` |
+| 12 | [HaikuArchives/Vision](https://github.com/HaikuArchives/Vision) | C++ | n/a | 2025-05 | `Desktop` |
 
 ## Servers
 
@@ -118,7 +119,7 @@ Automated client software that can perform tasks in a channel such as moderation
 | 19 | [susam/tzero](https://github.com/susam/tzero) | Python | [click](https://web.libera.chat/#bitwise) | 2024-09 |
 | 17 | [helpmebot/helpmebot](https://github.com/helpmebot/helpmebot) | C# | [click](https://helpmebot.org.uk/) | 2025-05 |
 | 16 | [adedomin/neo8ball-irc](https://github.com/adedomin/neo8ball-irc) | Shell | n/a | 2025-01 |
-| 16 | [ircart/scroll](https://github.com/ircart/scroll) | Python | n/a | 2024-12 |
+| 15 | [ircart/scroll](https://github.com/ircart/scroll) | Python | n/a | 2024-12 |
 
 ## Other
 
