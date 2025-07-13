@@ -15,7 +15,7 @@ Software used to connect to an IRC network. To help distinguish between projects
 | 5,951 | [thelounge/thelounge](https://github.com/thelounge/thelounge) | TypeScript | [click](https://thelounge.chat) | 2024-11 | `Browser` |
 | 3,111 | [weechat/weechat](https://github.com/weechat/weechat) | C | [click](https://weechat.org) | 2025-06 | `Terminal` |
 | 2,976 | [irssi/irssi](https://github.com/irssi/irssi) | C | [click](https://irssi.org) | 2025-05 | `Terminal` |
-| 2,496 | [squidowl/halloy](https://github.com/squidowl/halloy) | Rust | [click](https://halloy.chat/) | 2025-06 | `Desktop` |
+| 2,497 | [squidowl/halloy](https://github.com/squidowl/halloy) | Rust | [click](https://halloy.chat/) | 2025-06 | `Desktop` |
 | 1,891 | [Codeux-Software/Textual](https://github.com/Codeux-Software/Textual) | Objective-C | [click](https://www.codeux.com/textual/) | 2025-06 | `Desktop` |
 | 1,115 | [convos-chat/convos](https://github.com/convos-chat/convos) | Perl | [click](http://convos.chat) | 2025-02 | `Browser` |
 | 1,087 | [osa1/tiny](https://github.com/osa1/tiny) | Rust | n/a | 2025-07 | `Terminal` |
@@ -26,7 +26,7 @@ Software used to connect to an IRC network. To help distinguish between projects
 | 404 | [emacs-circe/circe](https://github.com/emacs-circe/circe) | Emacs Lisp | n/a | 2025-04 | |
 | 325 | [SrainApp/srain](https://github.com/SrainApp/srain) | C | [click](https://srain.silverrainz.me/) | 2025-07 | `Desktop` |
 | 325 | [codyd51/uefirc](https://github.com/codyd51/uefirc) | Rust | [click](https://axleos.com/an-irc-client-in-your-motherboard/) | 2024-04 | |
-| 298 | [irccloud/android](https://github.com/irccloud/android) | Java | n/a | 2025-06 | `Android` |
+| 297 | [irccloud/android](https://github.com/irccloud/android) | Java | n/a | 2025-06 | `Android` |
 | 288 | [irccloud/ios](https://github.com/irccloud/ios) | Objective-C | n/a | 2025-07 | `iOS` |
 | 256 | [kvirc/KVIrc](https://github.com/kvirc/KVIrc) | C++ | [click](http://www.kvirc.net/) | 2025-06 | `Desktop` |
 | 177 | [qwebirc/qwebirc](https://github.com/qwebirc/qwebirc) | JavaScript | [click](https://qwebirc.org/) | 2023-08 | `Browser` |
@@ -74,7 +74,7 @@ IRC servers (daemons) are central points in an IRC network for clients to connec
 | Stars | Repository | Language | Homepage | Latest Commit |
 | ----: | :--------- | :------: | :------: | :-----------: |
 | 2,859 | [ergochat/ergo](https://github.com/ergochat/ergo) | Go | [click](https://ergo.chat/) | 2025-06 |
-| 1,241 | [inspircd/inspircd](https://github.com/inspircd/inspircd) | C++ | [click](https://www.inspircd.org) | 2025-06 |
+| 1,242 | [inspircd/inspircd](https://github.com/inspircd/inspircd) | C++ | [click](https://www.inspircd.org) | 2025-07 |
 | 484 | [ngircd/ngircd](https://github.com/ngircd/ngircd) | C | [click](http://ngircd.barton.de/) | 2024-10 |
 | 456 | [unrealircd/unrealircd](https://github.com/unrealircd/unrealircd) | C | [click](https://www.unrealircd.org) | 2025-07 |
 | 436 | [jrosdahl/miniircd](https://github.com/jrosdahl/miniircd) | Python | n/a | 2025-02 |
@@ -107,7 +107,7 @@ Automated client software that can perform tasks in a channel such as moderation
 
 | Stars | Repository | Language | Homepage | Latest Commit |
 | ----: | :--------- | :------: | :------: | :-----------: |
-| 964 | [sopel-irc/sopel](https://github.com/sopel-irc/sopel) | Python | [click](https://sopel.chat) | 2025-06 |
+| 963 | [sopel-irc/sopel](https://github.com/sopel-irc/sopel) | Python | [click](https://sopel.chat) | 2025-06 |
 | 637 | [progval/Limnoria](https://github.com/progval/Limnoria) | Python | [click](https://docs.limnoria.net/) | 2025-06 |
 | 537 | [eggheads/eggdrop](https://github.com/eggheads/eggdrop) | C | n/a | 2025-07 |
 | 391 | [ArchiveTeam/ArchiveBot](https://github.com/ArchiveTeam/ArchiveBot) | Python | [click](http://www.archiveteam.org/index.php?title=ArchiveBot) | 2025-05 |
@@ -115,8 +115,8 @@ Automated client software that can perform tasks in a channel such as moderation
 | 249 | [rmmh/skybot](https://github.com/rmmh/skybot) | Python | [click](https://github.com/rmmh/skybot/wiki) | 2025-04 |
 | 165 | [lambdabot/lambdabot](https://github.com/lambdabot/lambdabot) | Haskell | n/a | 2025-05 |
 | 99 | [johnmaguire/Cardinal](https://github.com/johnmaguire/Cardinal) | Python | n/a | 2025-06 |
-| 78 | [pyhoneybot/honeybot](https://github.com/pyhoneybot/honeybot) | Python | [click](https://pyhoneybot.github.io/honeybot-store/) | 2024-09 |
 | 77 | [TotallyNotRobots/CloudBot](https://github.com/TotallyNotRobots/CloudBot) | Python | n/a | 2024-06 |
+| 77 | [pyhoneybot/honeybot](https://github.com/pyhoneybot/honeybot) | Python | [click](https://pyhoneybot.github.io/honeybot-store/) | 2024-09 |
 | 76 | [wraith/wraith](https://github.com/wraith/wraith) | C++ | [click](http://wraith.botpack.net) | 2024-03 |
 | 75 | [baines/insobot](https://github.com/baines/insobot) | C | n/a | 2025-03 |
 | 74 | [boreq/botnet](https://github.com/boreq/botnet) | Python | n/a | 2025-04 |
@@ -149,9 +149,9 @@ Automated client software that can perform tasks in a channel such as moderation
 | 13 | [cakephp/irc.cakephp.org](https://github.com/cakephp/irc.cakephp.org) | PHP | [click](http://irc.cakephp.org) | 2024-12 |
 | 13 | [falsovsky/idlerpg](https://github.com/falsovsky/idlerpg) | Perl | n/a | 2023-08 |
 | 12 | [thomwiggers/onebot](https://github.com/thomwiggers/onebot) | Python | n/a | 2025-06 |
+| 12 | [birdneststream/aibird](https://github.com/birdneststream/aibird) | Go | n/a | 2024-06 |
 | 12 | [knivey/lolbot](https://github.com/knivey/lolbot) | PHP | n/a | 2025-06 |
 | 12 | [fade/harlie](https://github.com/fade/harlie) | Roff | n/a | 2025-07 |
-| 11 | [birdneststream/aibird](https://github.com/birdneststream/aibird) | Go | n/a | 2024-06 |
 | 11 | [brockman-news/brockman](https://github.com/brockman-news/brockman) | Haskell | n/a | 2025-06 |
 | 10 | [serpis/pynik](https://github.com/serpis/pynik) | Python | n/a | 2025-03 |
 | 10 | [acidvegas/irccex](https://github.com/acidvegas/irccex) | Python | n/a | 2024-01 |
@@ -180,6 +180,3 @@ Miscellaneous software and resources of interest.
 | 33 | [birdneststream/asciibird](https://github.com/birdneststream/asciibird) | Vue | [click](https://asciibird.birdnest.live/) | 2025-05 | ASCII Creation... |
 | 22 | [homeworkprod/syslog2irc](https://github.com/homeworkprod/syslog2irc) | Python | [click](http://homework.nwsnet.de/releases/c474/#syslog2irc) | 2021-12 | Forward syslog messages to IRC... |
 
----
-
-*This repository is maintained through IRC; #dev on irc.dutnie.nl:6697 (TLS), no Issues and PRs on GitHub please.*
