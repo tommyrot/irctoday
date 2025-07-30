@@ -12,15 +12,15 @@ Software used to connect to an IRC network. To help distinguish between projects
 
 | Stars | Repository | Language | Homepage | Latest Commit | Platforms |
 | ----: | :--------- | :------: | :------: | :-----------: | :-------- |
-| 5,955 | [thelounge/thelounge](https://github.com/thelounge/thelounge) | TypeScript | [click](https://thelounge.chat) | 2024-11 | `Browser` |
-| 3,123 | [weechat/weechat](https://github.com/weechat/weechat) | C | [click](https://weechat.org) | 2025-07 | `Terminal` |
+| 5,956 | [thelounge/thelounge](https://github.com/thelounge/thelounge) | TypeScript | [click](https://thelounge.chat) | 2024-11 | `Browser` |
+| 3,124 | [weechat/weechat](https://github.com/weechat/weechat) | C | [click](https://weechat.org) | 2025-07 | `Terminal` |
 | 2,984 | [irssi/irssi](https://github.com/irssi/irssi) | C | [click](https://irssi.org) | 2025-07 | `Terminal` |
-| 2,524 | [squidowl/halloy](https://github.com/squidowl/halloy) | Rust | [click](https://halloy.chat/) | 2025-07 | `Desktop` |
+| 2,527 | [squidowl/halloy](https://github.com/squidowl/halloy) | Rust | [click](https://halloy.chat/) | 2025-07 | `Desktop` |
 | 1,891 | [Codeux-Software/Textual](https://github.com/Codeux-Software/Textual) | Objective-C | [click](https://www.codeux.com/textual/) | 2025-06 | `Desktop` |
-| 1,120 | [convos-chat/convos](https://github.com/convos-chat/convos) | Perl | [click](http://convos.chat) | 2025-02 | `Browser` |
-| 1,086 | [osa1/tiny](https://github.com/osa1/tiny) | Rust | n/a | 2025-07 | `Terminal` |
+| 1,121 | [convos-chat/convos](https://github.com/convos-chat/convos) | Perl | [click](http://convos.chat) | 2025-02 | `Browser` |
+| 1,087 | [osa1/tiny](https://github.com/osa1/tiny) | Rust | n/a | 2025-07 | `Terminal` |
 | 961 | [glowing-bear/glowing-bear](https://github.com/glowing-bear/glowing-bear) | JavaScript | [click](https://www.glowing-bear.org) | 2025-07 | `Browser` |
-| 913 | [kiwiirc/kiwiirc](https://github.com/kiwiirc/kiwiirc) | Vue | [click](https://kiwiirc.com/) | 2025-03 | `Browser` |
+| 914 | [kiwiirc/kiwiirc](https://github.com/kiwiirc/kiwiirc) | Vue | [click](https://kiwiirc.com/) | 2025-03 | `Browser` |
 | 748 | [quassel/quassel](https://github.com/quassel/quassel) | C++ | [click](https://quassel-irc.org/) | 2025-07 | `Desktop` |
 | 535 | [mcpcpc/kirc](https://github.com/mcpcpc/kirc) | C | [click](https://mcpcpc.github.io/kirc/) | 2025-05 | `Terminal` |
 | 404 | [emacs-circe/circe](https://github.com/emacs-circe/circe) | Emacs Lisp | n/a | 2025-07 | |
@@ -29,7 +29,7 @@ Software used to connect to an IRC network. To help distinguish between projects
 | 298 | [irccloud/android](https://github.com/irccloud/android) | Java | n/a | 2025-06 | `Android` |
 | 289 | [irccloud/ios](https://github.com/irccloud/ios) | Objective-C | n/a | 2025-07 | `iOS` |
 | 257 | [kvirc/KVIrc](https://github.com/kvirc/KVIrc) | C++ | [click](http://www.kvirc.net/) | 2025-07 | `Desktop` |
-| 194 | [babycommando/zuse](https://github.com/babycommando/zuse) | Go | n/a | 2025-07 | `Terminal` |
+| 215 | [babycommando/zuse](https://github.com/babycommando/zuse) | Go | n/a | 2025-07 | `Terminal` |
 | 178 | [qwebirc/qwebirc](https://github.com/qwebirc/qwebirc) | JavaScript | [click](https://qwebirc.org/) | 2023-08 | `Browser` |
 | 177 | [meebey/smuxi](https://github.com/meebey/smuxi) | C# | [click](https://smuxi.im/) | 2025-05 | `Desktop` |
 | 165 | [glguy/irc-core](https://github.com/glguy/irc-core) | Haskell | n/a | 2025-07 | `Terminal` |
@@ -44,7 +44,7 @@ Software used to connect to an IRC network. To help distinguish between projects
 | 34 | [HydraIRC/hydrairc](https://github.com/HydraIRC/hydrairc) | C++ | n/a | 2023-08 | `Desktop` |
 | 34 | [mhoran/weechatRN](https://github.com/mhoran/weechatRN) | TypeScript | n/a | 2025-07 | `iOS` |
 | 30 | [nutjob-laboratories/erk](https://github.com/nutjob-laboratories/erk) | Python | n/a | 2025-03 | `Desktop` |
-| 29 | [ObsidianIRC/ObsidianIRC](https://github.com/ObsidianIRC/ObsidianIRC) | TypeScript | n/a | 2025-06 | `Desktop` |
+| 30 | [ObsidianIRC/ObsidianIRC](https://github.com/ObsidianIRC/ObsidianIRC) | TypeScript | n/a | 2025-06 | `Desktop` |
 | 26 | [uhlin/swirc](https://github.com/uhlin/swirc) | C | [click](https://www.nifty-networks.net/swirc/) | 2025-07 | `Terminal` |
 | 25 | [robur-coop/catty](https://github.com/robur-coop/catty) | OCaml | n/a | 2023-09 | `Terminal` |
 | 24 | [shadmansaleh/IRC.nvim](https://github.com/shadmansaleh/IRC.nvim) | Lua | n/a | 2025-03 | |
@@ -74,7 +74,7 @@ IRC servers (daemons) are central points in an IRC network for clients to connec
 
 | Stars | Repository | Language | Homepage | Latest Commit |
 | ----: | :--------- | :------: | :------: | :-----------: |
-| 2,873 | [ergochat/ergo](https://github.com/ergochat/ergo) | Go | [click](https://ergo.chat/) | 2025-06 |
+| 2,876 | [ergochat/ergo](https://github.com/ergochat/ergo) | Go | [click](https://ergo.chat/) | 2025-06 |
 | 1,249 | [inspircd/inspircd](https://github.com/inspircd/inspircd) | C++ | [click](https://www.inspircd.org) | 2025-07 |
 | 487 | [ngircd/ngircd](https://github.com/ngircd/ngircd) | C | [click](http://ngircd.barton.de/) | 2024-10 |
 | 459 | [unrealircd/unrealircd](https://github.com/unrealircd/unrealircd) | C | [click](https://www.unrealircd.org) | 2025-07 |
@@ -108,7 +108,7 @@ Automated client software that can perform tasks in a channel such as moderation
 | Stars | Repository | Language | Homepage | Latest Commit |
 | ----: | :--------- | :------: | :------: | :-----------: |
 | 964 | [sopel-irc/sopel](https://github.com/sopel-irc/sopel) | Python | [click](https://sopel.chat) | 2025-07 |
-| 638 | [progval/Limnoria](https://github.com/progval/Limnoria) | Python | [click](https://docs.limnoria.net/) | 2025-07 |
+| 639 | [progval/Limnoria](https://github.com/progval/Limnoria) | Python | [click](https://docs.limnoria.net/) | 2025-07 |
 | 540 | [eggheads/eggdrop](https://github.com/eggheads/eggdrop) | C | n/a | 2025-07 |
 | 393 | [ArchiveTeam/ArchiveBot](https://github.com/ArchiveTeam/ArchiveBot) | Python | [click](http://www.archiveteam.org/index.php?title=ArchiveBot) | 2025-05 |
 | 277 | [CloudBotIRC/CloudBot](https://github.com/CloudBotIRC/CloudBot) | Python | n/a | 2023-12 |
