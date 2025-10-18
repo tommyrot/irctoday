@@ -12,17 +12,17 @@ Software used to connect to an IRC network. To help distinguish between projects
 
 | Stars | Repository | Language | Homepage | Latest Commit | Platforms |
 | ----: | :--------- | :------: | :------: | :-----------: | :-------- |
-| 6,021 | [thelounge/thelounge](https://github.com/thelounge/thelounge) | TypeScript | [click](https://thelounge.chat) | 2025-09 | `Browser` |
-| 3,276 | [squidowl/halloy](https://github.com/squidowl/halloy) | Rust | [click](https://halloy.chat/) | 2025-10 | `Desktop` |
-| 3,155 | [weechat/weechat](https://github.com/weechat/weechat) | C | [click](https://weechat.org) | 2025-10 | `Terminal` |
-| 3,015 | [irssi/irssi](https://github.com/irssi/irssi) | C | [click](https://irssi.org) | 2025-07 | `Terminal` |
+| 6,023 | [thelounge/thelounge](https://github.com/thelounge/thelounge) | TypeScript | [click](https://thelounge.chat) | 2025-09 | `Browser` |
+| 3,290 | [squidowl/halloy](https://github.com/squidowl/halloy) | Rust | [click](https://halloy.chat/) | 2025-10 | `Desktop` |
+| 3,157 | [weechat/weechat](https://github.com/weechat/weechat) | C | [click](https://weechat.org) | 2025-10 | `Terminal` |
+| 3,014 | [irssi/irssi](https://github.com/irssi/irssi) | C | [click](https://irssi.org) | 2025-07 | `Terminal` |
 | 1,129 | [convos-chat/convos](https://github.com/convos-chat/convos) | Perl | [click](http://convos.chat) | 2025-02 | `Browser` |
 | 1,111 | [osa1/tiny](https://github.com/osa1/tiny) | Rust | n/a | 2025-09 | `Terminal` |
 | 961 | [glowing-bear/glowing-bear](https://github.com/glowing-bear/glowing-bear) | JavaScript | [click](https://www.glowing-bear.org) | 2025-09 | `Browser` |
 | 931 | [kiwiirc/kiwiirc](https://github.com/kiwiirc/kiwiirc) | Vue | [click](https://kiwiirc.com/) | 2025-08 | `Browser` |
 | 751 | [quassel/quassel](https://github.com/quassel/quassel) | C++ | [click](https://quassel-irc.org/) | 2025-07 | `Desktop` |
 | 543 | [mcpcpc/kirc](https://github.com/mcpcpc/kirc) | C | [click](https://mcpcpc.github.io/kirc/) | 2025-05 | `Terminal` |
-| 419 | [emacs-circe/circe](https://github.com/emacs-circe/circe) | Emacs Lisp | n/a | 2025-09 | |
+| 420 | [emacs-circe/circe](https://github.com/emacs-circe/circe) | Emacs Lisp | n/a | 2025-09 | |
 | 326 | [SrainApp/srain](https://github.com/SrainApp/srain) | C | [click](https://srain.silverrainz.me/) | 2025-07 | `Desktop` |
 | 325 | [codyd51/uefirc](https://github.com/codyd51/uefirc) | Rust | [click](https://axleos.com/an-irc-client-in-your-motherboard/) | 2024-04 | |
 | 301 | [irccloud/android](https://github.com/irccloud/android) | Java | n/a | 2025-09 | `Android` |
@@ -70,9 +70,9 @@ IRC servers (daemons) are central points in an IRC network for clients to connec
 
 | Stars | Repository | Language | Homepage | Latest Commit |
 | ----: | :--------- | :------: | :------: | :-----------: |
-| 2,931 | [ergochat/ergo](https://github.com/ergochat/ergo) | Go | [click](https://ergo.chat/) | 2025-08 |
+| 2,932 | [ergochat/ergo](https://github.com/ergochat/ergo) | Go | [click](https://ergo.chat/) | 2025-08 |
 | 1,258 | [inspircd/inspircd](https://github.com/inspircd/inspircd) | C++ | [click](https://www.inspircd.org) | 2025-10 |
-| 505 | [ngircd/ngircd](https://github.com/ngircd/ngircd) | C | [click](http://ngircd.barton.de/) | 2025-09 |
+| 506 | [ngircd/ngircd](https://github.com/ngircd/ngircd) | C | [click](http://ngircd.barton.de/) | 2025-09 |
 | 469 | [unrealircd/unrealircd](https://github.com/unrealircd/unrealircd) | C | [click](https://www.unrealircd.org) | 2025-10 |
 | 438 | [jrosdahl/miniircd](https://github.com/jrosdahl/miniircd) | Python | n/a | 2025-02 |
 | 251 | [solanum-ircd/solanum](https://github.com/solanum-ircd/solanum) | C | [click](https://solanum.chat/) | 2025-10 |
@@ -94,7 +94,7 @@ A bouncer is a piece of software that sits between a client and a server. Its pu
 
 | Stars | Repository | Language | Homepage | Latest Commit |
 | ----: | :--------- | :------: | :------: | :-----------: |
-| 2,068 | [znc/znc](https://github.com/znc/znc) | C++ | [click](https://znc.in/) | 2025-10 |
+| 2,069 | [znc/znc](https://github.com/znc/znc) | C++ | [click](https://znc.in/) | 2025-10 |
 | 161 | [emersion/soju](https://github.com/emersion/soju) | Go | [click](https://soju.im) | 2025-10 |
 | 30 | [freenode/jbnc](https://github.com/freenode/jbnc) | JavaScript | n/a | 2024-11 |
 
