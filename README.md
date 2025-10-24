@@ -13,14 +13,14 @@ Software used to connect to an IRC network. To help distinguish between projects
 | Stars | Repository | Language | Homepage | Latest Commit | Platforms |
 | ----: | :--------- | :------: | :------: | :-----------: | :-------- |
 | 6,032 | [thelounge/thelounge](https://github.com/thelounge/thelounge) | TypeScript | [click](https://thelounge.chat) | 2025-09 | `Browser` |
-| 3,345 | [squidowl/halloy](https://github.com/squidowl/halloy) | Rust | [click](https://halloy.chat/) | 2025-10 | `Desktop` |
+| 3,348 | [squidowl/halloy](https://github.com/squidowl/halloy) | Rust | [click](https://halloy.chat/) | 2025-10 | `Desktop` |
 | 3,161 | [weechat/weechat](https://github.com/weechat/weechat) | C | [click](https://weechat.org) | 2025-10 | `Terminal` |
 | 3,018 | [irssi/irssi](https://github.com/irssi/irssi) | C | [click](https://irssi.org) | 2025-07 | `Terminal` |
 | 1,130 | [convos-chat/convos](https://github.com/convos-chat/convos) | Perl | [click](http://convos.chat) | 2025-02 | `Browser` |
 | 1,114 | [osa1/tiny](https://github.com/osa1/tiny) | Rust | n/a | 2025-10 | `Terminal` |
 | 961 | [glowing-bear/glowing-bear](https://github.com/glowing-bear/glowing-bear) | JavaScript | [click](https://www.glowing-bear.org) | 2025-09 | `Browser` |
 | 931 | [kiwiirc/kiwiirc](https://github.com/kiwiirc/kiwiirc) | Vue | [click](https://kiwiirc.com/) | 2025-08 | `Browser` |
-| 751 | [quassel/quassel](https://github.com/quassel/quassel) | C++ | [click](https://quassel-irc.org/) | 2025-07 | `Desktop` |
+| 752 | [quassel/quassel](https://github.com/quassel/quassel) | C++ | [click](https://quassel-irc.org/) | 2025-07 | `Desktop` |
 | 543 | [mcpcpc/kirc](https://github.com/mcpcpc/kirc) | C | [click](https://mcpcpc.github.io/kirc/) | 2025-05 | `Terminal` |
 | 420 | [emacs-circe/circe](https://github.com/emacs-circe/circe) | Emacs Lisp | n/a | 2025-10 | |
 | 327 | [SrainApp/srain](https://github.com/SrainApp/srain) | C | [click](https://srain.silverrainz.me/) | 2025-07 | `Desktop` |
@@ -48,7 +48,7 @@ Software used to connect to an IRC network. To help distinguish between projects
 | 20 | [dlowe-net/irken](https://github.com/dlowe-net/irken) | Tcl | n/a | 2025-06 | `Desktop` |
 | 17 | [matty-r/urChat](https://github.com/matty-r/urChat) | Java | n/a | 2024-03 | `Desktop` |
 | 16 | [SweMonkey/smdt](https://github.com/SweMonkey/smdt) | C | n/a | 2025-08 | |
-| 14 | [delthas/senpai](https://github.com/delthas/senpai) | Go | [click](https://sr.ht/~delthas/senpai/) | 2025-09 | `Terminal` |
+| 14 | [delthas/senpai](https://github.com/delthas/senpai) | Go | [click](https://sr.ht/~delthas/senpai/) | 2025-10 | `Terminal` |
 | 14 | [umutcamliyurt/IrisChat](https://github.com/umutcamliyurt/IrisChat) | Java | n/a | 2024-09 | `Android` |
 | 14 | [ShrugShoulders/RudeChat](https://github.com/ShrugShoulders/RudeChat) | Python | n/a | 2025-07 | `Desktop` |
 | 13 | [wick3dr0se/irc-bash](https://github.com/wick3dr0se/irc-bash) | Shell | n/a | 2023-10 | `Terminal` |
@@ -71,8 +71,8 @@ IRC servers (daemons) are central points in an IRC network for clients to connec
 | Stars | Repository | Language | Homepage | Latest Commit |
 | ----: | :--------- | :------: | :------: | :-----------: |
 | 2,934 | [ergochat/ergo](https://github.com/ergochat/ergo) | Go | [click](https://ergo.chat/) | 2025-08 |
-| 1,260 | [inspircd/inspircd](https://github.com/inspircd/inspircd) | C++ | [click](https://www.inspircd.org) | 2025-10 |
-| 507 | [ngircd/ngircd](https://github.com/ngircd/ngircd) | C | [click](http://ngircd.barton.de/) | 2025-09 |
+| 1,261 | [inspircd/inspircd](https://github.com/inspircd/inspircd) | C++ | [click](https://www.inspircd.org) | 2025-10 |
+| 508 | [ngircd/ngircd](https://github.com/ngircd/ngircd) | C | [click](http://ngircd.barton.de/) | 2025-09 |
 | 471 | [unrealircd/unrealircd](https://github.com/unrealircd/unrealircd) | C | [click](https://www.unrealircd.org) | 2025-10 |
 | 438 | [jrosdahl/miniircd](https://github.com/jrosdahl/miniircd) | Python | n/a | 2025-02 |
 | 251 | [solanum-ircd/solanum](https://github.com/solanum-ircd/solanum) | C | [click](https://solanum.chat/) | 2025-10 |
