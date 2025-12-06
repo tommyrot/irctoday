@@ -12,12 +12,12 @@ Software used to connect to an IRC network. To help distinguish between projects
 
 | Stars | Repository | Language | Homepage | Latest Commit | Platforms |
 | ----: | :--------- | :------: | :------: | :-----------: | :-------- |
-| 6,067 | [thelounge/thelounge](https://github.com/thelounge/thelounge) | TypeScript | [click](https://thelounge.chat) | 2025-09 | `Browser` |
-| 3,469 | [squidowl/halloy](https://github.com/squidowl/halloy) | Rust | [click](https://halloy.chat/) | 2025-11 | `Desktop` |
+| 6,068 | [thelounge/thelounge](https://github.com/thelounge/thelounge) | TypeScript | [click](https://thelounge.chat) | 2025-09 | `Browser` |
+| 3,473 | [squidowl/halloy](https://github.com/squidowl/halloy) | Rust | [click](https://halloy.chat/) | 2025-11 | `Desktop` |
 | 3,190 | [weechat/weechat](https://github.com/weechat/weechat) | C | [click](https://weechat.org) | 2025-11 | `Terminal` |
 | 3,038 | [irssi/irssi](https://github.com/irssi/irssi) | C | [click](https://irssi.org) | 2025-11 | `Terminal` |
 | 1,465 | [thedjpetersen/subway](https://github.com/thedjpetersen/subway) | JavaScript | n/a | 2025-11 | `Browser` |
-| 1,144 | [convos-chat/convos](https://github.com/convos-chat/convos) | Perl | [click](http://convos.chat) | 2025-02 | `Browser` |
+| 1,143 | [convos-chat/convos](https://github.com/convos-chat/convos) | Perl | [click](http://convos.chat) | 2025-02 | `Browser` |
 | 1,120 | [osa1/tiny](https://github.com/osa1/tiny) | Rust | n/a | 2025-10 | `Terminal` |
 | 967 | [glowing-bear/glowing-bear](https://github.com/glowing-bear/glowing-bear) | JavaScript | [click](https://www.glowing-bear.org) | 2025-09 | `Browser` |
 | 939 | [kiwiirc/kiwiirc](https://github.com/kiwiirc/kiwiirc) | Vue | [click](https://kiwiirc.com/) | 2025-08 | `Browser` |
@@ -29,12 +29,12 @@ Software used to connect to an IRC network. To help distinguish between projects
 | 302 | [irccloud/android](https://github.com/irccloud/android) | Java | n/a | 2025-11 | `Android` |
 | 288 | [irccloud/ios](https://github.com/irccloud/ios) | Objective-C | n/a | 2025-09 | `iOS` |
 | 288 | [babycommando/zuse](https://github.com/babycommando/zuse) | Go | n/a | 2025-07 | `Terminal` |
-| 271 | [kvirc/KVIrc](https://github.com/kvirc/KVIrc) | C++ | [click](http://www.kvirc.net/) | 2025-11 | `Desktop` |
+| 272 | [kvirc/KVIrc](https://github.com/kvirc/KVIrc) | C++ | [click](http://www.kvirc.net/) | 2025-11 | `Desktop` |
 | 180 | [meebey/smuxi](https://github.com/meebey/smuxi) | C# | [click](https://smuxi.im/) | 2025-05 | `Desktop` |
 | 165 | [glguy/irc-core](https://github.com/glguy/irc-core) | Haskell | n/a | 2025-11 | `Terminal` |
 | 116 | [nhexirc/nhex](https://github.com/nhexirc/nhex) | TypeScript | n/a | 2024-11 | `Desktop` |
 | 104 | [LithApp/Lith](https://github.com/LithApp/Lith) | C++ | [click](https://lith.app) | 2025-11 | `iOS` |
-| 64 | [ObsidianIRC/ObsidianIRC](https://github.com/ObsidianIRC/ObsidianIRC) | TypeScript | n/a | 2025-10 | `Desktop` |
+| 64 | [ObsidianIRC/ObsidianIRC](https://github.com/ObsidianIRC/ObsidianIRC) | TypeScript | n/a | 2025-11 | `Desktop` |
 | 60 | [communi/communi-desktop](https://github.com/communi/communi-desktop) | C++ | [click](https://communi.github.io/) | 2024-05 | `Desktop` |
 | 59 | [Libera-Chat/gamja](https://github.com/Libera-Chat/gamja) | JavaScript | n/a | 2024-04 | `Browser` |
 | 55 | [rockorager/comlink](https://github.com/rockorager/comlink) | Zig | n/a | 2025-05 | `Desktop` |
@@ -140,7 +140,7 @@ Automated client software that can perform tasks in a channel such as moderation
 | 15 | [tjcsl/cslbot](https://github.com/tjcsl/cslbot) | Python | n/a | 2025-11 |
 | 15 | [lobsters/mockturtle](https://github.com/lobsters/mockturtle) | JavaScript | n/a | 2025-08 |
 | 15 | [ugjka/newyearsbot](https://github.com/ugjka/newyearsbot) | Go | n/a | 2025-11 |
-| 14 | [TheReverend403/cappuccino](https://github.com/TheReverend403/cappuccino) | Python | n/a | 2025-10 |
+| 14 | [TheReverend403/cappuccino](https://github.com/TheReverend403/cappuccino) | Python | n/a | 2025-12 |
 | 14 | [oxagast/Franklin](https://github.com/oxagast/Franklin) | Perl | [click](https://franklin.oxasploits.com) | 2025-11 |
 | 13 | [cakephp/irc.cakephp.org](https://github.com/cakephp/irc.cakephp.org) | PHP | [click](http://irc.cakephp.org) | 2024-12 |
 | 13 | [thomwiggers/onebot](https://github.com/thomwiggers/onebot) | Python | n/a | 2025-09 |
