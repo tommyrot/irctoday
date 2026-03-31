@@ -14,14 +14,14 @@ Software used to connect to an IRC network. To help distinguish between projects
 | ----: | :--------- | :------: | :------: | :-----------: | :-------- |
 | 6,203 | [thelounge/thelounge](https://github.com/thelounge/thelounge) | TypeScript | [click](https://thelounge.chat) | 2026-01 | `Browser` |
 | 3,964 | [squidowl/halloy](https://github.com/squidowl/halloy) | Rust | [click](https://halloy.chat/) | 2026-03 | `Desktop` |
-| 3,286 | [weechat/weechat](https://github.com/weechat/weechat) | C | [click](https://weechat.org) | 2026-03 | `Terminal` |
+| 3,288 | [weechat/weechat](https://github.com/weechat/weechat) | C | [click](https://weechat.org) | 2026-03 | `Terminal` |
 | 3,090 | [irssi/irssi](https://github.com/irssi/irssi) | C | [click](https://irssi.org) | 2026-01 | `Terminal` |
 | 1,465 | [thedjpetersen/subway](https://github.com/thedjpetersen/subway) | JavaScript | n/a | 2025-11 | `Browser` |
 | 1,163 | [convos-chat/convos](https://github.com/convos-chat/convos) | Perl | [click](http://convos.chat) | 2025-02 | `Browser` |
 | 1,151 | [osa1/tiny](https://github.com/osa1/tiny) | Rust | n/a | 2026-03 | `Terminal` |
 | 969 | [glowing-bear/glowing-bear](https://github.com/glowing-bear/glowing-bear) | JavaScript | [click](https://www.glowing-bear.org) | 2025-09 | `Browser` |
 | 965 | [kiwiirc/kiwiirc](https://github.com/kiwiirc/kiwiirc) | Vue | [click](https://kiwiirc.com/) | 2026-03 | `Browser` |
-| 767 | [quassel/quassel](https://github.com/quassel/quassel) | C++ | [click](https://quassel-irc.org/) | 2025-07 | `Desktop` |
+| 768 | [quassel/quassel](https://github.com/quassel/quassel) | C++ | [click](https://quassel-irc.org/) | 2025-07 | `Desktop` |
 | 544 | [mcpcpc/kirc](https://github.com/mcpcpc/kirc) | C | [click](https://kirc.dev/) | 2026-01 | `Terminal` |
 | 434 | [emacs-circe/circe](https://github.com/emacs-circe/circe) | Emacs Lisp | n/a | 2026-03 | |
 | 332 | [codyd51/uefirc](https://github.com/codyd51/uefirc) | Rust | [click](https://axleos.com/an-irc-client-in-your-motherboard/) | 2024-04 | |
@@ -29,7 +29,7 @@ Software used to connect to an IRC network. To help distinguish between projects
 | 316 | [babycommando/zuse](https://github.com/babycommando/zuse) | Go | n/a | 2025-07 | `Terminal` |
 | 306 | [irccloud/android](https://github.com/irccloud/android) | Java | n/a | 2026-03 | `Android` |
 | 292 | [irccloud/ios](https://github.com/irccloud/ios) | Objective-C | n/a | 2026-03 | `iOS` |
-| 287 | [kvirc/KVIrc](https://github.com/kvirc/KVIrc) | C++ | [click](http://www.kvirc.net/) | 2026-03 | `Desktop` |
+| 288 | [kvirc/KVIrc](https://github.com/kvirc/KVIrc) | C++ | [click](http://www.kvirc.net/) | 2026-03 | `Desktop` |
 | 194 | [ObsidianIRC/ObsidianIRC](https://github.com/ObsidianIRC/ObsidianIRC) | TypeScript | [click](https://obsidianirc.github.io) | 2026-03 | `Desktop` |
 | 184 | [meebey/smuxi](https://github.com/meebey/smuxi) | C# | [click](https://smuxi.im/) | 2025-12 | `Desktop` |
 | 168 | [glguy/irc-core](https://github.com/glguy/irc-core) | Haskell | n/a | 2026-01 | `Terminal` |
@@ -53,18 +53,18 @@ Software used to connect to an IRC network. To help distinguish between projects
 | 20 | [dlowe-net/irken](https://github.com/dlowe-net/irken) | Tcl | n/a | 2025-06 | `Desktop` |
 | 19 | [ShrugShoulders/RudeChat](https://github.com/ShrugShoulders/RudeChat) | Python | n/a | 2026-02 | `Desktop` |
 | 19 | [KaraZajac/rvIRC](https://github.com/KaraZajac/rvIRC) | Rust | [click](https://karazajac.github.io/rvIRC/) | 2026-03 | `Terminal` |
-| 16 | [ZoiteChat/zoitechat](https://github.com/ZoiteChat/zoitechat) | C | [click](https://zoitechat.zoite.net) | 2026-03 | `Desktop` |
+| 16 | [ZoiteChat/zoitechat](https://github.com/ZoiteChat/zoitechat) | C | [click](https://zoitechat.org) | 2026-03 | `Desktop` |
 | 15 | [umutatalar/IrisChat](https://github.com/umutatalar/IrisChat) | Java | n/a | 2026-03 | `Android` |
 | 13 | [opicron/mysticbbs-irc](https://github.com/opicron/mysticbbs-irc) | n/a | n/a | 2025-05 | `Terminal` |
 | 13 | [gotr00t0day/rootX](https://github.com/gotr00t0day/rootX) | Python | n/a | 2025-12 | `Desktop` |
 | 13 | [IllusionMan1212/gorc](https://github.com/IllusionMan1212/gorc) | Go | n/a | 2025-09 | `Terminal` |
+| 13 | [eznix86/irc-client](https://github.com/eznix86/irc-client) | Go | n/a | 2025-10 | `Terminal` |
 | 13 | [AndroidIRCx/AndroidIRCx](https://github.com/AndroidIRCx/AndroidIRCx) | TypeScript | [click](https://androidircx.com) | 2026-03 | `Android` |
 | 12 | [parmaja/miniIRChat](https://github.com/parmaja/miniIRChat) | Pascal | n/a | 2025-07 | `Desktop` |
 | 12 | [HaikuArchives/Vision](https://github.com/HaikuArchives/Vision) | C++ | n/a | 2025-12 | `Desktop` |
 | 12 | [cptaffe/airc](https://github.com/cptaffe/airc) | C | n/a | 2025-01 | `Terminal` |
 | 12 | [SwiftIRC/Web-IRC](https://github.com/SwiftIRC/Web-IRC) | JavaScript | [click](https://chat.swiftirc.net) | 2025-12 | `Browser` |
 | 12 | [laeos/xaric](https://github.com/laeos/xaric) | C | [click](http://xaric.org/) | 2025-09 | `Terminal` |
-| 12 | [eznix86/irc-client](https://github.com/eznix86/irc-client) | Go | n/a | 2025-10 | `Terminal` |
 | 11 | [dzwdz/hewwo](https://github.com/dzwdz/hewwo) | Lua | n/a | 2024-05 | `Terminal` |
 | 11 | [wodencafe/ircafe](https://github.com/wodencafe/ircafe) | Java | n/a | 2026-03 | `Desktop` |
 | 10 | [nathanborror/Rabble](https://github.com/nathanborror/Rabble) | Swift | n/a | 2025-10 | |
@@ -75,9 +75,9 @@ IRC servers (daemons) are central points in an IRC network for clients to connec
 
 | Stars | Repository | Language | Homepage | Latest Commit |
 | ----: | :--------- | :------: | :------: | :-----------: |
-| 3,164 | [ergochat/ergo](https://github.com/ergochat/ergo) | Go | [click](https://ergo.chat/) | 2026-03 |
+| 3,167 | [ergochat/ergo](https://github.com/ergochat/ergo) | Go | [click](https://ergo.chat/) | 2026-03 |
 | 1,306 | [inspircd/inspircd](https://github.com/inspircd/inspircd) | C++ | [click](https://www.inspircd.org) | 2026-03 |
-| 548 | [ngircd/ngircd](https://github.com/ngircd/ngircd) | C | [click](http://ngircd.barton.de/) | 2025-12 |
+| 550 | [ngircd/ngircd](https://github.com/ngircd/ngircd) | C | [click](http://ngircd.barton.de/) | 2025-12 |
 | 510 | [unrealircd/unrealircd](https://github.com/unrealircd/unrealircd) | C | [click](https://www.unrealircd.org) | 2026-03 |
 | 449 | [jrosdahl/miniircd](https://github.com/jrosdahl/miniircd) | Python | n/a | 2025-02 |
 | 255 | [solanum-ircd/solanum](https://github.com/solanum-ircd/solanum) | C | [click](https://solanum.chat/) | 2026-03 |
