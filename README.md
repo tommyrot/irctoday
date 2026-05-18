@@ -13,7 +13,7 @@ Software used to connect to an IRC network. To help distinguish between projects
 | Stars | Repository | Language | Homepage | Latest Commit | Platforms |
 | ----: | :--------- | :------: | :------: | :-----------: | :-------- |
 | 6,239 | [thelounge/thelounge](https://github.com/thelounge/thelounge) | TypeScript | [click](https://thelounge.chat) | 2026-05 | `Browser` |
-| 4,139 | [squidowl/halloy](https://github.com/squidowl/halloy) | Rust | [click](https://halloy.chat/) | 2026-05 | `Desktop` |
+| 4,145 | [squidowl/halloy](https://github.com/squidowl/halloy) | Rust | [click](https://halloy.chat/) | 2026-05 | `Desktop` |
 | 3,323 | [weechat/weechat](https://github.com/weechat/weechat) | C | [click](https://weechat.org) | 2026-05 | `Terminal` |
 | 3,109 | [irssi/irssi](https://github.com/irssi/irssi) | C | [click](https://irssi.org) | 2026-01 | `Terminal` |
 | 1,466 | [thedjpetersen/subway](https://github.com/thedjpetersen/subway) | JavaScript | n/a | 2026-04 | `Browser` |
@@ -30,7 +30,7 @@ Software used to connect to an IRC network. To help distinguish between projects
 | 305 | [irccloud/android](https://github.com/irccloud/android) | Java | n/a | 2026-04 | `Android` |
 | 293 | [irccloud/ios](https://github.com/irccloud/ios) | Objective-C | n/a | 2026-04 | `iOS` |
 | 291 | [kvirc/KVIrc](https://github.com/kvirc/KVIrc) | C++ | [click](http://www.kvirc.net/) | 2026-05 | `Desktop` |
-| 211 | [ObsidianIRC/ObsidianIRC](https://github.com/ObsidianIRC/ObsidianIRC) | TypeScript | [click](https://obsidianirc.github.io) | 2026-05 | `Desktop` |
+| 212 | [ObsidianIRC/ObsidianIRC](https://github.com/ObsidianIRC/ObsidianIRC) | TypeScript | [click](https://obsidianirc.github.io) | 2026-05 | `Desktop` |
 | 185 | [meebey/smuxi](https://github.com/meebey/smuxi) | C# | [click](https://smuxi.im/) | 2025-12 | `Desktop` |
 | 170 | [xchataqua/xchataqua](https://github.com/xchataqua/xchataqua) | Perl | [click](http://xchataqua.github.io/) | 2026-04 | `Desktop` |
 | 168 | [glguy/irc-core](https://github.com/glguy/irc-core) | Haskell | n/a | 2026-01 | `Terminal` |
@@ -42,8 +42,8 @@ Software used to connect to an IRC network. To help distinguish between projects
 | 66 | [justjanne/QuasselDroid-ng](https://github.com/justjanne/QuasselDroid-ng) | Kotlin | [click](https://quasseldroid.info/) | 2023-09 | `Android` |
 | 60 | [communi/communi-desktop](https://github.com/communi/communi-desktop) | C++ | [click](https://communi.github.io/) | 2024-05 | `Desktop` |
 | 58 | [rockorager/comlink](https://github.com/rockorager/comlink) | Zig | n/a | 2026-05 | `Desktop` |
+| 58 | [boxlabss/HexDroid](https://github.com/boxlabss/HexDroid) | Kotlin | [click](https://hexdroid.boxlabs.uk) | 2026-05 | `Android` |
 | 56 | [KDE/konversation](https://github.com/KDE/konversation) | C++ | [click](https://invent.kde.org/network/konversation) | 2026-05 | `Desktop` |
-| 56 | [boxlabss/HexDroid](https://github.com/boxlabss/HexDroid) | Kotlin | [click](https://hexdroid.boxlabs.uk) | 2026-05 | `Android` |
 | 55 | [dgl/cgiirc](https://github.com/dgl/cgiirc) | Perl | [click](http://cgiirc.org) | 2023-06 | `Browser` |
 | 55 | [nutjob-laboratories/merk](https://github.com/nutjob-laboratories/merk) | Python | n/a | 2026-05 | `Desktop` |
 | 42 | [mhoran/weechatRN](https://github.com/mhoran/weechatRN) | TypeScript | n/a | 2026-03 | `iOS` |
@@ -86,7 +86,7 @@ IRC servers (daemons) are central points in an IRC network for clients to connec
 | Stars | Repository | Language | Homepage | Latest Commit |
 | ----: | :--------- | :------: | :------: | :-----------: |
 | 3,223 | [ergochat/ergo](https://github.com/ergochat/ergo) | Go | [click](https://ergo.chat/) | 2026-05 |
-| 1,320 | [inspircd/inspircd](https://github.com/inspircd/inspircd) | C++ | [click](https://www.inspircd.org) | 2026-05 |
+| 1,323 | [inspircd/inspircd](https://github.com/inspircd/inspircd) | C++ | [click](https://www.inspircd.org) | 2026-05 |
 | 561 | [ngircd/ngircd](https://github.com/ngircd/ngircd) | C | [click](http://ngircd.barton.de/) | 2025-12 |
 | 515 | [unrealircd/unrealircd](https://github.com/unrealircd/unrealircd) | C | [click](https://www.unrealircd.org) | 2026-05 |
 | 451 | [jrosdahl/miniircd](https://github.com/jrosdahl/miniircd) | Python | n/a | 2025-02 |
@@ -145,7 +145,7 @@ Automated client software that can perform tasks in a channel such as moderation
 | 30 | [brenns10/cbot](https://github.com/brenns10/cbot) | C | n/a | 2025-11 |
 | 29 | [EnergyMech/energymech](https://github.com/EnergyMech/energymech) | C | n/a | 2025-12 |
 | 29 | [pkdindustries/soulshack](https://github.com/pkdindustries/soulshack) | Go | n/a | 2026-04 |
-| 27 | [funsocietyirc/MrNodeBot](https://github.com/funsocietyirc/MrNodeBot) | JavaScript | n/a | 2024-03 |
+| 28 | [funsocietyirc/MrNodeBot](https://github.com/funsocietyirc/MrNodeBot) | JavaScript | n/a | 2024-03 |
 | 25 | [tlikonen/cl-eval-bot](https://github.com/tlikonen/cl-eval-bot) | Common Lisp | n/a | 2025-09 |
 | 25 | [alybun/nisaba](https://github.com/alybun/nisaba) | Go | n/a | 2024-05 |
 | 19 | [ivar2/ivar2](https://github.com/ivar2/ivar2) | Lua | n/a | 2026-03 |
@@ -179,7 +179,7 @@ Miscellaneous software and resources of interest.
 
 | Stars | Repository | Language | Homepage | Latest Commit | Description |
 | ----: | :--------- | :------: | :------: | :-----------: | :---------- |
-| 849 | [ircv3/ircv3-specifications](https://github.com/ircv3/ircv3-specifications) | n/a | [click](http://ircv3.net) | 2026-05 | IRCv3 specifications | Roadmap: https://git.io/IRCv3-Roadmap | Code of conduct: http://ircv3.net/conduct.html... |
+| 850 | [ircv3/ircv3-specifications](https://github.com/ircv3/ircv3-specifications) | n/a | [click](http://ircv3.net) | 2026-05 | IRCv3 specifications | Roadmap: https://git.io/IRCv3-Roadmap | Code of conduct: http://ircv3.net/conduct.html... |
 | 647 | [bitlbee/bitlbee](https://github.com/bitlbee/bitlbee) | C | [click](https://www.bitlbee.org/) | 2025-10 | An IRC to other chat networks gateway :bee:... |
 | 287 | [whitequark/irclogger](https://github.com/whitequark/irclogger) | Ruby | [click](http://irclog.whitequark.org/) | 2025-12 | Simple and good-looking IRC log viewer. Logger is included. No strings are attached.... |
 | 228 | [ircdocs/modern-irc](https://github.com/ircdocs/modern-irc) | Sass | [click](http://modern.ircdocs.horse/) | 2025-10 | A useful overview and reference to the IRC client protocol as it is implemented today.... |
