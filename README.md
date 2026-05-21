@@ -12,7 +12,7 @@ Software used to connect to an IRC network. To help distinguish between projects
 
 | Stars | Repository | Language | Homepage | Latest Commit | Platforms |
 | ----: | :--------- | :------: | :------: | :-----------: | :-------- |
-| 6,241 | [thelounge/thelounge](https://github.com/thelounge/thelounge) | TypeScript | [click](https://thelounge.chat) | 2026-05 | `Browser` |
+| 6,244 | [thelounge/thelounge](https://github.com/thelounge/thelounge) | TypeScript | [click](https://thelounge.chat) | 2026-05 | `Browser` |
 | 4,151 | [squidowl/halloy](https://github.com/squidowl/halloy) | Rust | [click](https://halloy.chat/) | 2026-05 | `Desktop` |
 | 3,323 | [weechat/weechat](https://github.com/weechat/weechat) | C | [click](https://weechat.org) | 2026-05 | `Terminal` |
 | 3,111 | [irssi/irssi](https://github.com/irssi/irssi) | C | [click](https://irssi.org) | 2026-01 | `Terminal` |
@@ -21,7 +21,7 @@ Software used to connect to an IRC network. To help distinguish between projects
 | 1,166 | [osa1/tiny](https://github.com/osa1/tiny) | Rust | n/a | 2026-03 | `Terminal` |
 | 979 | [kiwiirc/kiwiirc](https://github.com/kiwiirc/kiwiirc) | Vue | [click](https://kiwiirc.com/) | 2026-05 | `Browser` |
 | 970 | [glowing-bear/glowing-bear](https://github.com/glowing-bear/glowing-bear) | JavaScript | [click](https://www.glowing-bear.org) | 2025-09 | `Browser` |
-| 778 | [quassel/quassel](https://github.com/quassel/quassel) | C++ | [click](https://quassel-irc.org/) | 2025-07 | `Desktop` |
+| 777 | [quassel/quassel](https://github.com/quassel/quassel) | C++ | [click](https://quassel-irc.org/) | 2025-07 | `Desktop` |
 | 547 | [mcpcpc/kirc](https://github.com/mcpcpc/kirc) | C | [click](https://kirc.dev/) | 2026-01 | `Terminal` |
 | 438 | [emacs-circe/circe](https://github.com/emacs-circe/circe) | Emacs Lisp | n/a | 2026-05 | |
 | 332 | [codyd51/uefirc](https://github.com/codyd51/uefirc) | Rust | [click](https://axleos.com/an-irc-client-in-your-motherboard/) | 2024-04 | |
@@ -41,7 +41,7 @@ Software used to connect to an IRC network. To help distinguish between projects
 | 69 | [Libera-Chat/gamja](https://github.com/Libera-Chat/gamja) | JavaScript | [click](https://codeberg.org/emersion/gamja) | 2024-04 | `Browser` |
 | 66 | [justjanne/QuasselDroid-ng](https://github.com/justjanne/QuasselDroid-ng) | Kotlin | [click](https://quasseldroid.info/) | 2023-09 | `Android` |
 | 60 | [communi/communi-desktop](https://github.com/communi/communi-desktop) | C++ | [click](https://communi.github.io/) | 2024-05 | `Desktop` |
-| 59 | [boxlabss/HexDroid](https://github.com/boxlabss/HexDroid) | Kotlin | [click](https://hexdroid.boxlabs.uk) | 2026-05 | `Android` |
+| 60 | [boxlabss/HexDroid](https://github.com/boxlabss/HexDroid) | Kotlin | [click](https://hexdroid.boxlabs.uk) | 2026-05 | `Android` |
 | 58 | [rockorager/comlink](https://github.com/rockorager/comlink) | Zig | n/a | 2026-05 | `Desktop` |
 | 56 | [KDE/konversation](https://github.com/KDE/konversation) | C++ | [click](https://invent.kde.org/network/konversation) | 2026-05 | `Desktop` |
 | 55 | [dgl/cgiirc](https://github.com/dgl/cgiirc) | Perl | [click](http://cgiirc.org) | 2023-06 | `Browser` |
@@ -85,12 +85,12 @@ IRC servers (daemons) are central points in an IRC network for clients to connec
 
 | Stars | Repository | Language | Homepage | Latest Commit |
 | ----: | :--------- | :------: | :------: | :-----------: |
-| 3,225 | [ergochat/ergo](https://github.com/ergochat/ergo) | Go | [click](https://ergo.chat/) | 2026-05 |
-| 1,322 | [inspircd/inspircd](https://github.com/inspircd/inspircd) | C++ | [click](https://www.inspircd.org) | 2026-05 |
+| 3,228 | [ergochat/ergo](https://github.com/ergochat/ergo) | Go | [click](https://ergo.chat/) | 2026-05 |
+| 1,323 | [inspircd/inspircd](https://github.com/inspircd/inspircd) | C++ | [click](https://www.inspircd.org) | 2026-05 |
 | 562 | [ngircd/ngircd](https://github.com/ngircd/ngircd) | C | [click](http://ngircd.barton.de/) | 2025-12 |
 | 515 | [unrealircd/unrealircd](https://github.com/unrealircd/unrealircd) | C | [click](https://www.unrealircd.org) | 2026-05 |
 | 451 | [jrosdahl/miniircd](https://github.com/jrosdahl/miniircd) | Python | n/a | 2025-02 |
-| 255 | [solanum-ircd/solanum](https://github.com/solanum-ircd/solanum) | C | [click](https://solanum.chat/) | 2026-05 |
+| 256 | [solanum-ircd/solanum](https://github.com/solanum-ircd/solanum) | C | [click](https://solanum.chat/) | 2026-05 |
 | 201 | [ircd-hybrid/ircd-hybrid](https://github.com/ircd-hybrid/ircd-hybrid) | C | [click](https://www.ircd-hybrid.org/) | 2026-05 |
 | 195 | [robustirc/robustirc](https://github.com/robustirc/robustirc) | Go | [click](https://robustirc.net/) | 2025-12 |
 | 63 | [UndernetIRC/ircu2](https://github.com/UndernetIRC/ircu2) | C | n/a | 2026-03 |
@@ -110,7 +110,7 @@ A bouncer is a piece of software that sits between a client and a server. Its pu
 
 | Stars | Repository | Language | Homepage | Latest Commit |
 | ----: | :--------- | :------: | :------: | :-----------: |
-| 2,108 | [znc/znc](https://github.com/znc/znc) | C++ | [click](https://znc.in/) | 2026-05 |
+| 2,110 | [znc/znc](https://github.com/znc/znc) | C++ | [click](https://znc.in/) | 2026-05 |
 | 30 | [freenode/jbnc](https://github.com/freenode/jbnc) | JavaScript | n/a | 2025-12 |
 
 ## Bots
@@ -140,7 +140,7 @@ Automated client software that can perform tasks in a channel such as moderation
 | 52 | [sbp/saxo](https://github.com/sbp/saxo) | Python | [click](http://inamidst.com/saxo/) | 2023-08 |
 | 51 | [lepinkainen/pyfibot](https://github.com/lepinkainen/pyfibot) | Python | n/a | 2026-04 |
 | 47 | [knrd1/chatgpt](https://github.com/knrd1/chatgpt) | Python | n/a | 2025-08 |
-| 44 | [molo1134/qrmbot](https://github.com/molo1134/qrmbot) | Perl | n/a | 2026-05 |
+| 45 | [molo1134/qrmbot](https://github.com/molo1134/qrmbot) | Perl | n/a | 2026-05 |
 | 41 | [StalkR/goircbot](https://github.com/StalkR/goircbot) | Go | [click](https://godoc.org/github.com/StalkR/goircbot) | 2026-04 |
 | 31 | [brenns10/cbot](https://github.com/brenns10/cbot) | C | n/a | 2025-11 |
 | 29 | [EnergyMech/energymech](https://github.com/EnergyMech/energymech) | C | n/a | 2025-12 |
