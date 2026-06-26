@@ -12,14 +12,14 @@ Software used to connect to an IRC network. To help distinguish between projects
 
 | Stars | Repository | Language | Homepage | Latest Commit | Platforms |
 | ----: | :--------- | :------: | :------: | :-----------: | :-------- |
-| 6,278 | [thelounge/thelounge](https://github.com/thelounge/thelounge) | TypeScript | [click](https://thelounge.chat) | 2026-06 | `Browser` |
-| 4,272 | [squidowl/halloy](https://github.com/squidowl/halloy) | Rust | [click](https://halloy.chat/) | 2026-06 | `Desktop` |
+| 6,280 | [thelounge/thelounge](https://github.com/thelounge/thelounge) | TypeScript | [click](https://thelounge.chat) | 2026-06 | `Browser` |
+| 4,274 | [squidowl/halloy](https://github.com/squidowl/halloy) | Rust | [click](https://halloy.chat/) | 2026-06 | `Desktop` |
 | 3,342 | [weechat/weechat](https://github.com/weechat/weechat) | C | [click](https://weechat.org) | 2026-06 | `Terminal` |
-| 3,119 | [irssi/irssi](https://github.com/irssi/irssi) | C | [click](https://irssi.org) | 2026-01 | `Terminal` |
+| 3,120 | [irssi/irssi](https://github.com/irssi/irssi) | C | [click](https://irssi.org) | 2026-01 | `Terminal` |
 | 1,464 | [thedjpetersen/subway](https://github.com/thedjpetersen/subway) | JavaScript | n/a | 2026-04 | `Browser` |
 | 1,185 | [convos-chat/convos](https://github.com/convos-chat/convos) | Go | [click](http://convos.chat) | 2026-05 | `Browser` |
 | 1,174 | [osa1/tiny](https://github.com/osa1/tiny) | Rust | n/a | 2026-03 | `Terminal` |
-| 979 | [kiwiirc/kiwiirc](https://github.com/kiwiirc/kiwiirc) | Vue | [click](https://kiwiirc.com/) | 2026-05 | `Browser` |
+| 980 | [kiwiirc/kiwiirc](https://github.com/kiwiirc/kiwiirc) | Vue | [click](https://kiwiirc.com/) | 2026-05 | `Browser` |
 | 974 | [glowing-bear/glowing-bear](https://github.com/glowing-bear/glowing-bear) | JavaScript | [click](https://www.glowing-bear.org) | 2026-06 | `Browser` |
 | 784 | [quassel/quassel](https://github.com/quassel/quassel) | C++ | [click](https://quassel-irc.org/) | 2025-07 | `Desktop` |
 | 546 | [mcpcpc/kirc](https://github.com/mcpcpc/kirc) | C | [click](https://kirc.dev/) | 2026-01 | `Terminal` |
@@ -55,8 +55,8 @@ Software used to connect to an IRC network. To help distinguish between projects
 | 27 | [uhlin/swirc](https://github.com/uhlin/swirc) | C++ | [click](https://www.nifty-networks.net/swirc/) | 2026-04 | `Terminal` |
 | 27 | [shadmansaleh/IRC.nvim](https://github.com/shadmansaleh/IRC.nvim) | Lua | n/a | 2025-03 | |
 | 26 | [nutjob-laboratories/erk](https://github.com/nutjob-laboratories/erk) | Python | n/a | 2025-03 | `Desktop` |
+| 26 | [parenworks/clatter.el](https://github.com/parenworks/clatter.el) | Emacs Lisp | n/a | 2026-06 | |
 | 25 | [robur-coop/catty](https://github.com/robur-coop/catty) | OCaml | n/a | 2023-09 | `Terminal` |
-| 25 | [parenworks/clatter.el](https://github.com/parenworks/clatter.el) | Emacs Lisp | n/a | 2026-06 | |
 | 24 | [Jbablestime/jbIRC](https://github.com/Jbablestime/jbIRC) | JavaScript | n/a | 2026-02 | `Desktop` |
 | 24 | [AndroidIRCx/AndroidIRCx](https://github.com/AndroidIRCx/AndroidIRCx) | TypeScript | [click](https://androidircx.com) | 2026-06 | `Android` |
 | 22 | [SweMonkey/smdt](https://github.com/SweMonkey/smdt) | C | n/a | 2026-03 | |
