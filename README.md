@@ -13,9 +13,9 @@ Software used to connect to an IRC network. To help distinguish between projects
 | Stars | Repository | Language | Homepage | Latest Commit | Platforms |
 | ----: | :--------- | :------: | :------: | :-----------: | :-------- |
 | 6,301 | [thelounge/thelounge](https://github.com/thelounge/thelounge) | TypeScript | [click](https://thelounge.chat) | 2026-07 | `Browser` |
-| 4,342 | [squidowl/halloy](https://github.com/squidowl/halloy) | Rust | [click](https://halloy.chat/) | 2026-07 | `Desktop` |
-| 3,354 | [weechat/weechat](https://github.com/weechat/weechat) | C | [click](https://weechat.org) | 2026-07 | `Terminal` |
-| 3,126 | [irssi/irssi](https://github.com/irssi/irssi) | C | [click](https://irssi.org) | 2026-01 | `Terminal` |
+| 4,343 | [squidowl/halloy](https://github.com/squidowl/halloy) | Rust | [click](https://halloy.chat/) | 2026-07 | `Desktop` |
+| 3,356 | [weechat/weechat](https://github.com/weechat/weechat) | C | [click](https://weechat.org) | 2026-07 | `Terminal` |
+| 3,127 | [irssi/irssi](https://github.com/irssi/irssi) | C | [click](https://irssi.org) | 2026-01 | `Terminal` |
 | 1,465 | [thedjpetersen/subway](https://github.com/thedjpetersen/subway) | JavaScript | n/a | 2026-04 | `Browser` |
 | 1,189 | [convos-chat/convos](https://github.com/convos-chat/convos) | Go | [click](http://convos.chat) | 2026-07 | `Browser` |
 | 1,178 | [osa1/tiny](https://github.com/osa1/tiny) | Rust | n/a | 2026-03 | `Terminal` |
@@ -37,10 +37,10 @@ Software used to connect to an IRC network. To help distinguish between projects
 | 112 | [nhexirc/nhex](https://github.com/nhexirc/nhex) | TypeScript | n/a | 2024-11 | `Desktop` |
 | 109 | [LithApp/Lith](https://github.com/LithApp/Lith) | C++ | [click](https://lith.app) | 2026-03 | `iOS` |
 | 80 | [boxlabss/HexDroid](https://github.com/boxlabss/HexDroid) | Kotlin | [click](https://hexdroid.boxlabs.uk) | 2026-07 | `Android` |
-| 75 | [amiantos/lurker](https://github.com/amiantos/lurker) | TypeScript | [click](https://lurker.chat) | 2026-07 | `Browser` |
+| 76 | [amiantos/lurker](https://github.com/amiantos/lurker) | TypeScript | [click](https://lurker.chat) | 2026-07 | `Browser` |
 | 66 | [justjanne/QuasselDroid-ng](https://github.com/justjanne/QuasselDroid-ng) | Kotlin | [click](https://quasseldroid.info/) | 2023-09 | `Android` |
 | 66 | [Libera-Chat/gamja](https://github.com/Libera-Chat/gamja) | JavaScript | [click](https://codeberg.org/emersion/gamja) | 2024-04 | `Browser` |
-| 62 | [nutjob-laboratories/merk](https://github.com/nutjob-laboratories/merk) | Python | n/a | 2026-07 | `Desktop` |
+| 63 | [nutjob-laboratories/merk](https://github.com/nutjob-laboratories/merk) | Python | n/a | 2026-07 | `Desktop` |
 | 60 | [communi/communi-desktop](https://github.com/communi/communi-desktop) | C++ | [click](https://communi.github.io/) | 2024-05 | `Desktop` |
 | 57 | [KDE/konversation](https://github.com/KDE/konversation) | C++ | [click](https://invent.kde.org/network/konversation) | 2026-07 | `Desktop` |
 | 57 | [rockorager/comlink](https://github.com/rockorager/comlink) | Zig | n/a | 2026-05 | `Desktop` |
@@ -63,7 +63,7 @@ Software used to connect to an IRC network. To help distinguish between projects
 | 18 | [wodencafe/ircafe](https://github.com/wodencafe/ircafe) | Java | n/a | 2026-06 | `Desktop` |
 | 17 | [umutcamliyurt/IrisChat](https://github.com/umutcamliyurt/IrisChat) | Java | n/a | 2026-07 | `Android` |
 | 16 | [matty-r/urChat](https://github.com/matty-r/urChat) | Java | n/a | 2024-03 | `Desktop` |
-| 15 | [outragedevs/repartee](https://github.com/outragedevs/repartee) | Rust | n/a | 2026-07 | `Terminal` |
+| 16 | [outragedevs/repartee](https://github.com/outragedevs/repartee) | Rust | n/a | 2026-07 | `Terminal` |
 | 14 | [SwiftIRC/Web-IRC](https://github.com/SwiftIRC/Web-IRC) | JavaScript | [click](https://chat.swiftirc.net) | 2025-12 | `Browser` |
 | 14 | [gotr00t0day/rootX](https://github.com/gotr00t0day/rootX) | Python | n/a | 2025-12 | `Desktop` |
 | 13 | [HaikuArchives/Vision](https://github.com/HaikuArchives/Vision) | C++ | n/a | 2025-12 | `Desktop` |
@@ -78,6 +78,7 @@ Software used to connect to an IRC network. To help distinguish between projects
 | 11 | [Akuli/mantaray](https://github.com/Akuli/mantaray) | Python | n/a | 2026-06 | `Desktop` |
 | 11 | [dzwdz/hewwo](https://github.com/dzwdz/hewwo) | Lua | n/a | 2024-05 | `Terminal` |
 | 11 | [nathanborror/Rabble](https://github.com/nathanborror/Rabble) | Swift | n/a | 2025-10 | |
+| 11 | [prime001/BitchX](https://github.com/prime001/BitchX) | C | n/a | 2026-03 | `Terminal` |
 | 10 | [dayvonjersen/chopsuey](https://github.com/dayvonjersen/chopsuey) | Go | n/a | 2023-09 | `Desktop` |
 
 ## Servers
@@ -88,7 +89,7 @@ IRC servers (daemons) are central points in an IRC network for clients to connec
 | ----: | :--------- | :------: | :------: | :-----------: |
 | 3,284 | [ergochat/ergo](https://github.com/ergochat/ergo) | Go | [click](https://ergo.chat/) | 2026-07 |
 | 1,334 | [inspircd/inspircd](https://github.com/inspircd/inspircd) | C++ | [click](https://www.inspircd.org) | 2026-07 |
-| 571 | [ngircd/ngircd](https://github.com/ngircd/ngircd) | C | [click](http://ngircd.barton.de/) | 2026-07 |
+| 572 | [ngircd/ngircd](https://github.com/ngircd/ngircd) | C | [click](http://ngircd.barton.de/) | 2026-07 |
 | 520 | [unrealircd/unrealircd](https://github.com/unrealircd/unrealircd) | C | [click](https://www.unrealircd.org) | 2026-07 |
 | 450 | [jrosdahl/miniircd](https://github.com/jrosdahl/miniircd) | Python | n/a | 2025-02 |
 | 257 | [solanum-ircd/solanum](https://github.com/solanum-ircd/solanum) | C | [click](https://solanum.chat/) | 2026-07 |
@@ -110,7 +111,7 @@ A bouncer is a piece of software that sits between a client and a server. Its pu
 
 | Stars | Repository | Language | Homepage | Latest Commit |
 | ----: | :--------- | :------: | :------: | :-----------: |
-| 2,121 | [znc/znc](https://github.com/znc/znc) | C++ | [click](https://znc.in/) | 2026-07 |
+| 2,122 | [znc/znc](https://github.com/znc/znc) | C++ | [click](https://znc.in/) | 2026-07 |
 | 30 | [freenode/jbnc](https://github.com/freenode/jbnc) | JavaScript | n/a | 2025-12 |
 
 ## Bots
@@ -186,7 +187,7 @@ Miscellaneous software and resources of interest.
 | 230 | [ircdocs/modern-irc](https://github.com/ircdocs/modern-irc) | Sass | [click](http://modern.ircdocs.horse/) | 2025-10 | A useful overview and reference to the IRC client protocol as it is implemented today.... |
 | 124 | [irccloud/irccat](https://github.com/irccloud/irccat) | Go | n/a | 2026-03 | cat to IRC... |
 | 103 | [tommyrot/superseriousstats](https://github.com/tommyrot/superseriousstats) | PHP | n/a | 2026-05 | superseriousstats is a fast and efficient program to create statistics out of IRC chat logs... |
-| 89 | [mgedmin/irclog2html](https://github.com/mgedmin/irclog2html) | Python | [click](http://mg.pov.lt/irclog2html/) | 2026-05 | Convert IRC logs to HTML... |
+| 89 | [mgedmin/irclog2html](https://github.com/mgedmin/irclog2html) | Python | [click](http://mg.pov.lt/irclog2html/) | 2026-07 | Convert IRC logs to HTML... |
 | 65 | [ircdocs/irc-defs](https://github.com/ircdocs/irc-defs) | HTML | [click](http://defs.ircdocs.horse/) | 2025-03 | More up-to-date IRC Definition Lists... |
 | 57 | [bagder/irchistory](https://github.com/bagder/irchistory) | n/a | [click](https://daniel.haxx.se/irchistory.html) | 2025-09 | The history of IRC... |
 | 56 | [grawity/irc-docs](https://github.com/grawity/irc-docs) | HTML | n/a | 2022-07 | Collected IRC protocol documentation... |
