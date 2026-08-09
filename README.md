@@ -12,9 +12,9 @@ Software used to connect to an IRC network. To help distinguish between projects
 
 | Stars | Repository | Language | Homepage | Latest Commit | Platforms |
 | ----: | :--------- | :------: | :------: | :-----------: | :-------- |
-| 6,310 | [thelounge/thelounge](https://github.com/thelounge/thelounge) | TypeScript | [click](https://thelounge.chat) | 2026-07 | `Browser` |
-| 4,375 | [squidowl/halloy](https://github.com/squidowl/halloy) | Rust | [click](https://halloy.chat/) | 2026-08 | `Desktop` |
-| 3,366 | [weechat/weechat](https://github.com/weechat/weechat) | C | [click](https://weechat.org) | 2026-07 | `Terminal` |
+| 6,311 | [thelounge/thelounge](https://github.com/thelounge/thelounge) | TypeScript | [click](https://thelounge.chat) | 2026-07 | `Browser` |
+| 4,382 | [squidowl/halloy](https://github.com/squidowl/halloy) | Rust | [click](https://halloy.chat/) | 2026-08 | `Desktop` |
+| 3,365 | [weechat/weechat](https://github.com/weechat/weechat) | C | [click](https://weechat.org) | 2026-08 | `Terminal` |
 | 3,129 | [irssi/irssi](https://github.com/irssi/irssi) | C | [click](https://irssi.org) | 2026-01 | `Terminal` |
 | 1,465 | [thedjpetersen/subway](https://github.com/thedjpetersen/subway) | JavaScript | n/a | 2026-04 | `Browser` |
 | 1,188 | [convos-chat/convos](https://github.com/convos-chat/convos) | Go | [click](http://convos.chat) | 2026-07 | `Browser` |
@@ -49,8 +49,8 @@ Software used to connect to an IRC network. To help distinguish between projects
 | 39 | [communi/communi-sailfish](https://github.com/communi/communi-sailfish) | C++ | n/a | 2024-05 | |
 | 38 | [HydraIRC/hydrairc](https://github.com/HydraIRC/hydrairc) | C++ | n/a | 2026-04 | `Desktop` |
 | 37 | [delthas/senpai](https://github.com/delthas/senpai) | Go | [click](https://sr.ht/~delthas/senpai/) | 2026-06 | `Terminal` |
-| 35 | [ZoiteChat/zoitechat](https://github.com/ZoiteChat/zoitechat) | C | [click](https://zoitechat.org) | 2026-07 | `Desktop` |
 | 35 | [parenworks/clatter.el](https://github.com/parenworks/clatter.el) | Emacs Lisp | n/a | 2026-07 | |
+| 34 | [ZoiteChat/zoitechat](https://github.com/ZoiteChat/zoitechat) | C | [click](https://zoitechat.org) | 2026-07 | `Desktop` |
 | 27 | [uhlin/swirc](https://github.com/uhlin/swirc) | C++ | [click](https://www.nifty-networks.net/swirc/) | 2026-07 | `Terminal` |
 | 27 | [shadmansaleh/IRC.nvim](https://github.com/shadmansaleh/IRC.nvim) | Lua | n/a | 2025-03 | |
 | 27 | [SweMonkey/smdt](https://github.com/SweMonkey/smdt) | C | n/a | 2026-03 | |
@@ -87,7 +87,7 @@ IRC servers (daemons) are central points in an IRC network for clients to connec
 
 | Stars | Repository | Language | Homepage | Latest Commit |
 | ----: | :--------- | :------: | :------: | :-----------: |
-| 3,289 | [ergochat/ergo](https://github.com/ergochat/ergo) | Go | [click](https://ergo.chat/) | 2026-07 |
+| 3,292 | [ergochat/ergo](https://github.com/ergochat/ergo) | Go | [click](https://ergo.chat/) | 2026-07 |
 | 1,338 | [inspircd/inspircd](https://github.com/inspircd/inspircd) | C++ | [click](https://www.inspircd.org) | 2026-08 |
 | 574 | [ngircd/ngircd](https://github.com/ngircd/ngircd) | C | [click](http://ngircd.barton.de/) | 2026-07 |
 | 521 | [unrealircd/unrealircd](https://github.com/unrealircd/unrealircd) | C | [click](https://www.unrealircd.org) | 2026-07 |
@@ -123,7 +123,7 @@ Automated client software that can perform tasks in a channel such as moderation
 | 981 | [sopel-irc/sopel](https://github.com/sopel-irc/sopel) | Python | [click](https://sopel.chat) | 2026-05 |
 | 668 | [progval/Limnoria](https://github.com/progval/Limnoria) | Python | [click](https://docs.limnoria.net/) | 2026-07 |
 | 577 | [eggheads/eggdrop](https://github.com/eggheads/eggdrop) | C | n/a | 2026-08 |
-| 419 | [ArchiveTeam/ArchiveBot](https://github.com/ArchiveTeam/ArchiveBot) | Python | [click](http://www.archiveteam.org/index.php?title=ArchiveBot) | 2026-04 |
+| 418 | [ArchiveTeam/ArchiveBot](https://github.com/ArchiveTeam/ArchiveBot) | Python | [click](http://www.archiveteam.org/index.php?title=ArchiveBot) | 2026-04 |
 | 291 | [CloudBotIRC/CloudBot](https://github.com/CloudBotIRC/CloudBot) | Python | n/a | 2026-02 |
 | 248 | [rmmh/skybot](https://github.com/rmmh/skybot) | Python | [click](https://github.com/rmmh/skybot/wiki) | 2026-07 |
 | 183 | [TotallyNotRobots/CloudBot](https://github.com/TotallyNotRobots/CloudBot) | Python | n/a | 2026-08 |
@@ -131,6 +131,7 @@ Automated client software that can perform tasks in a channel such as moderation
 | 167 | [lambdabot/lambdabot](https://github.com/lambdabot/lambdabot) | Haskell | n/a | 2025-05 |
 | 104 | [johnmaguire/Cardinal](https://github.com/johnmaguire/Cardinal) | Python | n/a | 2026-07 |
 | 81 | [pyhoneybot/honeybot](https://github.com/pyhoneybot/honeybot) | Python | [click](https://pyhoneybot.github.io/honeybot-store/) | 2024-09 |
+| 80 | [gdamjan/erlang-irc-bot](https://github.com/gdamjan/erlang-irc-bot) | Erlang | [click](http://github.com/gdamjan/erlang-irc-bot/wiki) | 2026-08 |
 | 79 | [baines/insobot](https://github.com/baines/insobot) | C | n/a | 2025-03 |
 | 78 | [wraith/wraith](https://github.com/wraith/wraith) | C++ | [click](http://wraith.botpack.net) | 2026-02 |
 | 76 | [boreq/botnet](https://github.com/boreq/botnet) | Python | n/a | 2026-08 |
@@ -159,7 +160,7 @@ Automated client software that can perform tasks in a channel such as moderation
 | 16 | [ugjka/newyearsbot](https://github.com/ugjka/newyearsbot) | Go | n/a | 2025-12 |
 | 16 | [m0de-60/super-duckhunt-bot](https://github.com/m0de-60/super-duckhunt-bot) | Python | n/a | 2026-05 |
 | 15 | [tjcsl/cslbot](https://github.com/tjcsl/cslbot) | Python | n/a | 2026-04 |
-| 14 | [lwatsondev/cappuccino](https://github.com/lwatsondev/cappuccino) | Python | n/a | 2026-07 |
+| 14 | [lwatsondev/cappuccino](https://github.com/lwatsondev/cappuccino) | Python | n/a | 2026-08 |
 | 14 | [fade/harlie](https://github.com/fade/harlie) | Common Lisp | n/a | 2026-06 |
 | 13 | [bbriggs/bitbot](https://github.com/bbriggs/bitbot) | Go | n/a | 2023-09 |
 | 13 | [cakephp/irc.cakephp.org](https://github.com/cakephp/irc.cakephp.org) | PHP | [click](http://irc.cakephp.org) | 2024-12 |
