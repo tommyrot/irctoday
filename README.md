@@ -12,11 +12,11 @@ Software used to connect to an IRC network. To help distinguish between projects
 
 | Stars | Repository | Language | Homepage | Latest Commit | Platforms |
 | ----: | :--------- | :------: | :------: | :-----------: | :-------- |
-| 6,356 | [thelounge/thelounge](https://github.com/thelounge/thelounge) | TypeScript | [click](https://thelounge.chat) | 2026-09 | `Browser` |
+| 6,358 | [thelounge/thelounge](https://github.com/thelounge/thelounge) | TypeScript | [click](https://thelounge.chat) | 2026-09 | `Browser` |
 | 4,551 | [squidowl/halloy](https://github.com/squidowl/halloy) | Rust | [click](https://halloy.chat/) | 2026-10 | `Desktop` |
-| 3,406 | [weechat/weechat](https://github.com/weechat/weechat) | C | [click](https://weechat.org) | 2026-10 | `Terminal` |
+| 3,407 | [weechat/weechat](https://github.com/weechat/weechat) | C | [click](https://weechat.org) | 2026-10 | `Terminal` |
 | 3,158 | [irssi/irssi](https://github.com/irssi/irssi) | C | [click](https://irssi.org) | 2026-01 | `Terminal` |
-| 1,916 | [blendbyte/Textual](https://github.com/blendbyte/Textual) | Objective-C | [click](https://www.textualapp.com) | 2026-10 | `Desktop` |
+| 1,917 | [blendbyte/Textual](https://github.com/blendbyte/Textual) | Objective-C | [click](https://www.textualapp.com) | 2026-10 | `Desktop` |
 | 1,465 | [thedjpetersen/subway](https://github.com/thedjpetersen/subway) | JavaScript | n/a | 2026-04 | `Browser` |
 | 1,196 | [convos-chat/convos](https://github.com/convos-chat/convos) | Go | [click](http://convos.chat) | 2026-10 | `Browser` |
 | 1,174 | [osa1/tiny](https://github.com/osa1/tiny) | Rust | n/a | 2026-03 | `Terminal` |
@@ -29,7 +29,7 @@ Software used to connect to an IRC network. To help distinguish between projects
 | 332 | [codyd51/uefirc](https://github.com/codyd51/uefirc) | Rust | [click](https://axleos.com/an-irc-client-in-your-motherboard/) | 2024-04 | |
 | 322 | [babycommando/zuse](https://github.com/babycommando/zuse) | Go | n/a | 2025-07 | `Terminal` |
 | 314 | [irccloud/android](https://github.com/irccloud/android) | Java | n/a | 2026-04 | `Android` |
-| 307 | [kvirc/KVIrc](https://github.com/kvirc/KVIrc) | C++ | [click](http://www.kvirc.net/) | 2026-06 | `Desktop` |
+| 308 | [kvirc/KVIrc](https://github.com/kvirc/KVIrc) | C++ | [click](http://www.kvirc.net/) | 2026-06 | `Desktop` |
 | 300 | [irccloud/ios](https://github.com/irccloud/ios) | Objective-C | n/a | 2026-09 | `iOS` |
 | 237 | [obbyworld/obby](https://github.com/obbyworld/obby) | TypeScript | [click](https://hello.obby.world) | 2026-09 | `Desktop` |
 | 187 | [meebey/smuxi](https://github.com/meebey/smuxi) | C# | [click](https://smuxi.im/) | 2025-12 | `Desktop` |
@@ -90,7 +90,7 @@ IRC servers (daemons) are central points in an IRC network for clients to connec
 | Stars | Repository | Language | Homepage | Latest Commit |
 | ----: | :--------- | :------: | :------: | :-----------: |
 | 3,350 | [ergochat/ergo](https://github.com/ergochat/ergo) | Go | [click](https://ergo.chat/) | 2026-10 |
-| 1,356 | [inspircd/inspircd](https://github.com/inspircd/inspircd) | C++ | [click](https://www.inspircd.org) | 2026-10 |
+| 1,358 | [inspircd/inspircd](https://github.com/inspircd/inspircd) | C++ | [click](https://www.inspircd.org) | 2026-10 |
 | 581 | [ngircd/ngircd](https://github.com/ngircd/ngircd) | C | [click](http://ngircd.barton.de/) | 2026-07 |
 | 525 | [unrealircd/unrealircd](https://github.com/unrealircd/unrealircd) | C | [click](https://www.unrealircd.org) | 2026-10 |
 | 454 | [jrosdahl/miniircd](https://github.com/jrosdahl/miniircd) | Python | n/a | 2025-02 |
@@ -98,7 +98,6 @@ IRC servers (daemons) are central points in an IRC network for clients to connec
 | 200 | [ircd-hybrid/ircd-hybrid](https://github.com/ircd-hybrid/ircd-hybrid) | C | [click](https://www.ircd-hybrid.org/) | 2026-10 |
 | 194 | [robustirc/robustirc](https://github.com/robustirc/robustirc) | Go | [click](https://robustirc.net/) | 2026-05 |
 | 64 | [UndernetIRC/ircu2](https://github.com/UndernetIRC/ircu2) | C | n/a | 2026-10 |
-| 35 | [tgiachi/abyssirc-server](https://github.com/tgiachi/abyssirc-server) | C# | n/a | 2026-02 |
 | 28 | [provisionircd/ProvisionIRCd](https://github.com/provisionircd/ProvisionIRCd) | Python | n/a | 2026-01 |
 | 22 | [ircnet/ircd](https://github.com/ircnet/ircd) | C | n/a | 2026-04 |
 | 21 | [matszpk/simple-irc-server](https://github.com/matszpk/simple-irc-server) | Rust | n/a | 2024-09 |
@@ -125,8 +124,8 @@ Automated client software that can perform tasks in a channel such as moderation
 | Stars | Repository | Language | Homepage | Latest Commit |
 | ----: | :--------- | :------: | :------: | :-----------: |
 | 982 | [sopel-irc/sopel](https://github.com/sopel-irc/sopel) | Python | [click](https://sopel.chat) | 2026-10 |
-| 674 | [progval/Limnoria](https://github.com/progval/Limnoria) | Python | [click](https://docs.limnoria.net/) | 2026-10 |
-| 583 | [eggheads/eggdrop](https://github.com/eggheads/eggdrop) | C | n/a | 2026-10 |
+| 675 | [progval/Limnoria](https://github.com/progval/Limnoria) | Python | [click](https://docs.limnoria.net/) | 2026-10 |
+| 584 | [eggheads/eggdrop](https://github.com/eggheads/eggdrop) | C | n/a | 2026-10 |
 | 425 | [ArchiveTeam/ArchiveBot](https://github.com/ArchiveTeam/ArchiveBot) | Python | [click](http://www.archiveteam.org/index.php?title=ArchiveBot) | 2026-09 |
 | 292 | [CloudBotIRC/CloudBot](https://github.com/CloudBotIRC/CloudBot) | Python | n/a | 2026-02 |
 | 248 | [rmmh/skybot](https://github.com/rmmh/skybot) | Python | [click](https://github.com/rmmh/skybot/wiki) | 2026-09 |
@@ -194,7 +193,7 @@ Miscellaneous software and resources of interest.
 | 56 | [grawity/irc-docs](https://github.com/grawity/irc-docs) | HTML | n/a | 2022-07 | Collected IRC protocol documentation... |
 | 49 | [ergochat/ircdog](https://github.com/ergochat/ircdog) | Go | n/a | 2026-08 | a tool for sending and receiving raw IRC protocol lines... |
 | 46 | [waveplate/img2irc](https://github.com/waveplate/img2irc) | Rust | n/a | 2026-10 | a highly versatile, award-winning image to IRC/ANSI art tool... |
-| 46 | [zopieux/ircjournal](https://github.com/zopieux/ircjournal) | Rust | n/a | 2025-03 | A lightweight, fast, standalone IRC log viewer for the web, with real-time log ingestion. This code was written before LLMs were a thing and will remain so.... |
+| 46 | [zopieux/ircjournal](https://github.com/zopieux/ircjournal) | Rust | n/a | 2026-10 | A lightweight, fast, standalone IRC log viewer for the web, with real-time log ingestion. This code was written before LLMs were a thing and will remain so.... |
 | 35 | [birdneststream/asciibird](https://github.com/birdneststream/asciibird) | TypeScript | [click](https://asciibird.birdnest.live/) | 2026-09 | ASCII Creation... |
 | 22 | [homeworkprod/syslog2irc](https://github.com/homeworkprod/syslog2irc) | Python | [click](http://homework.nwsnet.de/releases/c474/#syslog2irc) | 2021-12 | Forward syslog messages to IRC... |
 
