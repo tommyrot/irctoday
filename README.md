@@ -12,13 +12,13 @@ Software used to connect to an IRC network. To help distinguish between projects
 
 | Stars | Repository | Language | Homepage | Latest Commit | Platforms |
 | ----: | :--------- | :------: | :------: | :-----------: | :-------- |
-| 6,360 | [thelounge/thelounge](https://github.com/thelounge/thelounge) | TypeScript | [click](https://thelounge.chat) | 2026-10 | `Browser` |
-| 4,568 | [squidowl/halloy](https://github.com/squidowl/halloy) | Rust | [click](https://halloy.chat/) | 2026-10 | `Desktop` |
-| 3,417 | [weechat/weechat](https://github.com/weechat/weechat) | C | [click](https://weechat.org) | 2026-10 | `Terminal` |
+| 6,361 | [thelounge/thelounge](https://github.com/thelounge/thelounge) | TypeScript | [click](https://thelounge.chat) | 2026-10 | `Browser` |
+| 4,571 | [squidowl/halloy](https://github.com/squidowl/halloy) | Rust | [click](https://halloy.chat/) | 2026-10 | `Desktop` |
+| 3,418 | [weechat/weechat](https://github.com/weechat/weechat) | C | [click](https://weechat.org) | 2026-10 | `Terminal` |
 | 3,162 | [irssi/irssi](https://github.com/irssi/irssi) | C | [click](https://irssi.org) | 2026-01 | `Terminal` |
 | 1,922 | [blendbyte/Textual](https://github.com/blendbyte/Textual) | Objective-C | [click](https://www.textualapp.com) | 2026-10 | `Desktop` |
 | 1,464 | [thedjpetersen/subway](https://github.com/thedjpetersen/subway) | JavaScript | n/a | 2026-04 | `Browser` |
-| 1,195 | [convos-chat/convos](https://github.com/convos-chat/convos) | Go | [click](http://convos.chat) | 2026-10 | `Browser` |
+| 1,194 | [convos-chat/convos](https://github.com/convos-chat/convos) | Go | [click](http://convos.chat) | 2026-10 | `Browser` |
 | 1,175 | [osa1/tiny](https://github.com/osa1/tiny) | Rust | n/a | 2026-03 | `Terminal` |
 | 989 | [kiwiirc/kiwiirc](https://github.com/kiwiirc/kiwiirc) | Vue | [click](https://kiwiirc.com/) | 2026-05 | `Browser` |
 | 981 | [glowing-bear/glowing-bear](https://github.com/glowing-bear/glowing-bear) | JavaScript | [click](https://www.glowing-bear.org) | 2026-08 | `Browser` |
@@ -44,14 +44,14 @@ Software used to connect to an IRC network. To help distinguish between projects
 | 60 | [communi/communi-desktop](https://github.com/communi/communi-desktop) | C++ | [click](https://communi.github.io/) | 2024-05 | `Desktop` |
 | 58 | [KDE/konversation](https://github.com/KDE/konversation) | C++ | [click](https://invent.kde.org/network/konversation) | 2026-10 | `Desktop` |
 | 58 | [rockorager/comlink](https://github.com/rockorager/comlink) | Zig | n/a | 2026-08 | `Desktop` |
-| 53 | [ZoiteChat/zoitechat](https://github.com/ZoiteChat/zoitechat) | C | [click](https://zoitechat.org) | 2026-10 | `Desktop` |
+| 54 | [ZoiteChat/zoitechat](https://github.com/ZoiteChat/zoitechat) | C | [click](https://zoitechat.org) | 2026-10 | `Desktop` |
 | 49 | [ScrollZ/ScrollZ](https://github.com/ScrollZ/ScrollZ) | C | n/a | 2026-08 | `Terminal` |
 | 47 | [mhoran/weechatRN](https://github.com/mhoran/weechatRN) | TypeScript | n/a | 2026-10 | `iOS` |
 | 44 | [nmeum/hii](https://github.com/nmeum/hii) | Go | n/a | 2026-08 | `Terminal` |
 | 40 | [delthas/senpai](https://github.com/delthas/senpai) | Go | [click](https://sr.ht/~delthas/senpai/) | 2026-10 | `Terminal` |
 | 39 | [communi/communi-sailfish](https://github.com/communi/communi-sailfish) | C++ | n/a | 2024-05 | |
 | 39 | [HydraIRC/hydrairc](https://github.com/HydraIRC/hydrairc) | C++ | n/a | 2026-04 | `Desktop` |
-| 38 | [parenworks/clatter.el](https://github.com/parenworks/clatter.el) | Emacs Lisp | n/a | 2026-10 | |
+| 39 | [parenworks/clatter.el](https://github.com/parenworks/clatter.el) | Emacs Lisp | n/a | 2026-10 | |
 | 36 | [trevarj/motd](https://github.com/trevarj/motd) | Kotlin | [click](http://trevs.site/motd/) | 2026-10 | `Android` |
 | 31 | [AndroidIRCx/AndroidIRCx](https://github.com/AndroidIRCx/AndroidIRCx) | TypeScript | [click](https://androidircx.com) | 2026-10 | `Android` |
 | 28 | [SweMonkey/smdt](https://github.com/SweMonkey/smdt) | C | n/a | 2026-08 | |
@@ -89,7 +89,7 @@ IRC servers (daemons) are central points in an IRC network for clients to connec
 
 | Stars | Repository | Language | Homepage | Latest Commit |
 | ----: | :--------- | :------: | :------: | :-----------: |
-| 3,355 | [ergochat/ergo](https://github.com/ergochat/ergo) | Go | [click](https://ergo.chat/) | 2026-10 |
+| 3,356 | [ergochat/ergo](https://github.com/ergochat/ergo) | Go | [click](https://ergo.chat/) | 2026-10 |
 | 1,357 | [inspircd/inspircd](https://github.com/inspircd/inspircd) | C++ | [click](https://www.inspircd.org) | 2026-10 |
 | 582 | [ngircd/ngircd](https://github.com/ngircd/ngircd) | C | [click](http://ngircd.barton.de/) | 2026-10 |
 | 527 | [unrealircd/unrealircd](https://github.com/unrealircd/unrealircd) | C | [click](https://www.unrealircd.org) | 2026-10 |
